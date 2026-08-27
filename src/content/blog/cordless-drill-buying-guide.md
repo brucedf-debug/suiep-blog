@@ -4,6 +4,7 @@ description: "Voltage, chuck size, brushless motors — a plain-English guide to
 pubDate: 2026-08-10
 category: tools-reviews
 tags: ["tools", "buying guide", "cordless drill"]
+heroImage: "../../assets/blog/cordless-drill-hero.jpg"
 ---
 
 Drill specs are designed to sound impressive on a shelf tag, but only a few numbers actually matter for how a drill performs. Here's what to actually check before you buy.
@@ -23,6 +24,8 @@ Brushless motors cost more but run cooler, last longer, and squeeze more runtime
 ## Chuck Size
 
 A 1/2" chuck accepts larger bits than a 3/8" chuck, which matters if you plan to drill large holes for plumbing or wiring. Most homeowner-grade drills use 1/2" today, so it's rarely a deciding factor anymore.
+
+![A hand driving a screw with a cordless drill, chuck and bit in sharp focus](../../assets/blog/cordless-drill-driving-screw.jpg)
 
 ## Battery Platform Matters More Than the Drill
 

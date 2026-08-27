@@ -4,6 +4,7 @@ description: "The best houseplants for dark apartments and north-facing rooms, r
 pubDate: 2026-08-15
 category: indoor-plants
 tags: ["low light plants", "houseplants", "beginner"]
+heroImage: "../../assets/blog/low-light-plants-hero.jpg"
 ---
 
 "Low light" doesn't mean "no light" — every plant needs some, even if it's just ambient light from a north-facing window. But these ten species tolerate dim corners better than almost anything else you can buy.
@@ -11,6 +12,8 @@ tags: ["low light plants", "houseplants", "beginner"]
 ## 1. Snake Plant (Dracaena trifasciata)
 
 Nearly indestructible. Tolerates low light and irregular watering, and its upright leaves work well in tight spaces like hallways.
+
+![A healthy snake plant in a ceramic pot on a windowsill](../../assets/blog/low-light-plants-snake-plant.jpg)
 
 ## 2. ZZ Plant (Zamioculcas zamiifolia)
 

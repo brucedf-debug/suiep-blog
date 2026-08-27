@@ -4,6 +4,7 @@ description: "A step-by-step guide to building a sturdy raised garden bed from u
 pubDate: 2026-08-20
 category: diy-projects
 tags: ["raised beds", "garden building", "beginner"]
+heroImage: "../../assets/blog/raised-bed-hero.jpg"
 ---
 
 Raised garden beds are one of the fastest ways to go from bare yard to productive garden. They warm up faster in spring, drain better than in-ground beds, and keep weeds and foot traffic out of your growing space. Here's how to build one in an afternoon.
@@ -30,6 +31,8 @@ For an 8' x 4' bed:
 ## Step 3: Assemble the Frame
 
 Attach the boards to the 4x4 corner posts using two screws per board-to-post connection, stacking two boards high per side for roughly 20" of depth. Pre-drill to avoid splitting the cedar.
+
+![Hands assembling a cedar raised garden bed frame with a drill](../../assets/blog/raised-bed-assembly.jpg)
 
 ## Step 4: Place and Fill
 

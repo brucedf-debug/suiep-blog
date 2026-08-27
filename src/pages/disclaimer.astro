@@ -1,0 +1,36 @@
+---
+import Layout from '../layouts/Layout.astro';
+const contactEmail = 'hello@suiep.com';
+---
+
+<Layout title="Disclaimer" description="Affiliate, safety, and general disclaimers for Suiep.">
+  <div class="mx-auto max-w-3xl px-4 py-12 prose prose-stone">
+    <h1>Disclaimer</h1>
+
+    <h2>Affiliate Disclosure</h2>
+    <p>
+      Some links on this Site are affiliate links. If you click through and make a purchase, we
+      may earn a commission at no additional cost to you. We only recommend products and tools
+      we believe are genuinely useful, and affiliate relationships never influence our editorial
+      opinions.
+    </p>
+
+    <h2>General Information Only</h2>
+    <p>
+      Content on this Site is for general informational purposes only. DIY, gardening, and home
+      improvement projects can involve risks including but not limited to electrical, structural,
+      and tool-related hazards. Always follow manufacturer instructions, local building codes,
+      and safety guidelines, and consult a licensed professional for electrical, plumbing,
+      structural, or gas-related work.
+    </p>
+    <p>
+      We make no warranties about the completeness, reliability, or accuracy of this information.
+      Any action you take based on the content of this Site is strictly at your own risk.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      Questions about this disclaimer? Email <a href={`mailto:${contactEmail}`}>{contactEmail}</a>.
+    </p>
+  </div>
+</Layout>

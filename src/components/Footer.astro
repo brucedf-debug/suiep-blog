@@ -1,0 +1,19 @@
+---
+import { siteName, siteTagline } from '../lib/site';
+const year = new Date().getFullYear();
+---
+
+<footer class="mt-16 border-t border-stone-200 bg-stone-50">
+  <div class="mx-auto max-w-5xl px-4 py-10 text-sm text-stone-600">
+    <p class="mb-6 text-stone-500">{siteName} &mdash; {siteTagline}</p>
+    <div class="flex flex-col gap-4 sm:flex-row sm:justify-between">
+      <p>&copy; {year} {siteName}. All rights reserved.</p>
+      <nav class="flex flex-wrap gap-4">
+        <a href="/about/" class="hover:text-green-700">About</a>
+        <a href="/contact/" class="hover:text-green-700">Contact</a>
+        <a href="/privacy-policy/" class="hover:text-green-700">Privacy Policy</a>
+        <a href="/disclaimer/" class="hover:text-green-700">Disclaimer</a>
+      </nav>
+    </div>
+  </div>
+</footer>

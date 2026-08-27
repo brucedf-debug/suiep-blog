@@ -1,7 +1,10 @@
 ---
 import Layout from './Layout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
 import { categories } from '../lib/categories';
-import { siteName } from '../lib/site';
+import { siteName, authorName } from '../lib/site';
+import { extractHowToSteps } from '../lib/howto';
 import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 
@@ -11,32 +14,67 @@ interface Props {
 
 const { entry } = Astro.props;
 const { title, description, pubDate, updatedDate, category, heroImage } = entry.data;
+const categoryMeta = categories[category];
 
 const formatDate = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
 
-const jsonLd = {
+const articleJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Article',
   headline: title,
   description,
   datePublished: pubDate.toISOString(),
   dateModified: (updatedDate ?? pubDate).toISOString(),
-  author: { '@type': 'Organization', name: siteName },
+  author: { '@type': 'Organization', name: authorName },
+  publisher: { '@type': 'Organization', name: siteName },
 };
+
+const howToSteps = extractHowToSteps(entry.body);
+const howToJsonLd =
+  howToSteps.length >= 2
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'HowTo',
+        name: title,
+        description,
+        step: howToSteps.map((step, i) => ({
+          '@type': 'HowToStep',
+          position: i + 1,
+          name: step.name,
+          text: step.text,
+        })),
+      }
+    : null;
+
+const breadcrumbItems = [
+  { name: 'Home', href: '/' },
+  { name: categoryMeta.name, href: `/category/${category}/` },
+  { name: title },
+];
 ---
 
 <Layout title={title} description={description}>
-  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />
+  {howToJsonLd && <script type="application/ld+json" set:html={JSON.stringify(howToJsonLd)} />}
   <article class="mx-auto max-w-3xl px-4 py-10">
+    <Breadcrumbs items={breadcrumbItems} />
     <p class="mb-2 text-sm font-semibold uppercase tracking-wide text-green-700">
-      <a href={`/category/${category}/`}>{categories[category].name}</a>
+      <a href={`/category/${category}/`}>{categoryMeta.name}</a>
     </p>
     <h1 class="mb-3 text-3xl font-bold text-stone-900 sm:text-4xl">{title}</h1>
-    <p class="mb-6 text-sm text-stone-500">
-      Published {formatDate(pubDate)}
-      {updatedDate && <> &middot; Updated {formatDate(updatedDate)}</>}
-    </p>
+    <div class="mb-6 flex items-center gap-3">
+      <div class="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-green-700 text-sm font-bold text-white">
+        S
+      </div>
+      <div class="text-sm">
+        <p class="font-medium text-stone-700">{authorName}</p>
+        <p class="text-stone-500">
+          Published {formatDate(pubDate)}
+          {updatedDate && <> &middot; Updated {formatDate(updatedDate)}</>}
+        </p>
+      </div>
+    </div>
     {heroImage && (
       <Image
         src={heroImage}
@@ -46,8 +84,9 @@ const jsonLd = {
         sizes="(min-width: 768px) 768px, 100vw"
       />
     )}
-    <div class="prose prose-stone max-w-none prose-headings:font-bold prose-a:text-green-700">
+    <div class="prose prose-lg prose-stone prose-headings:font-bold prose-a:text-green-700">
       <slot />
     </div>
   </article>
+  <RelatedPosts currentId={entry.id} category={category} />
 </Layout>

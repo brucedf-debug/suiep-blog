@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Simple DIY Garage Workbench"
 description: "Build a sturdy, budget-friendly workbench from basic lumber — a solid surface for every project after this one."
-pubDate: 2026-09-11
+pubDate: 2026-08-15
 category: diy-projects
 tags: ["workbench", "garage", "beginner"]
 heroImage: "../../assets/blog/workbench-hero.jpg"

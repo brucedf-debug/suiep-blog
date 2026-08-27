@@ -1,7 +1,7 @@
 ---
 title: "Cordless Drill Buying Guide: What Actually Matters"
 description: "Voltage, chuck size, brushless motors — a plain-English guide to picking your first cordless drill without overspending."
-pubDate: 2026-08-10
+pubDate: 2026-06-19
 category: tools-reviews
 tags: ["tools", "buying guide", "cordless drill"]
 heroImage: "../../assets/blog/cordless-drill-hero.jpg"

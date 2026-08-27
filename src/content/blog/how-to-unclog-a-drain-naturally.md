@@ -1,7 +1,7 @@
 ---
 title: "How to Unclog a Drain Without Harsh Chemicals"
 description: "Clear a slow or blocked drain using mechanical methods and natural ingredients — safer for your pipes than store-bought drain cleaner."
-pubDate: 2026-09-12
+pubDate: 2026-08-18
 category: home-improvement
 tags: ["plumbing", "drain cleaning", "quick fix"]
 heroImage: "../../assets/blog/unclog-drain-hero.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "How to Winterize Your Outdoor Furniture and Patio"
 description: "Protect your patio furniture, cushions, and grill from cold-weather damage with this end-of-season checklist."
-pubDate: 2026-09-15
+pubDate: 2026-08-27
 category: outdoor-living
 tags: ["patio furniture", "winterizing", "maintenance"]
 heroImage: "../../assets/blog/winterize-patio-hero.jpg"
@@ -24,7 +24,7 @@ Dirt and organic debris left on furniture over winter traps moisture against the
 
 Fabric cushions should come inside if you have the storage space — even "weather-resistant" fabric breaks down faster with repeated freeze-thaw cycles and moisture exposure. If indoor storage isn't an option, use a waterproof storage bin or heavy-duty cover.
 
-![An outdoor furniture cover protecting patio furniture](../../assets/blog/winterize-patio-cover.jpg)
+![An uncovered metal bistro table and chairs left out as the growing season ends](../../assets/blog/winterize-patio-cover.jpg)
 
 ## Step 4: Cover What Stays Outside
 

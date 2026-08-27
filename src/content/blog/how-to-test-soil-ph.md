@@ -1,7 +1,7 @@
 ---
 title: "How to Test Your Soil pH and Fix It Naturally"
 description: "Why soil pH determines how well your plants absorb nutrients, and simple ways to test and adjust it without synthetic chemicals."
-pubDate: 2026-09-10
+pubDate: 2026-08-12
 category: gardening
 tags: ["soil pH", "soil health", "beginner"]
 heroImage: "../../assets/blog/soil-ph-hero.jpg"
@@ -17,7 +17,7 @@ At the wrong pH, nutrients can be present in the soil but chemically locked in a
 
 A basic home test kit (strips or a liquid solution) gives a reasonable read for most garden purposes.
 
-![Soil test kit being used in a garden bed](../../assets/blog/soil-ph-test.jpg)
+![Hands holding a scoop of healthy garden soil with a small seedling](../../assets/blog/soil-ph-test.jpg)
 
 For a more precise reading, a local agricultural extension office will test a soil sample for a small fee and often includes nutrient analysis too.
 

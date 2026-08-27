@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Raised Garden Bed in a Weekend"
 description: "A step-by-step guide to building a sturdy raised garden bed from untreated cedar, including materials list, tools, and soil mix."
-pubDate: 2026-08-20
+pubDate: 2026-06-25
 category: diy-projects
 tags: ["raised beds", "garden building", "beginner"]
 heroImage: "../../assets/blog/raised-bed-hero.jpg"

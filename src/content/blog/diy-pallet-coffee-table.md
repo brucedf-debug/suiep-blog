@@ -1,7 +1,7 @@
 ---
 title: "How to Build a DIY Pallet Coffee Table"
 description: "Turn a free wood pallet into a sturdy, rustic coffee table with wheels — a one-day project with minimal tools."
-pubDate: 2026-09-05
+pubDate: 2026-07-28
 category: diy-projects
 tags: ["pallet furniture", "coffee table", "upcycling"]
 heroImage: "../../assets/blog/pallet-table-hero.jpg"

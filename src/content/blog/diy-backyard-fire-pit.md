@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Simple DIY Fire Pit for Your Backyard"
 description: "Build a permanent stone fire pit in a weekend with basic materials — no mortar or masonry experience required."
-pubDate: 2026-08-26
+pubDate: 2026-07-04
 category: outdoor-living
 tags: ["fire pit", "backyard", "patio", "beginner"]
 heroImage: "../../assets/blog/fire-pit-hero.jpg"

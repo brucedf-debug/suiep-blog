@@ -1,7 +1,7 @@
 ---
 title: "Circular Saw vs. Track Saw: Which One Do You Actually Need?"
 description: "A practical comparison of circular saws and track saws — cut quality, portability, and price — to help you buy the right one for your projects."
-pubDate: 2026-09-01
+pubDate: 2026-07-16
 category: tools-reviews
 tags: ["tools", "buying guide", "circular saw", "track saw"]
 heroImage: "../../assets/blog/circular-vs-track-saw-hero.jpg"

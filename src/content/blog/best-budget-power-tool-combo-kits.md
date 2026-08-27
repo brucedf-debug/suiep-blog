@@ -1,7 +1,7 @@
 ---
 title: "Best Budget Power Tool Combo Kits Compared"
 description: "How to evaluate a power tool combo kit — battery platform, included tools, and when buying a bundle actually saves money."
-pubDate: 2026-09-07
+pubDate: 2026-08-03
 category: tools-reviews
 tags: ["power tools", "buying guide", "combo kit"]
 heroImage: "../../assets/blog/power-tool-kit-hero.jpg"

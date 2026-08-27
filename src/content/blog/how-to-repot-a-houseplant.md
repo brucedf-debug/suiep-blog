@@ -1,7 +1,7 @@
 ---
 title: "How to Repot a Houseplant Without Killing It"
 description: "Signs your plant needs a bigger pot, plus a step-by-step repotting process that minimizes transplant shock."
-pubDate: 2026-09-02
+pubDate: 2026-07-19
 category: indoor-plants
 tags: ["repotting", "houseplants", "plant care"]
 heroImage: "../../assets/blog/repotting-hero.jpg"

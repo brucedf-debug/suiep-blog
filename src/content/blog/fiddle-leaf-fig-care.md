@@ -1,7 +1,7 @@
 ---
 title: "How to Care for a Fiddle Leaf Fig (Without Killing It)"
 description: "Fiddle leaf figs have a reputation for being finicky — here's the light, water, and humidity routine that actually keeps them alive."
-pubDate: 2026-09-14
+pubDate: 2026-08-24
 category: indoor-plants
 tags: ["fiddle leaf fig", "houseplants", "plant care"]
 heroImage: "../../assets/blog/fiddle-leaf-fig-hero.jpg"

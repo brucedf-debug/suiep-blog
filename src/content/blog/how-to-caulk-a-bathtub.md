@@ -1,7 +1,7 @@
 ---
 title: "How to Caulk a Bathtub Like a Pro"
 description: "Remove old, moldy caulk and lay down a clean new bead around your tub — the single upgrade that makes a bathroom look instantly newer."
-pubDate: 2026-09-06
+pubDate: 2026-07-31
 category: home-improvement
 tags: ["caulking", "bathroom", "beginner"]
 heroImage: "../../assets/blog/caulk-bathtub-hero.jpg"

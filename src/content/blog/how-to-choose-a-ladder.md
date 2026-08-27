@@ -1,7 +1,7 @@
 ---
 title: "How to Choose the Right Ladder for Home Projects"
 description: "Step ladder or extension ladder? How to pick the right height, duty rating, and material for the projects you actually do."
-pubDate: 2026-09-13
+pubDate: 2026-08-21
 category: tools-reviews
 tags: ["ladder", "buying guide", "safety"]
 heroImage: "../../assets/blog/ladder-hero.jpg"

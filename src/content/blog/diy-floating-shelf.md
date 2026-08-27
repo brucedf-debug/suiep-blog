@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Floating Shelf With No Visible Brackets"
 description: "Build a clean, modern floating shelf using a hidden bracket system — strong enough for books and plants, with no visible hardware."
-pubDate: 2026-08-29
+pubDate: 2026-07-10
 category: diy-projects
 tags: ["floating shelf", "wall storage", "beginner"]
 heroImage: "../../assets/blog/floating-shelf-hero.jpg"

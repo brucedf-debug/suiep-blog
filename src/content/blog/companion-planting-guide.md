@@ -1,7 +1,7 @@
 ---
 title: "The Beginner's Guide to Companion Planting"
 description: "Which vegetables, herbs, and flowers actually help each other grow — and which combinations to avoid in your garden beds."
-pubDate: 2026-08-22
+pubDate: 2026-06-28
 category: gardening
 tags: ["companion planting", "vegetable garden", "beginner"]
 heroImage: "../../assets/blog/companion-planting-hero.jpg"

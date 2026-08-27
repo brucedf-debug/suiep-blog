@@ -1,7 +1,7 @@
 ---
 title: "How to Choose Patio Furniture for Small Spaces"
 description: "Furnish a small balcony or patio without it feeling cramped — sizing, materials, and layout tips that actually work in tight spaces."
-pubDate: 2026-09-09
+pubDate: 2026-08-09
 category: outdoor-living
 tags: ["patio furniture", "small spaces", "balcony"]
 heroImage: "../../assets/blog/patio-furniture-hero.jpg"

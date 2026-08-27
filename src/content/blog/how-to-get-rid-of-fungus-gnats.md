@@ -1,7 +1,7 @@
 ---
 title: "How to Get Rid of Fungus Gnats in Houseplants"
 description: "Identify and eliminate fungus gnats for good — the tiny flying pests that breed in overwatered houseplant soil."
-pubDate: 2026-09-08
+pubDate: 2026-08-06
 category: indoor-plants
 tags: ["pest control", "houseplants", "fungus gnats"]
 heroImage: "../../assets/blog/fungus-gnats-hero.jpg"
@@ -15,13 +15,13 @@ Fungus gnats lay eggs in consistently moist soil, and their larvae feed on organ
 
 ## Step 1: Let the Soil Dry Out
 
-This is the single most effective fix. Let the top 1-2 inches of soil dry completely between waterings — this breaks the gnat life cycle since larvae can't survive in dry conditions.
+This is the single most effective fix. Let the top 1-2 inches of soil dry completely between waterings — this breaks the gnat life cycle since larvae can't survive in dry conditions. Water thoroughly when you do water, then wait until the soil is dry again rather than sticking to a fixed schedule.
+
+![Watering a houseplant with fresh, well-draining potting soil](../../assets/blog/fungus-gnats-trap.jpg)
 
 ## Step 2: Set Sticky Traps
 
 Yellow sticky traps placed in the soil catch adult gnats before they can lay more eggs, and also give you a visual read on how bad the infestation actually is.
-
-![A yellow sticky trap near a houseplant to catch fungus gnats](../../assets/blog/fungus-gnats-trap.jpg)
 
 ## Step 3: Top-Dress With Sand or Diatomaceous Earth
 

@@ -1,7 +1,7 @@
 ---
 title: "10 Indoor Plants That Actually Survive Low Light"
 description: "The best houseplants for dark apartments and north-facing rooms, ranked by how forgiving they are for beginners."
-pubDate: 2026-08-15
+pubDate: 2026-06-22
 category: indoor-plants
 tags: ["low light plants", "houseplants", "beginner"]
 heroImage: "../../assets/blog/low-light-plants-hero.jpg"

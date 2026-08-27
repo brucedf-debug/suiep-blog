@@ -1,7 +1,7 @@
 ---
 title: "How to Patch and Paint Drywall Like a Pro"
 description: "Fix small and medium drywall holes step by step, from applying joint compound to matching your wall's paint finish."
-pubDate: 2026-08-24
+pubDate: 2026-07-01
 category: home-improvement
 tags: ["drywall repair", "painting", "beginner"]
 heroImage: "../../assets/blog/drywall-patch-hero.jpg"

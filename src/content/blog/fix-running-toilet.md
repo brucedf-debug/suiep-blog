@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Running Toilet in 15 Minutes"
 description: "Diagnose and fix the three most common causes of a running toilet — no plumber required, no special tools."
-pubDate: 2026-08-30
+pubDate: 2026-07-13
 category: home-improvement
 tags: ["plumbing", "toilet repair", "quick fix"]
 heroImage: "../../assets/blog/running-toilet-hero.jpg"

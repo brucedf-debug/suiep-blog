@@ -1,7 +1,7 @@
 ---
 title: "How to Compost at Home: A Beginner's Guide"
 description: "Turn kitchen scraps and yard waste into free garden fertilizer — what to compost, what to avoid, and how to keep the pile balanced."
-pubDate: 2026-09-04
+pubDate: 2026-07-25
 category: gardening
 tags: ["composting", "soil", "beginner"]
 heroImage: "../../assets/blog/compost-hero.jpg"
@@ -32,9 +32,9 @@ Start with a layer of browns at the bottom for airflow, then alternate greens an
 
 ## Step 3: Turn Regularly
 
-Turning the pile every 1-2 weeks introduces oxygen, which speeds up decomposition and prevents the anaerobic smell that comes from a compacted, airless pile.
+Turning the pile every 1-2 weeks introduces oxygen, which speeds up decomposition and prevents the anaerobic smell that comes from a compacted, airless pile. A compost thermometer is an inexpensive way to confirm it's working — a pile in the "hot" or "active" range is breaking down quickly, while a cool reading means it needs more greens, more turning, or more moisture.
 
-![Turning a compost pile with a pitchfork](../../assets/blog/compost-turning.jpg)
+![A compost thermometer inserted into a pile, reading in the hot range](../../assets/blog/compost-turning.jpg)
 
 ## Step 4: Keep It Moist, Not Wet
 

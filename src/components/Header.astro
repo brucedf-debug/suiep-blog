@@ -2,25 +2,25 @@
 import { categories } from '../lib/categories';
 import { siteName, siteTagline } from '../lib/site';
 
-const navCategories = Object.entries(categories).slice(0, 4);
+const navCategories = Object.entries(categories);
 ---
 
 <header class="border-b border-stone-200 bg-white">
   <div class="mx-auto flex max-w-5xl items-center justify-between px-4 py-4">
     <a href="/" class="flex items-baseline gap-2">
       <span class="text-xl font-bold tracking-tight text-stone-900">{siteName}</span>
-      <span class="hidden text-xs font-medium text-stone-500 sm:inline">{siteTagline}</span>
+      <span class="hidden text-xs font-medium text-stone-500 xl:inline">{siteTagline}</span>
     </a>
-    <nav class="hidden gap-6 text-sm font-medium text-stone-700 md:flex">
+    <nav class="hidden gap-4 text-sm font-medium text-stone-700 lg:flex">
       {
         navCategories.map(([slug, cat]) => (
-          <a href={`/category/${slug}/`} class="hover:text-green-700">
+          <a href={`/category/${slug}/`} class="whitespace-nowrap hover:text-green-700">
             {cat.name}
           </a>
         ))
       }
-      <a href="/blog/" class="hover:text-green-700">All Posts</a>
-      <a href="/about/" class="hover:text-green-700">About</a>
+      <a href="/blog/" class="whitespace-nowrap hover:text-green-700">All Posts</a>
+      <a href="/about/" class="whitespace-nowrap hover:text-green-700">About</a>
     </nav>
   </div>
 </header>

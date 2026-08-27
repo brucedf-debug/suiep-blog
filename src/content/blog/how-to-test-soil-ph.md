@@ -19,6 +19,8 @@ A basic home test kit (strips or a liquid solution) gives a reasonable read for 
 
 ![Hands holding a scoop of healthy garden soil with a small seedling](../../assets/blog/soil-ph-test.jpg)
 
+**No kit on hand?** You can get a rough directional read with pantry staples: put two soil samples in separate cups, add water to make mud, then add 1/2 cup of vinegar to one. Fizzing means alkaline soil. With the second cup, add 1/2 cup of baking soda instead — fizzing there means acidic soil. Neither reaction means your soil is closer to neutral. This won't give you an exact number and isn't a substitute for a real test, but it's a fast way to know which direction you're dealing with before you buy anything.
+
 For a more precise reading, a local agricultural extension office will test a soil sample for a small fee and often includes nutrient analysis too.
 
 ## Step 2: Understand What You're Growing

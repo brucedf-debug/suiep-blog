@@ -9,6 +9,10 @@ heroImage: "../../assets/blog/unclog-drain-hero.jpg"
 
 Chemical drain cleaners work, but repeated use can damage older pipes, and they're genuinely hazardous to handle. Most household clogs — hair, soap scum, food debris — clear just fine with mechanical methods first.
 
+## Dealing With Standing Water First
+
+If the sink is already full of stagnant water and nothing is draining, bail most of it out with a cup or small bowl into a bucket before trying anything else — leave just an inch or two. A plunger actually needs a little water to form a seal, but a sink brimming full just sloshes everywhere instead of forcing pressure down the pipe. If you own a wet/dry shop vacuum, it works even better here: set it to liquid mode, seal a rag around the hose where it meets the drain opening, and run it for 30 seconds. It's often strong enough to pull the clog out directly.
+
 ## Step 1: Try the Plunger First
 
 A wet/dry sink plunger (the flat-bottomed kind, different from a toilet plunger) can clear many simple clogs. Fill the sink with a couple inches of water first — the water helps create a proper seal for effective suction.

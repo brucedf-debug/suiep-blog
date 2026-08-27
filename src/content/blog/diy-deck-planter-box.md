@@ -1,5 +1,5 @@
 ---
-title: "How to Build a Simple DIY Deck Planter Box"
+title: "How to Build a DIY Deck Planter Box (Freestanding or Railing-Mounted)"
 description: "Build a sturdy cedar planter box for your deck railing or patio in an afternoon, with a materials list and cut sizes included."
 pubDate: 2026-07-22
 category: outdoor-living

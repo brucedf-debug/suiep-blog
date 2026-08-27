@@ -1,5 +1,5 @@
 ---
-title: "How to Start Seeds Indoors: A Step-by-Step Timeline"
+title: "How to Start Seeds Indoors: A Step-by-Step Timeline for Beginners"
 description: "Get a head start on the growing season by starting vegetables and flowers from seed indoors — with a week-by-week timeline for your last frost date."
 pubDate: 2026-07-07
 category: gardening

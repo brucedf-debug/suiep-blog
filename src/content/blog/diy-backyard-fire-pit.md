@@ -1,6 +1,6 @@
 ---
-title: "How to Build a Simple DIY Fire Pit for Your Backyard"
-description: "Build a permanent stone fire pit in a weekend with basic materials — no mortar or masonry experience required."
+title: "How to Build a DIY Fire Pit With Pavers (No Mortar Required)"
+description: "Build a permanent paver fire pit in a weekend with basic materials — no mortar or masonry experience required."
 pubDate: 2026-07-04
 category: outdoor-living
 tags: ["fire pit", "backyard", "patio", "beginner"]

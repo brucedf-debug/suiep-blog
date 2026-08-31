@@ -55,6 +55,39 @@ const ogImage = image ? new URL(image, Astro.site) : new URL('/og-default.png', 
         </script>
       </>
     )}
+
+    {import.meta.env.PROD && (
+      <>
+        {/* Google Funding Choices: consent message for EEA/UK/CH visitors (EU User Consent Policy).
+           The banner itself is configured in AdSense > Privacy & messaging — this snippet only loads it. */}
+        <script async src="https://fundingchoicesmessages.google.com/i/pub-9531128202221406?ers=1"></script>
+        <script>
+          (function () {
+            function signalGooglefcPresent() {
+              if (!(window as any).frames['googlefcPresent']) {
+                if (document.body) {
+                  const iframe = document.createElement('iframe');
+                  iframe.style.cssText = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;';
+                  iframe.style.display = 'none';
+                  iframe.name = 'googlefcPresent';
+                  document.body.appendChild(iframe);
+                } else {
+                  setTimeout(signalGooglefcPresent, 0);
+                }
+              }
+            }
+            signalGooglefcPresent();
+          })();
+        </script>
+
+        {/* Google AdSense */}
+        <meta name="google-adsense-account" content="ca-pub-9531128202221406" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9531128202221406"
+          crossorigin="anonymous"></script>
+      </>
+    )}
   </head>
   <body class="flex min-h-screen flex-col bg-white text-stone-800">
     <Header />

@@ -1,6 +1,7 @@
 ---
 import Layout from './Layout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import { categories } from '../lib/categories';
 import { siteName, authorName } from '../lib/site';
@@ -88,5 +89,6 @@ const breadcrumbItems = [
       <slot />
     </div>
   </article>
+  <NewsletterSignup />
   <RelatedPosts currentId={entry.id} category={category} />
 </Layout>

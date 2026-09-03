@@ -25,6 +25,10 @@ Stain applied over dirt, mildew, or old finish residue won't bond properly — i
 
 ![A weathered deck with dirt and mildew buildup before cleaning](../../assets/blog/clean-deck-before.jpg)
 
+## Choosing the Right Cleaner for Your Deck's Condition
+
+Not every deck needs the same cleaning product. A deck that's just dusty and lightly weathered often does fine with a basic oxygen bleach cleaner, which brightens wood without the harshness of chlorine bleach. A deck with heavy mildew or algae buildup, especially in shaded or damp-prone spots, may need a cleaner specifically formulated to kill mold spores rather than just lift surface dirt — check the label for mildewcide or a similar active ingredient. And a deck with old, failing stain or sealer sometimes needs a dedicated stain stripper before a standard cleaner will even be effective, since a cleaner alone often can't break down a film of old finish sitting on top of the wood.
+
 ## Step 1: Clear and Sweep
 
 Remove furniture, planters, and rugs. Sweep away loose leaves, dirt, and debris — cleaning solution works much better on a swept surface than one full of loose grit.
@@ -51,6 +55,14 @@ Scrub with a stiff deck brush, working with the wood grain. Pay extra attention 
 
 This is the step most people rush. Wood needs to dry fully before stain will absorb properly — typically 24-48 hours in warm, sunny weather, longer in humid or cool conditions. Do a quick water-bead test: sprinkle a little water on the wood; if it beads up instead of soaking in, the wood is still too wet (or has old sealer residue) and isn't ready to stain yet.
 
+## Step 7: Sand Rough Spots and Check for Damage
+
+Once the deck is clean and dry, walk the full surface and check for raised grain, splinters, or protruding nail and screw heads — pressure washing can raise wood grain even on a well-maintained deck, and stain applied over rough or splintering wood won't look as smooth as it should. A light pass with a sander (80-120 grit) on rough boards, and re-setting any popped fasteners, takes an extra hour but makes a visible difference in the finished result. This is also the point to check for any soft, spongy boards that might indicate rot — those need to be addressed or replaced before staining, since stain won't fix a structural problem underneath it.
+
+## Weather Windows for Staining
+
+Once the deck is clean, dry, and sanded, timing the actual stain application matters almost as much as the prep work. Avoid staining in direct, hot midday sun, which can cause the stain to dry too fast and lap-mark between sections. Check the forecast for at least 24-48 hours of dry weather after your planned application, since rain on freshly applied stain before it's cured can wash it out unevenly or leave a blotchy finish that's difficult to fully correct without redoing the affected boards.
+
 ## Now You're Ready to Stain
 
-A clean, fully dry deck is what lets stain penetrate evenly instead of sitting on the surface and peeling. Skipping straight from a quick rinse to staining is the single most common reason a deck stain job fails early.
+A clean, fully dry deck is what lets stain penetrate evenly instead of sitting on the surface and peeling. Skipping straight from a quick rinse to staining is the single most common reason a deck stain job fails early. Between choosing the right cleaner, scrubbing thoroughly, giving the wood enough time to dry, and sanding any rough spots, the prep work in this guide typically takes longer than the staining itself — but it's also what determines whether the finished stain job lasts several seasons or needs to be redone within a year.

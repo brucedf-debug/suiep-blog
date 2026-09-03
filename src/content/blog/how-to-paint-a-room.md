@@ -19,6 +19,14 @@ Most first-time painters start with the walls because that's the part they actua
 - Primer (if changing colors dramatically or painting over stains)
 - Paint: ceiling, wall, and trim colors as needed
 
+## Choosing the Right Sheen
+
+Paint sheen affects both looks and durability, and picking the wrong one for a given surface is a common first-timer mistake. Flat or matte finishes hide wall imperfections well but hold up poorly to scrubbing, making them a better fit for ceilings and low-traffic rooms than hallways or kids' bedrooms. Eggshell and satin offer a middle ground — some sheen, easier to wipe clean, and still forgiving of minor wall texture. Semi-gloss and gloss are the standard choice for trim and doors specifically because they resist scuffs and clean up easily, though they also show surface flaws more, which is part of why trim gets extra prep attention before painting.
+
+## Estimating How Much Paint You Need
+
+A gallon of paint typically covers 350-400 square feet with one coat, though porous or previously unpainted drywall can absorb more than that. Measure your room's wall square footage (height times the combined length of all walls, minus a rough allowance for windows and doors) and divide by expected coverage to estimate gallons needed, then round up rather than down — running short mid-project is a bigger hassle than having a partial gallon left over for touch-ups later.
+
 ## The Order: Ceiling, Then Walls, Then Trim
 
 This is the sequence professional painters use, and it's not arbitrary — each step protects the work you just finished:
@@ -53,8 +61,14 @@ Remove the tape from the wall/trim line before it fully dries (usually right aft
 
 Paint is usually dry to the touch within a few hours but can take up to two weeks to fully cure. Wait at least 24 hours before rehanging pictures or pushing furniture back against walls to avoid soft paint marking or sticking.
 
+## Cleaning Up Tools Properly
+
+For latex or acrylic paint, rinse rollers and brushes in warm water until it runs clear, working the paint out of the base of the bristles or roller nap where it tends to hide. For oil-based paint, you'll need the appropriate solvent per the product label, since water alone won't remove it. Either way, avoid letting a brush or roller dry out with paint still in it — dried paint is far harder to remove and often ruins the brush or roller for future use. A roller that's just being paused for a short break, rather than fully cleaned, can be wrapped tightly in plastic wrap to stay wet for a day or so without needing a full wash.
+
 ## A Few Things That Actually Matter
 
 - **Two thin coats beat one thick coat** — thick paint drips, sags, and takes longer to dry evenly.
 - **Prime dramatic color changes** — going from dark to light (or the reverse) without primer often means 3-4 coats instead of 2.
 - **Buy a little extra paint** — running out mid-wall and buying more later risks a slight color/sheen mismatch between batches.
+- **Check the weather and ventilation** — high humidity slows drying noticeably, and good airflow while painting isn't just about fumes, it also helps each coat cure on schedule.
+- **Box your paint if using more than one can of the same color** — pouring multiple cans together into a larger container (called "boxing") evens out any subtle shade variation between batches, which matters more than people expect on a large wall under changing light.

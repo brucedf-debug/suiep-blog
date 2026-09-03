@@ -11,11 +11,15 @@ Raking sounds simple until you're an hour in with a sore back and a lawn that st
 
 ## Time It Around the Leaf Drop, Not the Calendar
 
-Raking too early just means doing the job twice, since more leaves keep coming down. Waiting until the trees are fully bare has its own cost: a thick, wet layer left too long mats down and starts smothering the grass underneath. The best window is usually when 70–80% of the leaves are down and before the next heavy rain — that's enough volume to make the effort worthwhile without letting the lawn suffer.
+Raking too early just means doing the job twice, since more leaves keep coming down. Waiting until the trees are fully bare has its own cost: a thick, wet layer left too long mats down and starts smothering the grass underneath. The best window is usually when 70–80% of the leaves are down and before the next heavy rain — that's enough volume to make the effort worthwhile without letting the lawn suffer. If your yard has several trees that drop at different times, it's often more efficient to do one thorough pass rather than chasing every tree's individual timing, accepting that you might catch some trees slightly early or late.
+
+## Choosing the Right Rake
+
+Not all rakes are built the same, and the wrong one makes the job harder than it needs to be. A wide, flexible-tine leaf rake (typically plastic or bamboo, 24-30 inches wide) covers more ground per pull and is gentler on grass than a rigid metal rake, which is better suited to more aggressive tasks like dethatching. A narrower rake is easier to maneuver in tight spots like around flower beds or between shrubs, so it's worth having both a wide rake for open lawn and a smaller one for detail work if you have the storage space.
 
 ## Use Your Legs, Not Just Your Arms
 
-Most of the back strain from raking comes from reaching too far and pulling with the arms alone. Keep the rake close to your body, take short pulls, and let your legs and core do the work of the motion instead of your lower back. Work in straight rows across the lawn rather than randomly chasing leaves — it covers the same ground with far less backtracking.
+Most of the back strain from raking comes from reaching too far and pulling with the arms alone. Keep the rake close to your body, take short pulls, and let your legs and core do the work of the motion instead of your lower back. Work in straight rows across the lawn rather than randomly chasing leaves — it covers the same ground with far less backtracking. Switching which hand leads every 10-15 minutes also helps distribute the strain more evenly and delays fatigue, since raking with the same grip and stance for an hour straight tends to overwork the same handful of muscles.
 
 ![A tarp loaded with raked leaves being dragged across a yard toward the curb](../../assets/blog/leaf-raking-pile.jpg)
 
@@ -27,7 +31,15 @@ Most of the back strain from raking comes from reaching too far and pulling with
 
 ## Two Tools Worth Having
 
-A tarp or a set of leaf scoops (the large claw-shaped hand tools) moves piles to the curb far faster than carrying armloads, and saves your grip and forearms in the process. For gutters, fence lines, and other tight corners a rake can't reach cleanly, a cordless leaf blower clears them in a fraction of the time raking would take.
+A tarp or a set of leaf scoops (the large claw-shaped hand tools) moves piles to the curb far faster than carrying armloads, and saves your grip and forearms in the process. For gutters, fence lines, and other tight corners a rake can't reach cleanly, a cordless leaf blower clears them in a fraction of the time raking would take. A tarp specifically is worth the small investment even if you already own a wheelbarrow — dragging a loaded tarp across grass is noticeably easier than pushing a heavy wheelbarrow load, especially over an uneven or sloped yard.
+
+## Working With Wet Leaves When You Have No Choice
+
+Sometimes the weather doesn't cooperate and you're stuck raking a lawn full of rain-soaked leaves anyway — a looming freeze, an upcoming trip, or a homeowners association deadline can all force the issue. If you're in that situation, a wider, sturdier rake helps push through the extra weight, and working in smaller sections rather than trying to gather a full normal-sized pile at once reduces strain. Give yourself more time than a dry-leaf session would take, and take more frequent breaks, since wet leaf raking is measurably more physically demanding.
+
+## Protecting Garden Beds While You Work
+
+If leaves have blown into flower beds or around shrubs, resist the urge to rake them out entirely — a light layer of leaves left in garden beds actually functions as a free winter mulch, insulating perennial roots and slowly breaking down to improve soil. The exception is beds with disease-prone plants (roses and some perennials susceptible to fungal issues are common examples), where leftover leaf litter can harbor spores through winter; those beds are worth clearing more thoroughly.
 
 ## What to Skip
 

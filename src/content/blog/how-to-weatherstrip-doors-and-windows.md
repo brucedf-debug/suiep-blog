@@ -32,6 +32,14 @@ Clean the surface first — dust, old caulk residue, and peeling paint will keep
 
 Doors and windows get most of the attention, but they're not the only leak points. Attic access hatches are notoriously under-sealed — a strip of foam tape around the frame closes a gap that's often larger than any window in the house. Electrical outlets and light switches on exterior walls leak air too; foam gasket inserts sold for a few dollars a pack slide behind the cover plate and take about two minutes per outlet. None of these fixes are visible once they're done, but together they close the gaps that a room-by-room draft check would otherwise miss.
 
+## How Long Weatherstripping Actually Lasts
+
+Foam tape is the shortest-lived option, typically needing replacement every year or two as it compresses permanently and loses its ability to spring back. V-strip and door sweeps last considerably longer — often several years — since they're designed around a mechanical spring action rather than simple compression. Checking your weatherstripping each fall before the cold really sets in, rather than waiting until you notice a draft, catches worn material while it's a quick swap instead of a mid-winter emergency fix.
+
+## A Quick Look at Cost Versus Payoff
+
+Weatherstripping an entire house typically costs a small fraction of what a single month's heating bill runs in a leaky home during peak winter, which is part of why it's consistently recommended as one of the highest-value home maintenance tasks available. Unlike bigger energy upgrades — new windows, added insulation, a furnace replacement — weatherstripping needs no special skills or tools beyond a utility knife and a tape measure, and most homeowners can seal an entire house's worth of doors and windows in a single weekend.
+
 ## When It's More Than Weatherstripping Can Fix
 
 If a door or window still lets in a strong draft after fresh weatherstripping, the problem may be the frame itself — warping, a settled foundation, or gaps behind the trim that need to be caulked or insulated separately. Weatherstripping seals the moving parts; it can't compensate for a frame that's no longer square. In that case, a bead of exterior caulk around the outside trim is the next step, and a persistent draft after that is worth a look from someone who can check the insulation around the frame itself.

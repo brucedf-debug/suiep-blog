@@ -44,6 +44,18 @@ A few quick checks beat guessing:
 - **Weigh it in your hand.** Seasoned wood is noticeably lighter than a freshly cut piece of the same size.
 - **Use a moisture meter** if you want a real number — press the pins into a freshly split face (not the weathered exterior) and look for a reading under 20%.
 
+## Choosing Wood Species for Heat Output
+
+Not all seasoned wood burns the same once it's ready. Dense hardwoods like oak, hickory, and hard maple pack more energy per log and burn longer, making them the better choice for overnight burns or a fire meant to provide sustained heat. Softwoods and lighter hardwoods like pine or birch light faster and are excellent for kindling and getting a fire established quickly, but they burn through faster and produce more resinous smoke, particularly in the case of pine, which is part of why many wood-burners keep a supply of both — softwood to start a fire, hardwood to sustain it.
+
+## Splitting Technique and Safety
+
+If you're splitting your own wood rather than buying it pre-split, a few basics make the job safer and more efficient. Use a maul rather than a standard axe for splitting rounds — a maul's wedge-shaped, heavier head is designed specifically to force wood apart rather than cut through it, which matters for how the tool behaves on impact. Split on a stable, elevated block rather than directly on the ground, both to protect your swing's follow-through and to reduce blade contact with dirt and rocks that dull the edge. Keep your stance balanced with feet shoulder-width apart, and never split with anyone standing close enough to be hit by a piece that splits unpredictably or a maul that glances off at an angle.
+
+## Estimating How Much Wood You Need
+
+For a household burning firewood regularly through a full winter, a "cord" (a stacked pile measuring 4 feet by 4 feet by 8 feet, or the equivalent volume) is the standard unit sold by most suppliers, and typical winter usage for a primary heat source can run several cords depending on climate and how much of the heating load the wood is actually carrying versus a furnace or other backup system. For occasional recreational fires — a fire pit a few times a month rather than a primary heat source — usage is far lower, and planning a season's supply mostly comes down to estimating how many fires you expect to have and roughly how much wood each one burns through.
+
 ## Mistakes That Ruin a Good Woodpile
 
 Even well-intentioned setups go wrong in predictable ways: stacking directly against the house, which invites moisture and pests into the siding; wrapping the entire pile in a tarp, which seals in humidity instead of letting it escape; and stacking on grass or dirt without any elevation, which keeps the bottom layer perpetually damp. None of these mistakes show up right away — they just mean that by the time you need the wood, a chunk of the pile still isn't ready to burn.

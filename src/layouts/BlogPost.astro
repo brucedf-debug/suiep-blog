@@ -5,6 +5,7 @@ import NewsletterSignup from '../components/NewsletterSignup.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import { categories } from '../lib/categories';
 import { siteName, authorName } from '../lib/site';
+import { extractFaqItems } from '../lib/faq';
 import { extractHowToSteps } from '../lib/howto';
 import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
@@ -28,8 +29,8 @@ const articleJsonLd = {
   description,
   datePublished: pubDate.toISOString(),
   dateModified: (updatedDate ?? pubDate).toISOString(),
-  author: { '@type': 'Organization', name: authorName },
-  publisher: { '@type': 'Organization', name: siteName },
+  author: { '@type': 'Organization', name: authorName, url: Astro.site?.toString() },
+  publisher: { '@type': 'Organization', name: siteName, url: Astro.site?.toString() },
   ...(heroImage && { image: new URL(heroImage.src, Astro.site).toString() }),
   mainEntityOfPage: { '@type': 'WebPage', '@id': pageURL },
 };
@@ -51,6 +52,23 @@ const howToJsonLd =
       }
     : null;
 
+const faqItems = extractFaqItems(entry.body);
+const faqJsonLd =
+  faqItems.length > 0
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: faqItems.map((item) => ({
+          '@type': 'Question',
+          name: item.question,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: item.answer,
+          },
+        })),
+      }
+    : null;
+
 const breadcrumbItems = [
   { name: 'Home', href: '/' },
   { name: categoryMeta.name, href: `/category/${category}/` },
@@ -61,6 +79,7 @@ const breadcrumbItems = [
 <Layout title={title} description={description} image={heroImage}>
   <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />
   {howToJsonLd && <script type="application/ld+json" set:html={JSON.stringify(howToJsonLd)} />}
+  {faqJsonLd && <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />}
   <article class="mx-auto max-w-3xl px-4 py-10">
     <Breadcrumbs items={breadcrumbItems} />
     <p class="mb-2 text-sm font-semibold uppercase tracking-wide text-green-700">

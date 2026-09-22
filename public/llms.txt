@@ -1,0 +1,24 @@
+# Suiep
+
+> Suiep — Smart Upgrades for Indoor & Exterior Projects. A home, garden, and DIY publication with practical, tested guides: step-by-step projects, real materials lists, and honest tool reviews.
+
+## About
+
+- [About Suiep](https://www.suiep.com/about/): our editorial approach and how guides are researched.
+- [Contact](https://www.suiep.com/contact/)
+- [Disclaimer](https://www.suiep.com/disclaimer/): affiliate relationships disclosure.
+- [Privacy Policy](https://www.suiep.com/privacy-policy/)
+
+## Categories
+
+- [Gardening](https://www.suiep.com/category/gardening/): growing guides, plant care tips, and backyard garden projects.
+- [DIY Projects](https://www.suiep.com/category/diy-projects/): step-by-step weekend builds and creative home projects.
+- [Home Improvement](https://www.suiep.com/category/home-improvement/): renovation advice, repairs, and upgrades for every room.
+- [Tools & Reviews](https://www.suiep.com/category/tools-reviews/): honest reviews and buying guides for tools and equipment.
+- [Indoor Plants](https://www.suiep.com/category/indoor-plants/): houseplant care, styling ideas, and troubleshooting.
+- [Outdoor Living](https://www.suiep.com/category/outdoor-living/): patios, decks, landscaping, and outdoor entertaining.
+
+## Content discovery
+
+- [Sitemap](https://www.suiep.com/sitemap-index.xml): full, up-to-date list of all pages and posts.
+- [RSS](https://www.suiep.com/rss.xml): new posts published daily.

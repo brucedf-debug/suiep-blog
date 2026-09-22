@@ -3,7 +3,7 @@ import '../styles/global.css';
 import type { ImageMetadata } from 'astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { siteName } from '../lib/site';
+import { siteName, siteTagline } from '../lib/site';
 
 interface Props {
   title: string;
@@ -22,6 +22,19 @@ const imageSrc = typeof image === 'string' ? image : image?.src;
 const ogImage = imageSrc ? new URL(imageSrc, Astro.site) : new URL('/og-default.png', Astro.site);
 const ogImageWidth = typeof image === 'object' ? image.width : 1200;
 const ogImageHeight = typeof image === 'object' ? image.height : 630;
+
+const websiteJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: siteName,
+  description: siteTagline,
+  url: Astro.site?.toString(),
+  publisher: {
+    '@type': 'Organization',
+    name: siteName,
+    url: Astro.site?.toString(),
+  },
+};
 ---
 
 <!doctype html>
@@ -53,6 +66,7 @@ const ogImageHeight = typeof image === 'object' ? image.height : 630;
     <meta name="twitter:image" content={ogImage} />
 
     <meta name="generator" content={Astro.generator} />
+    <script type="application/ld+json" set:html={JSON.stringify(websiteJsonLd)} />
 
     {import.meta.env.PROD && (
       <>

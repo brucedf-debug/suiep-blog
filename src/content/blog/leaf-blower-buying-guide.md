@@ -30,3 +30,18 @@ For anything beyond a quick 15-minute job, arm fatigue from a handheld blower ad
 ## What to Actually Check Before Buying
 
 Air volume (measured in CFM) and air speed (MPH) both matter, but CFM is the better predictor of how quickly you'll actually move a pile of leaves — a blower with high MPH and low CFM will scatter leaves more than it clears them. Also check whether the unit has a variable speed trigger rather than just on/off; it makes a big difference for precision work like clearing mulch beds or getting leaves out of gravel without blasting it everywhere. Weight matters more than the spec sheet suggests too — try to get a sense of how a model feels held out at arm's length before committing, since a few extra pounds becomes very noticeable by the end of a full yard.
+
+## Blower/Vac Combo Units
+
+Many mid-range blowers double as a vacuum and mulcher with a quick attachment swap, sucking leaves into a shoulder bag and shredding them down to a fraction of their original volume on the way in. That's a real convenience if you're bagging leaves for curbside pickup or feeding them into a compost pile, since mulched leaves break down far faster than whole ones. The tradeoff is a bit of extra weight and setup time for the vacuum tube and bag, so it's worth trying whether the swap is genuinely quick on the model you're considering rather than taking the spec sheet's word for it.
+
+## Noise Levels and Local Rules
+
+Gas blowers routinely run 90-something decibels at operator distance, loud enough that hearing protection is a real consideration, not just a nice-to-have. Battery and corded electric models are meaningfully quieter, which matters if you have close neighbors or live somewhere with posted quiet hours. Some cities and HOAs now restrict gas blower use to specific days or hours, and a small but growing number have banned gas models outright — a quick search for your city or county's noise ordinance before buying a gas unit can save you an unpleasant surprise later.
+
+## Matching Power Class to Yard Size
+
+- **Small yard or patio (under a quarter acre):** a corded or entry-level battery handheld is plenty, and you'll appreciate the lighter weight.
+- **Typical suburban lot:** a mid-power battery handheld with a spare battery covers most fall cleanups without running out of charge mid-job.
+- **Large lot or heavy tree cover:** a backpack battery unit or a gas model gives you the runtime and power to actually finish before you're worn out.
+- **Multiple properties or professional-level use:** gas backpack blowers remain the standard for a reason — unmatched runtime and power once you're covering serious ground.

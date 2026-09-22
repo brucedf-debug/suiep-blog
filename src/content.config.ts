@@ -18,7 +18,9 @@ const blog = defineCollection({
         'outdoor-living',
       ]),
       tags: z.array(z.string()).default([]),
-      heroImage: image().optional(),
+      // Every post needs a hero image and 800+ words — enforced here and by
+      // scripts/check-content-standards.mjs, which runs before every build.
+      heroImage: image(),
       draft: z.boolean().default(false),
     }),
 });

@@ -52,3 +52,22 @@ If you only do occasional light tasks — hanging shelves, assembling furniture,
 ## Our Recommendation
 
 For a first tool, a drill/driver is the more versatile single purchase. If you're already planning outdoor or structural projects — a deck, a fence, framing — add an impact driver from the start rather than fighting through them with a drill alone. Once you own both, you'll likely find yourself reaching for the impact driver more often than expected once you're used to how much faster it handles anything beyond a handful of small screws.
+
+## Battery Life and Runtime
+
+Because an impact driver's bursts do more of the work than sustained motor output, it's usually gentler on a battery than a drill fighting through a long fastener at full torque. In practice that means an impact driver often outlasts a drill of the same battery capacity when you're doing a lot of driving rather than drilling. If you're building a cordless kit from scratch, it's worth pairing each tool with its own battery rather than sharing one pack between them — swapping batteries mid-job is one of the more annoying ways to lose momentum on a project.
+
+## Common Mistakes to Avoid
+
+- Using a drill's clutch setting as a substitute for an impact driver on long deck screws — it'll slip and strip before the screw is fully seated.
+- Buying impact-rated bits and drill bits in the same round-shank format and assuming they're interchangeable; impact drivers need hex-shank bits specifically.
+- Skipping a pilot hole on hardwoods with an impact driver, which raises the odds of splitting the wood even though the tool has enough torque to drive the screw regardless.
+- Assuming higher voltage always means more power — torque output and the hammer mechanism's design matter more than the battery's voltage rating alone.
+
+## Frequently Asked Questions
+
+**Can an impact driver strip a screw?** Less often than a drill, but it can happen with worn or non-impact-rated bits, since a bit that isn't hardened for repeated hammering can slip inside the screw head under the bursts of torque.
+
+**Is an impact driver louder than a drill?** Yes, noticeably — the rattling sound of the hammer mechanism engaging is inherent to how it works, not a sign of a problem.
+
+**Do impact drivers work for drilling holes?** In a pinch, with a hex-shank bit, but expect less control than a drill and a higher chance of blowing through the back of thin material.

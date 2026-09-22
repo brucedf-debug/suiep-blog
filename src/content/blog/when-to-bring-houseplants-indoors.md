@@ -1,5 +1,5 @@
 ---
-title: "When to Bring Houseplants Indoors Before Fall (And How to Do It Right)"
+title: "When to Bring Houseplants Indoors Before Fall"
 description: "The temperature threshold that matters, the 50-50 rule for timing it, and how to check plants for pests before they come back inside."
 pubDate: 2026-08-28
 category: indoor-plants

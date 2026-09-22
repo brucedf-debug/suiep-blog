@@ -1,9 +1,19 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { contactEmail } from '../lib/site';
+import { contactEmail, siteName } from '../lib/site';
+
+const description = 'Get in touch with the Suiep team.';
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ContactPage',
+  name: `Contact | ${siteName}`,
+  description,
+  url: new URL('/contact/', Astro.site).toString(),
+};
 ---
 
-<Layout title="Contact" description="Get in touch with the Suiep team.">
+<Layout title="Contact" description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <div class="mx-auto max-w-3xl px-4 py-12 prose prose-stone">
     <h1>Contact Us</h1>
     <p>

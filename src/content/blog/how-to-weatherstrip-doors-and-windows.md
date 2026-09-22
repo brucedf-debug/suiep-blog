@@ -1,5 +1,5 @@
 ---
-title: "How to Weatherstrip Doors and Windows Before the Cold Sets In"
+title: "How to Weatherstrip Doors and Windows for Winter"
 description: "Find and seal the drafts that drive up heating bills, using the right weatherstripping material for each type of door and window."
 pubDate: 2026-09-01
 category: home-improvement

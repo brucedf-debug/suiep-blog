@@ -1,5 +1,5 @@
 ---
-title: "10 Pet-Safe Low-Light Indoor Plants (Non-Toxic to Cats & Dogs)"
+title: "10 Pet-Safe Low-Light Indoor Plants for Cats & Dogs"
 description: "Low-light houseplants that are also non-toxic to cats and dogs, so you don't have to choose between a green home and a safe one."
 pubDate: 2026-08-27
 category: indoor-plants

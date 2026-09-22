@@ -1,5 +1,5 @@
 ---
-title: "How to Plant Spring-Blooming Bulbs in Fall (Tulips, Daffodils, and More)"
+title: "How to Plant Spring-Blooming Bulbs in Fall"
 description: "The right depth, spacing, and timing for planting bulbs before the ground freezes, so they come back reliably every spring."
 pubDate: 2026-08-31
 category: gardening

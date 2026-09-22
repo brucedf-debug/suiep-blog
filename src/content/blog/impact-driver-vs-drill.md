@@ -1,5 +1,5 @@
 ---
-title: "Impact Driver vs. Drill: What's the Difference (and Which One Do You Need)?"
+title: "Impact Driver vs. Drill: What's the Real Difference?"
 description: "Impact drivers and drills look similar but work differently. Here's the real mechanical difference and which one to reach for on a given task."
 pubDate: 2026-08-27
 category: tools-reviews

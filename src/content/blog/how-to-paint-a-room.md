@@ -1,5 +1,5 @@
 ---
-title: "How to Paint a Room: Walls, Ceiling, and Trim in the Right Order"
+title: "How to Paint a Room in the Right Order"
 description: "The order you paint a room in actually matters — here's the professional sequence for ceiling, walls, and trim, plus prep and cleanup tips."
 pubDate: 2026-08-27
 category: home-improvement

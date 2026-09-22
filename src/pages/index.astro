@@ -3,17 +3,41 @@ import Layout from '../layouts/Layout.astro';
 import PostCard from '../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 import { categories } from '../lib/categories';
-import { siteTagline } from '../lib/site';
+import { siteName, siteTagline } from '../lib/site';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 6);
+
+const orgId = new URL('/', Astro.site).toString() + '#organization';
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': new URL('/', Astro.site).toString() + '#website',
+      name: siteName,
+      url: Astro.site,
+      description: siteTagline,
+      inLanguage: 'en-US',
+      publisher: { '@id': orgId },
+    },
+    {
+      '@type': 'Organization',
+      '@id': orgId,
+      name: siteName,
+      url: Astro.site,
+      description: siteTagline,
+    },
+  ],
+};
 ---
 
 <Layout
   title="Home & Garden Ideas That Work"
   description="Smart upgrades for indoor & exterior projects — practical gardening, DIY, and home improvement guides you can actually finish this weekend."
 >
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <section class="border-b border-stone-200 bg-stone-50">
     <div class="mx-auto max-w-5xl px-4 py-16 text-center">
       <p class="mb-3 text-sm font-semibold uppercase tracking-wide text-green-700">{siteTagline}</p>

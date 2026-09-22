@@ -1,5 +1,5 @@
 ---
-title: "How to Rake Leaves Efficiently (and What to Do With Them After)"
+title: "How to Rake Leaves Efficiently (and What to Do After)"
 description: "The timing and technique that save your back, plus the best way to bag, mulch, or compost leaves once they're off the lawn."
 pubDate: 2026-08-29
 category: outdoor-living

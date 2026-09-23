@@ -78,33 +78,27 @@ A simpler alternative: slide the front panel between pairs of stakes so it lifts
 
 Staple ½-inch hardware cloth to the inside of the three fixed walls, and across the bottom under the pile if rats or voles are common in your area. It keeps small scraps from falling out and keeps rodents from getting in, while still letting air through.
 
-## Step 7: Load the Bin
+## Step 7: Start Filling It
 
-1. Start with a few inches of coarse material, such as twigs or straw, for airflow at the bottom.
-2. Add layers of **browns** (dry leaves, cardboard, straw) and **greens** (kitchen scraps, grass clippings, coffee grounds), aiming for about two to three parts browns to one part greens by volume.
-3. Bury food scraps in the middle under a layer of browns to avoid smells and flies.
-4. Moisten the pile so it feels like a wrung-out sponge.
+Lay a few inches of coarse material, like twigs or straw, on the bottom so air can move up through the pile. Then add material as you collect it, mixing plenty of dry "browns" such as [fall leaves](/blog/how-to-rake-leaves-efficiently/) with kitchen scraps and other "greens," and keep the pile about as damp as a wrung-out sponge. Open the gate every week or two to turn the pile with a fork.
 
-Fall is ideal: [raked leaves](/blog/how-to-rake-leaves-efficiently/) give you a big supply of browns. Store a few bags to mix in through winter. Leave out meat, dairy, oily food and pet waste. Our full guide to [composting at home](/blog/how-to-compost-at-home/) covers what goes in and what stays out.
-
-## Step 8: Turn and Maintain
-
-Every week or two, open the gate and turn the pile with a garden fork, moving outside material into the center where it's warmest. Water in dry spells, and add browns if it gets soggy.
+What to add, the browns-to-greens ratio, hot vs. cold composting and fixing smelly or slow piles are all covered in our [beginner's guide to composting at home](/blog/how-to-compost-at-home/). This guide sticks to the bin itself.
 
 ## Expand to a Two- or Three-Bay System
 
 Once one bin fills, add a second bay by attaching two more pallets that share a wall with the first. Fill one side while the other finishes, then turn material from the active bay into the next. A three-bay system (new, active, finished) keeps compost coming steadily.
 
-## Troubleshooting
+## Troubleshooting the Bin
 
 | Problem | Likely cause | Fix |
 |---|---|---|
-| Smells like ammonia or rotten eggs | Too many greens or too wet | Mix in dry browns; turn to add air |
-| Nothing breaks down | Too dry, too many browns, or too small a pile | Water while turning; add greens; fill the bin fuller |
-| Rodents | Food scraps exposed, gaps in walls or floor | Bury scraps; line with hardware cloth; skip meat and dairy |
+| Rodents getting in | Gaps in walls or open floor, exposed food | Line walls and floor with hardware cloth; bury scraps |
 | Walls leaning | Stakes too shallow | Drive stakes deeper or add a second stake per corner |
-| Gate sagging | Light hinges or rotten frame | Use heavy hinges; add a block under the free end |
-| Pallets rotting | Normal over years of damp contact | Replace individual pallets as needed |
+| Gate sagging or hard to open | Light hinges or a rotting pallet frame | Use heavy hinges; add a block under the free end |
+| Material spilling through slats | Wide gaps between boards | Add hardware cloth or extra slats on the inside |
+| Pallets rotting | Normal after years of damp contact | Replace individual pallets as needed |
+
+For smells, a pile that won't heat up or one that stays soggy, see the troubleshooting table in our [composting guide](/blog/how-to-compost-at-home/).
 
 ## Using Finished Compost
 

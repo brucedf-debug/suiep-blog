@@ -35,17 +35,9 @@ More voltage generally means more power, but a well-designed 12V drill can outpe
 - **18V/20V class:** The sweet spot for most homeowners: decks, fences, drilling for anchors, mixing small batches of paint or thinset, and most general repairs.
 - **Heavy-duty/high-torque models:** For repeated large-diameter holes, big hole saws or all-day trade use. Most homeowners never need this tier.
 
-## Drill/Driver vs. Impact Driver vs. Hammer Drill
+## Do You Need a Drill/Driver, Impact Driver or Hammer Drill?
 
-These three look similar but solve different problems:
-
-| Tool | What it does | Best at | Not good at |
-|---|---|---|---|
-| Drill/driver | Drills holes and drives screws with an adjustable clutch | Precise drilling, controlled screw driving, furniture | Driving many long structural screws quickly |
-| Impact driver | Adds rotational hammering blows | Long screws, lag bolts, decking, fast repetitive driving | Precise drilling; it has no clutch to stop overdriving |
-| Hammer drill | Adds forward percussion | Drilling into brick, block and concrete | Delicate work (use it with hammer mode off) |
-
-A standard drill/driver with a masonry bit can manage the occasional small hole in soft brick or mortar, but for concrete a hammer drill is dramatically faster. For more on the second tool most people add, see our comparison of an [impact driver vs. a drill](/blog/impact-driver-vs-drill/). Many [budget combo kits](/blog/best-budget-power-tool-combo-kits/) pair a drill/driver with an impact driver because the two cover almost everything a homeowner needs.
+This guide is about choosing a **drill/driver**, the most versatile first tool. If you mostly drive long screws for decks, fences or framing, you'll also want an impact driver; our [impact driver vs. drill comparison](/blog/impact-driver-vs-drill/) explains how the two work and which jobs suit each. If you drill into brick or concrete regularly, look for a drill with a **hammer mode**, since a standard drill/driver only manages the occasional small hole in soft masonry.
 
 ## Brushless vs. Brushed Motors
 

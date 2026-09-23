@@ -97,7 +97,7 @@ Usually yes, if you'll use at least two of the tools. The kit spreads battery an
 
 ### Do I need an impact driver if I have a drill?
 
-Not strictly, but an impact driver makes driving long screws much faster and easier on your wrist. For deck, fence or framing projects, it's worth it.
+For decks, fences or framing, usually yes. For everything else, a drill/driver is enough. Our [impact driver vs. drill comparison](/blog/impact-driver-vs-drill/) breaks down which jobs need which tool.
 
 ### Is 12V powerful enough for home use?
 

@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { siteName, siteTagline } from '../lib/site';
+import { authors, authorSlugs } from '../lib/authors';
 
 const description = 'Learn about Suiep and the team behind our home, garden, and DIY guides.';
 const jsonLd = {
@@ -24,13 +25,32 @@ const jsonLd = {
     <h1>About Suiep</h1>
     <p>
       <strong>Suiep</strong> stands for <em>{siteTagline}</em> &mdash; that's the whole mission in
-      five words. We're a home, garden, and DIY publication focused on practical, tested advice
-      you can actually use, from weekend building projects to plant care and tool reviews.
+      five words. We're a home, garden, and DIY publication focused on practical, well-researched
+      advice you can actually use, from weekend building projects to plant care and tool buying guides.
     </p>
     <p>
       We started Suiep because too many home-improvement articles online are vague or hedge on
       the specifics. Every guide here aims to be detailed enough to actually follow step by step,
       with real materials lists and cut sizes instead of vague gestures at "the right tools."
+    </p>
+    <h2>Who writes Suiep</h2>
+    <p>
+      Suiep's guides are published under three editorial personas. Each one covers two sections
+      of the site and writes in a consistent voice, so you know what to expect from every article:
+      Emily explains and reassures, Claire organizes and guides, and Nora compares and helps you decide.
+    </p>
+    <ul>
+      {authorSlugs.map((slug) => (
+        <li>
+          <a href={`/author/${slug}/`}><strong>{authors[slug].name}</strong></a> &mdash; {authors[slug].role}.
+          {' '}{authors[slug].approach}
+        </li>
+      ))}
+    </ul>
+    <p>
+      Our buying guides are based on manufacturer specifications, established best practices, and
+      the practical trade-offs between options. When an article describes hands-on testing, it says
+      so explicitly; otherwise, it's research-based guidance.
     </p>
     <h2>Our editorial approach</h2>
     <ul>

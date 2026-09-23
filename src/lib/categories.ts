@@ -21,7 +21,7 @@ export const categories: Record<CategorySlug, { name: string; description: strin
   },
   'tools-reviews': {
     name: 'Tools & Reviews',
-    description: 'Honest reviews and buying guides for tools and equipment.',
+    description: 'Buying guides and side-by-side comparisons for tools and equipment.',
   },
   'indoor-plants': {
     name: 'Indoor Plants',

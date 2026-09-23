@@ -1,0 +1,93 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PostCard from '../../components/PostCard.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { getCollection } from 'astro:content';
+import { categories } from '../../lib/categories';
+import { authors, authorSlugs, authorSlugFor, type AuthorSlug } from '../../lib/authors';
+import { siteName } from '../../lib/site';
+
+export async function getStaticPaths() {
+  return authorSlugs.map((author) => ({ params: { author } }));
+}
+
+const { author: slug } = Astro.params as { author: AuthorSlug };
+const author = authors[slug];
+const pageURL = new URL(`/author/${slug}/`, Astro.site).toString();
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft && authorSlugFor(data) === slug)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+
+const description = `${author.name} writes Suiep's ${author.role.toLowerCase()} guides. ${author.approach}`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ProfilePage',
+  url: pageURL,
+  mainEntity: {
+    '@type': 'Person',
+    name: author.name,
+    url: pageURL,
+    description: author.bio,
+    knowsAbout: author.topics,
+    worksFor: { '@type': 'Organization', name: siteName, url: Astro.site?.toString() },
+  },
+};
+---
+
+<Layout title={`${author.name}, ${author.role}`} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <div class="mx-auto max-w-5xl px-4 py-10">
+    <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'About', href: '/about/' }, { name: author.name }]} />
+
+    <header class="mb-10 flex flex-col gap-5 sm:flex-row sm:items-start">
+      <div
+        class={`flex h-20 w-20 shrink-0 items-center justify-center rounded-full text-2xl font-bold text-white ${author.avatarClass}`}
+        aria-hidden="true"
+      >
+        {author.initials}
+      </div>
+      <div>
+        <h1 class="mb-1 text-3xl font-bold text-stone-900">{author.name}</h1>
+        <p class="mb-4 text-sm font-semibold uppercase tracking-wide text-green-700">{author.role}</p>
+        <div class="prose prose-stone max-w-none">
+          <p>{author.bio}</p>
+          <p>{author.approach}</p>
+          <blockquote>{author.motto}</blockquote>
+        </div>
+      </div>
+    </header>
+
+    <section class="mb-10 grid gap-6 sm:grid-cols-2">
+      <div class="rounded-lg border border-stone-200 p-5">
+        <h2 class="mb-3 font-bold text-stone-900">Categories</h2>
+        <ul class="space-y-1 text-stone-600">
+          {author.categories.map((c) => (
+            <li>
+              <a href={`/category/${c}/`} class="text-green-700 hover:underline">{categories[c].name}</a>
+              <span class="text-sm"> &mdash; {categories[c].description}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+      <div class="rounded-lg border border-stone-200 p-5">
+        <h2 class="mb-3 font-bold text-stone-900">Typical topics</h2>
+        <ul class="list-disc space-y-1 pl-5 text-stone-600">
+          {author.topics.map((t) => <li>{t}</li>)}
+        </ul>
+      </div>
+    </section>
+
+    <p class="mb-10 text-sm text-stone-500">
+      {author.name} is an editorial persona used to give each section of {siteName} a consistent voice. Guides are
+      researched against manufacturer instructions and established best practices; read more about
+      <a href="/about/" class="text-green-700 hover:underline">how we work</a>.
+    </p>
+
+    <h2 class="mb-6 text-2xl font-bold text-stone-900">Articles by {author.name} ({posts.length})</h2>
+    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {posts.map((post) => <PostCard post={post} />)}
+    </div>
+  </div>
+</Layout>

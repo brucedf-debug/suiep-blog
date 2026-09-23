@@ -17,6 +17,9 @@ const blog = defineCollection({
         'indoor-plants',
         'outdoor-living',
       ]),
+      // Optional override; by default the author is the persona that covers
+      // the post's category (see src/lib/authors.ts).
+      author: z.enum(['emily-hart', 'claire-bennett', 'nora-ellis']).optional(),
       tags: z.array(z.string()).default([]),
       // Every post needs a hero image and 800+ words — enforced here and by
       // scripts/check-content-standards.mjs, which runs before every build.

@@ -3,6 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import PostCard from '../../components/PostCard.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { getCollection } from 'astro:content';
+import { Image, getImage } from 'astro:assets';
 import { categories } from '../../lib/categories';
 import { authors, authorSlugs, authorSlugFor, type AuthorSlug } from '../../lib/authors';
 import { siteName } from '../../lib/site';
@@ -21,6 +22,8 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft && authorSl
 
 const description = `${author.name} writes Suiep's ${author.role.toLowerCase()} guides. ${author.approach}`;
 
+const photo = await getImage({ src: author.photo, width: 512, height: 512, format: 'jpg' });
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'ProfilePage',
@@ -31,6 +34,7 @@ const jsonLd = {
     url: pageURL,
     description: author.bio,
     knowsAbout: author.topics,
+    image: new URL(photo.src, Astro.site).toString(),
     worksFor: { '@type': 'Organization', name: siteName, url: Astro.site?.toString() },
   },
 };
@@ -42,12 +46,14 @@ const jsonLd = {
     <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'About', href: '/about/' }, { name: author.name }]} />
 
     <header class="mb-10 flex flex-col gap-5 sm:flex-row sm:items-start">
-      <div
-        class={`flex h-20 w-20 shrink-0 items-center justify-center rounded-full text-2xl font-bold text-white ${author.avatarClass}`}
-        aria-hidden="true"
-      >
-        {author.initials}
-      </div>
+      <Image
+        src={author.photo}
+        alt={`Illustrative portrait of ${author.name}, Suiep's editorial persona for ${author.role.toLowerCase()}`}
+        width={256}
+        height={256}
+        class={`h-32 w-32 shrink-0 rounded-full object-cover ${author.avatarClass}`}
+        loading="eager"
+      />
       <div>
         <h1 class="mb-1 text-3xl font-bold text-stone-900">{author.name}</h1>
         <p class="mb-4 text-sm font-semibold uppercase tracking-wide text-green-700">{author.role}</p>

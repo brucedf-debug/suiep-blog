@@ -1,4 +1,8 @@
+import type { ImageMetadata } from 'astro';
 import type { CategorySlug } from './categories';
+import emilyPhoto from '../assets/authors/emily-hart.png';
+import clairePhoto from '../assets/authors/claire-bennett.png';
+import noraPhoto from '../assets/authors/nora-ellis.png';
 
 export type AuthorSlug = 'emily-hart' | 'claire-bennett' | 'nora-ellis';
 
@@ -11,6 +15,8 @@ export interface Author {
   approach: string;
   topics: string[];
   motto: string;
+  /** Illustrative portrait of the persona (not a photo of a real person). */
+  photo: ImageMetadata;
   // Full class strings (not built dynamically) so Tailwind picks them up.
   avatarClass: string;
 }
@@ -33,6 +39,7 @@ export const authors: Record<AuthorSlug, Author> = {
     topics: ['Plants for low-light rooms', 'Watering mistakes', 'Small-space vegetable gardens', 'Seasonal plant care'],
     motto: 'Before adding more water, check what the soil is telling you.',
     avatarClass: 'bg-green-700',
+    photo: emilyPhoto,
   },
   'claire-bennett': {
     name: 'Claire Bennett',
@@ -45,6 +52,7 @@ export const authors: Record<AuthorSlug, Author> = {
     topics: ['Storage and organization', 'Painting and wall repairs', 'Shelves and simple builds', 'Small home repairs'],
     motto: 'A good project starts with knowing what you can finish.',
     avatarClass: 'bg-amber-700',
+    photo: clairePhoto,
   },
   'nora-ellis': {
     name: 'Nora Ellis',
@@ -57,6 +65,7 @@ export const authors: Record<AuthorSlug, Author> = {
     topics: ['Beginner tool kits', 'Yard and garden equipment', 'Tool storage', 'Patio, deck and backyard upgrades'],
     motto: 'The right tool is the one that solves your project and fits your budget.',
     avatarClass: 'bg-sky-700',
+    photo: noraPhoto,
   },
 };
 

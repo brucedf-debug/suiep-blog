@@ -1,44 +1,109 @@
 ---
 title: "How to Care for a Fiddle Leaf Fig (Without Killing It)"
-description: "Fiddle leaf figs have a reputation for being finicky — here's the light, water, and humidity routine that actually keeps them alive."
+description: "Light, watering, humidity and feeding for a fiddle leaf fig, plus a leaf-by-leaf guide to brown spots, drop and yellowing, and what to do about each."
 pubDate: 2026-08-24
+updatedDate: 2026-09-23
 category: indoor-plants
 tags: ["fiddle leaf fig", "houseplants", "plant care"]
 heroImage: "../../assets/blog/fiddle-leaf-fig-hero.jpg"
 ---
 
-Fiddle leaf figs (Ficus lyrata) are popular for their dramatic, sculptural leaves — and notorious for dropping those same leaves at the slightest inconsistency in care. Most of the drama is avoidable once you understand what the plant actually wants.
+Fiddle leaf figs (*Ficus lyrata*) are loved for their big, violin-shaped leaves and feared for dropping those same leaves after the smallest change. The reputation is only half deserved. A fiddle leaf fig isn't fragile so much as specific: it wants plenty of light, a steady watering rhythm and a spot where nothing changes much. Most problems trace back to one of those three things, and the leaves usually tell you which one.
 
-## Light: More Than You Think
+**Quick answer:** Give it the brightest indirect light you have, close to a large window, with a bit of gentle morning sun if possible. Water thoroughly when the top 1–2 inches of soil are dry, and empty the saucer every time. Keep it away from drafts, heaters and air conditioning, aim for moderate humidity, feed lightly in spring and summer, and move it as little as possible.
 
-Fiddle leaf figs need bright, indirect light — a spot a few feet from a large south- or east-facing window is ideal. Low light is the single most common reason for leggy growth and leaf drop; if your plant looks sparse and stretched, light is almost always the first thing to fix. Direct, unfiltered afternoon sun through unshaded glass can scorch leaves too, so the goal is bright but filtered — a sheer curtain, or a spot a few feet back from a south-facing window, usually gets the balance right. If your home genuinely doesn't have a bright enough spot, a grow light on a daily timer is a reasonable substitute and will keep the plant from stretching toward the nearest window.
+## The Care Routine at a Glance
 
-## Water: Consistency Over Frequency
+| Need | What it wants | Common mistake |
+|---|---|---|
+| Light | Bright, indirect; some soft morning sun is welcome | A dim corner far from the window |
+| Water | Thorough soak when the top 1–2 in are dry | Small sips on a fixed schedule |
+| Soil | Chunky, fast-draining mix; pot with drainage holes | Dense soil in a pot without holes |
+| Humidity | Around 40–60% is comfortable | Dry winter air next to a heating vent |
+| Temperature | Roughly 60–80°F (16–27°C), no sudden swings | Cold drafts from doors or windows |
+| Feeding | Diluted fertilizer every 4–6 weeks in spring and summer | Feeding in winter or at full strength |
+| Stability | One good spot, quarter turn every few weeks | Moving it around the house |
 
-Water when the top 1-2 inches of soil are dry, then water thoroughly until it drains from the bottom. The pattern that kills these plants isn't underwatering or overwatering specifically — it's inconsistency, swinging between bone-dry and soaking wet. Setting a simple weekly check-in (not necessarily a weekly watering, just a check) helps you catch the plant's actual rhythm rather than watering on autopilot regardless of what the soil is doing. Always let excess water drain fully and empty any saucer underneath — a pot sitting in standing water is one of the most common overwatering mistakes, even when the watering schedule itself is otherwise correct.
+## Light: Start Here
 
-## Signs You're Overwatering
+Light is the foundation. Without enough of it, the plant uses water slowly, the soil stays wet longer, and root problems follow, so a light problem often shows up looking like a watering problem.
 
-Brown spots with yellow halos, and leaves that feel soft or mushy rather than crisp, usually point to overwatering or root rot. Cut back and check that the pot has good drainage. If you suspect root rot has set in, it's worth gently removing the plant from its pot to inspect the roots — healthy roots are firm and light-colored, while rotted roots are dark, mushy, and often smell unpleasant. Trimming away clearly rotted roots and [repotting](/blog/how-to-repot-a-houseplant/) into fresh, well-draining soil can save a plant that's caught early, though a fig with the majority of its root system rotted is a much harder recovery.
+- **Best spots:** within a few feet of a large east-facing window, or set back slightly from a south- or west-facing one, where the plant sees a wide patch of sky.
+- **Signs of too little light:** long gaps between leaves, new leaves smaller than old ones, leaning hard toward the window, and lower leaves dropping.
+- **Signs of too much harsh sun:** pale, bleached or crispy tan patches on leaves facing the glass, especially after a move into a sunnier spot.
 
-## Signs You're Underwatering
+If you don't have a bright enough window, a full-spectrum grow light on a timer for about 10–12 hours a day is a reasonable substitute. Before blaming the plant, check the spot: a room that looks bright to your eyes can still be dim for a plant a few feet back from the window.
 
-Crispy brown edges on leaves, and soil pulling away from the pot's sides, mean the plant needs water more consistently — not necessarily more of it at once. A pot that feels unusually light when lifted is another reliable underwatering signal, since dry soil weighs noticeably less than moist soil. If the plant has gone through a genuine dry spell, resist the urge to flood it all at once to compensate — a thorough, normal watering followed by returning to a consistent schedule works better than an overcorrection.
+## Watering: Consistency Over Frequency
+
+Water when the top 1–2 inches of soil are dry, then water slowly until it runs out of the drainage holes. Let the pot drain fully and empty the saucer. A plant sitting in a pool of water is one of the fastest routes to root rot.
+
+How often that happens depends on light, season, pot size and soil, so it might be every week in a bright summer window and every two or three weeks in winter. Instead of a fixed watering day, do a quick check once a week: push a finger into the soil, or lift the pot. Dry soil is noticeably lighter, and after a few weeks you'll recognize the weight of a pot that's ready for water.
+
+The pattern that really hurts fiddle leaf figs is swinging between extremes: bone-dry for days, then flooded to make up for it. A steady rhythm matters more than any exact amount.
+
+## Soil, Pot and Drainage
+
+Use a chunky, well-draining mix, such as a quality indoor potting mix with extra bark and perlite. The pot must have drainage holes. A decorative outer pot is fine as long as the plant sits in a draining nursery pot inside it and you tip out any water that collects.
 
 ## Humidity and Temperature
 
-Fiddle leaf figs prefer [humidity](/blog/raise-humidity-for-houseplants-in-winter/) above 30-40%, which is drier climates and winter heating can easily dip below. A humidifier nearby, or grouping it with other plants, helps, and misting can offer minor short-term relief though it's far less effective than actually raising ambient humidity. Keep it away from cold drafts, heating vents, and air conditioning — sudden temperature swings are another common trigger for leaf drop. A spot near a frequently opened exterior door in winter is a common unnoticed source of temperature swings worth checking for.
+Fiddle leaf figs are comfortable in ordinary room temperatures and moderate humidity. Winter heating can drop indoor humidity well below that, which often shows up as crispy leaf edges.
+
+- Run a humidifier nearby, or group it with other plants. Our guide to [raising humidity for houseplants in winter](/blog/raise-humidity-for-houseplants-in-winter/) covers the options.
+- Misting helps only for minutes and isn't a real fix.
+- Keep it away from heating vents, radiators, air conditioners and exterior doors that open often. A sudden cold draft is a classic trigger for leaf drop.
 
 ![Close-up of fiddle leaf fig leaves](../../assets/blog/fiddle-leaf-fig-closeup.jpg)
 
-## Feeding and Growth Expectations
+## What the Leaves Are Telling You
 
-During the active growing months (typically spring through early fall), a balanced liquid [fertilizer](/blog/how-to-fertilize-houseplants/) diluted to about half strength every four to six weeks supports steady new growth without risking fertilizer burn. Hold off on feeding in the dormant winter months, when the plant's growth naturally slows regardless of how much fertilizer it gets. New growth typically emerges from the top of the plant as a small, tightly furled leaf that unfurls over a week or two — a plant that isn't pushing any new leaves across an entire growing season is worth reassessing for light, watering consistency, or root-bound conditions rather than assumed to simply be a slow grower.
+Leaf symptoms overlap, so look at where the damage starts and how fast it spreads.
 
-## Pests to Watch For
+| Symptom | Most likely cause | What to do |
+|---|---|---|
+| Dark brown spots starting in the middle or at the base of leaves, often on lower leaves | Overwatering or root rot | Let soil dry further; check roots; improve drainage |
+| Crispy, light brown edges; soil pulling away from the pot | Underwatering or very dry air | Water thoroughly and more consistently; raise humidity |
+| Tiny reddish-brown dots on new leaves | Edema from uneven watering | Usually harmless; spots fade as the leaf matures; keep watering steady |
+| Sudden drop of several healthy-looking leaves | Shock from a move, draft or temperature swing | Keep it in one stable spot; it usually settles in a few weeks |
+| Lower leaves yellowing and falling one by one | Too little light or soggy soil | Move closer to light; water less often |
+| Pale, bleached or scorched patches on sun-facing leaves | Sunburn after a sudden increase in direct sun | Filter the light with a sheer curtain; acclimate gradually |
+| Fine webbing or stippling under leaves | Spider mites | Wipe or rinse leaves; treat with insecticidal soap; raise humidity |
+| Small brown bumps that don't wipe off | Scale insects | Remove with a cotton swab dipped in rubbing alcohol; repeat weekly |
 
-Spider mites and scale are the two pests most likely to show up on a fiddle leaf fig, especially in dry indoor air during winter. Fine webbing on the underside of leaves or small stippled discoloration on the leaf surface usually points to spider mites, while small brown bumps that don't wipe off easily are typically scale. Wiping leaves down periodically with a damp cloth helps you catch either problem early and also removes dust that can block light absorption, which matters more for a plant already sensitive to inconsistent light.
+Damaged leaves won't turn green again. Once you fix the cause, the real sign of recovery is healthy new growth at the top. Remove badly damaged leaves if they bother you, but leave partly damaged ones, since they still help feed the plant.
 
-## Don't Rotate or Repot Too Often
+## When You Suspect Root Rot
 
-Fiddle leaf figs dislike being moved and can drop leaves in protest after a location change or repotting — even a positive one. Rotate the pot only a quarter turn every few weeks for even growth, rather than moving the whole plant around the house. When repotting genuinely becomes necessary (roots visibly circling the pot's edge, or water running straight through without being absorbed), size up gradually — one pot size larger, not a dramatic jump — since an oversized pot holds excess moisture the roots can't use fast enough, recreating the same overwatering risk the rest of this guide is trying to help you avoid.
+If brown spots keep spreading and the soil stays wet for a long time, slide the plant out of its pot and look at the roots. Healthy roots are firm and light-colored. Rotten ones are dark, mushy and may smell sour. Trim away the rotten roots with clean scissors, then [repot](/blog/how-to-repot-a-houseplant/) into fresh, fast-draining mix in a pot only slightly larger than the remaining root ball. Water lightly and put the plant back in bright, indirect light. A plant caught early often recovers; one with most of its roots gone is much harder to save.
+
+## Feeding and Growth
+
+From spring through early fall, feed every four to six weeks with a balanced liquid [houseplant fertilizer](/blog/how-to-fertilize-houseplants/) at about half the label strength. Stop in late fall and winter, when growth slows. Feeding a plant that's struggling for light won't help. Fix the light first.
+
+A healthy plant usually pushes new leaves from the top during the growing season, each one emerging as a tightly furled sheath that opens over a week or two. If a whole spring and summer pass without new growth, look at light first, then root-bound roots, then watering consistency.
+
+## Rotating, Moving and Repotting
+
+- **Rotate a quarter turn every few weeks** so the plant grows evenly rather than leaning toward the window.
+- **Avoid moving it between rooms.** If you must, expect a few dropped leaves and don't react by changing everything else at once.
+- **Repot only when needed:** roots circling the pot or coming out of the drainage holes, or water running straight through without soaking in. Go up just one pot size, about 2 inches wider, ideally in spring. An oversized pot holds more wet soil than the roots can use.
+- **Wipe the leaves** with a damp cloth every month or so. Dust reduces the light the leaves can use and hides early signs of pests.
+
+## FAQ
+
+### Why is my fiddle leaf fig dropping leaves?
+
+The usual triggers are a recent move, a cold draft or temperature swing, too little light, or uneven watering. Keep the plant in one bright spot, check the soil before every watering, and give it a few weeks to settle before changing anything else.
+
+### Should I mist my fiddle leaf fig?
+
+Misting raises humidity only for a few minutes and can leave water sitting on the leaves. A humidifier or grouping plants together does much more.
+
+### How fast does a fiddle leaf fig grow?
+
+In good light during spring and summer, a healthy plant can add several new leaves per season. In low light or in winter, growth slows or stops, which is normal.
+
+### Is a fiddle leaf fig safe for pets?
+
+No. Its sap is irritating to cats and dogs if chewed. If you have pets that chew plants, see our list of [pet-safe low-light plants](/blog/pet-safe-low-light-indoor-plants/) instead.

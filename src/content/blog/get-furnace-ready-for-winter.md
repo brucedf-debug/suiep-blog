@@ -1,42 +1,129 @@
 ---
 title: "How to Get Your Furnace Ready for Winter: A DIY Maintenance Checklist"
-description: "The filter swaps, vent checks, and safety tests that keep a forced-air furnace running efficiently and safely once the heat kicks on for the season."
+description: "A safe, step-by-step pre-season checklist for gas and electric forced-air furnaces: filters, vents, condensate, thermostat, detectors, warning signs and when to call a pro."
 pubDate: 2026-09-18
+updatedDate: 2026-09-23
 category: home-improvement
 tags: ["furnace maintenance", "winter prep", "hvac", "home maintenance"]
 heroImage: "../../assets/blog/pool/home-improvement/pair-04-hero.jpg"
 ---
 
-Most furnaces sit idle for five or six months a year, and the first cold snap is exactly the wrong time to find out something went wrong while it was off. A furnace that hasn't run since spring has had a season to collect dust in the filter, let debris settle in the vents, and develop a smell or a rattle nobody noticed because nobody was listening for it. None of the checks below require an HVAC license — they're the same handful of things a technician looks at first on a routine tune-up call, and doing them yourself before the season starts catches the easy problems before they turn into a no-heat call in January.
+Most furnaces sit idle for months, and the first cold snap is the worst time to discover something went wrong. Over the summer, filters load up with dust, vents get blocked by furniture, and batteries in thermostats and detectors quietly run down. None of the checks below require opening sealed parts of the furnace; they're the basics a homeowner can safely handle before the season, leaving combustion testing and internal inspection to a licensed technician.
 
-## Start With the Filter
+**Quick answer:** Before heating season, replace the air filter, clear 2–3 feet around the furnace, open all supply and return vents, check the outdoor intake and exhaust pipes on high-efficiency furnaces, and make sure the condensate drain flows. Test the thermostat, then run a full heating cycle and watch for unusual smells, sounds or short cycling. Test smoke and carbon monoxide detectors. Book a professional tune-up if the furnace is older, you noticed anything odd, or the manufacturer requires yearly service.
 
-A dirty filter is the single most common cause of furnace problems, and it's also the easiest to fix. A filter clogged with a season's worth of dust forces the blower motor to work harder to pull air through it, which drives up energy use and can cause the system to overheat and shut itself off on a safety switch. Pull the filter out and hold it up to a light — if you can't see light through it, it's overdue. Standard 1-inch filters are worth changing every one to three months during heavy use, not just once at the start of the season, so this is also a good moment to buy a few spares and set a reminder rather than treating it as a one-time task.
+## Safety First
 
-## Clear the Area Around the Unit
+- **Turn off power** at the furnace switch (it looks like a light switch on or near the unit) before removing any access panels.
+- **Never adjust gas valves, burners or the heat exchanger.** Those are jobs for a licensed technician.
+- **If you smell gas,** don't use switches or flames. Leave the house and call your gas utility from outside.
 
-Furnaces need airflow on all sides to run safely and efficiently, and a summer of storage tends to encroach on that space without anyone deciding it should. Walk the area around the furnace and clear away boxes, paint cans, and anything flammable that's crept within a couple of feet of the cabinet. This matters more than it sounds like it should — a furnace closet used for overflow storage is a genuine fire risk once the burner is running for hours a day, not just an inconvenience for a technician who needs to service it later.
+## The Pre-Season Checklist
 
-## Check and Clear the Supply and Return Vents
+| Task | Time | Why |
+|---|---|---|
+| Replace the air filter | 5 min | Restores airflow and efficiency |
+| Clear space around the furnace | 10 min | Fire safety and service access |
+| Open and clear all vents and returns | 15 min | Balanced airflow, less strain on the blower |
+| Check intake and exhaust pipes (high-efficiency units) | 5 min | Blocked pipes shut the furnace down |
+| Check the condensate drain | 5 min | Clogs trigger shutdowns or leaks |
+| Test the thermostat | 10 min | Confirms the system starts and heats |
+| Watch a full heating cycle | 15 min | Spots warning signs early |
+| Test smoke and CO detectors | 10 min | Life-safety check |
 
-Walk the house and make sure every supply vent and return grille is open and unobstructed by furniture, rugs, or curtains. It's common for a vent to get blocked off room by room over the summer without anyone noticing, since the air stops moving through it and there's no immediate consequence. A blocked return is the more serious problem of the two — it starves the system of the air it needs to pull in, which can strain the blower and unbalance airflow throughout the house — but a few closed supply vents add up the same way. Closing vents in unused rooms to "save energy" is a common instinct that usually backfires, since it just pushes more pressure and air noise through the rest of the system instead of actually reducing how hard the furnace runs.
+## Step 1: Replace the Filter
+
+A clogged filter forces the blower to work harder, raises energy use and can cause the furnace to overheat and shut off on its safety limit.
+
+1. Turn the thermostat off.
+2. Slide out the filter, noting the size printed on the frame and the airflow arrow.
+3. Install a new filter with the arrow pointing toward the furnace (in the direction of airflow).
+
+| Filter type | Typical replacement |
+|---|---|
+| 1-inch pleated | Often every 1–3 months during heating season |
+| 4–5 inch media filter | Often every 6–12 months |
+| Washable filters | Clean per the manufacturer's instructions |
+
+Check more often with pets, construction dust or allergies. Very high MERV filters can restrict airflow in some systems; follow the furnace manufacturer's recommendation.
+
+## Step 2: Clear the Area Around the Furnace
+
+Remove boxes, paint, cleaning products, laundry and anything flammable from the area. Leave space for air and for a technician to work. Many manufacturers specify minimum clearances in the manual; when in doubt, keep a few feet clear on all sides.
+
+## Step 3: Open Vents and Returns
+
+Walk through the house and make sure every supply register is open and return grilles aren't blocked by furniture, rugs or curtains. Vacuum dusty registers. Closing vents in unused rooms usually doesn't save much energy and can raise pressure in the ducts, so keep most of them open.
+
+## Step 4: Check Outdoor Pipes and Condensate (High-Efficiency Furnaces)
+
+High-efficiency furnaces usually vent through two plastic pipes on an outside wall or roof.
+
+- Make sure the intake and exhaust pipes are free of leaves, nests, snow and ice.
+- Keep shrubs and snow drifts well clear through winter.
+
+These furnaces also produce condensate water. Check that the drain line and condensate pump (if you have one) aren't clogged and water flows freely to the drain. A blocked drain can shut the furnace down.
 
 ![Technician's hand adjusting a thermostat on a wall near a furnace vent](../../assets/blog/pool/home-improvement/pair-04-inline.jpg)
 
-## Test the Thermostat Before You Need It
+## Step 5: Test the Thermostat
 
-Turn the thermostat to heat mode and set it a few degrees above room temperature to confirm the furnace actually kicks on, runs through a full cycle, and produces warm air at the vents within a few minutes. This is also the right time to replace thermostat batteries if it's a battery-powered model, since a dead thermostat battery in the middle of a cold snap is an entirely avoidable inconvenience. If you've been meaning to switch to a programmable or smart thermostat, early fall — before you're relying on the system daily — is the easiest window to do it, since any setup issues show up while the stakes are still low.
+- Replace the batteries if the thermostat uses them.
+- Switch to heat and set it a few degrees above room temperature.
+- Within a few minutes, the furnace should start and warm air should reach the vents.
+- Confirm the schedule, and set a comfortable setback temperature for nights or time away.
 
-## Listen and Look for Warning Signs
+Early fall is also the easiest time to install a programmable or smart thermostat, before you rely on the heat daily.
 
-Once the furnace has run through a full cycle, pay attention to what it sounded and smelled like. A faint dusty smell in the first few minutes of the season's first run is normal — that's just dust burning off the heat exchanger and it clears on its own. A smell that lingers past the first cycle, a burning-plastic odor, or any hint of a gas smell is not normal and should be treated as a reason to shut the system off and call a professional rather than something to monitor. The same goes for sounds: a brief startup rattle is common, but banging, grinding, or a repeated clicking that doesn't resolve into normal operation is worth having looked at before you're relying on the system every day.
+## Step 6: Watch and Listen Through a Full Cycle
 
-## Test Your Carbon Monoxide and Smoke Detectors
+| What you notice | Likely meaning | What to do |
+|---|---|---|
+| Faint dusty smell for the first few minutes of the season | Dust burning off | Normal; should fade quickly |
+| Burning plastic, electrical smell or lingering odor | Possible electrical or component problem | Shut the system off; call a pro |
+| Gas smell | Possible gas leak | Leave the house; call the gas utility from outside |
+| Loud banging, grinding or squealing | Ignition delay, motor or belt problem | Call a pro |
+| Furnace turns on and off every few minutes | Short cycling: dirty filter, sensor or sizing issue | Replace filter; call a pro if it continues |
+| Cool air from the vents | Ignition or safety lockout, filter, thermostat settings | Check settings and filter; call a pro |
+| Water around the unit | Condensate clog or leak | Clear the drain; call a pro if it returns |
+| Yellow, flickering burner flame (visible through a window) | Possible combustion problem | Call a pro; don't use the furnace until checked |
 
-A furnace is a combustion appliance, and the start of heating season is the single best-timed reminder of the year to test every smoke and carbon monoxide detector in the house. Press the test button on each unit, and if any detector is more than seven to ten years old or the battery has been chirping intermittently, replace the whole unit rather than just the battery — the sensors themselves degrade over time regardless of how fresh the battery is. This takes ten minutes and costs nothing if the detectors are already working, and it's the cheapest insurance available against the actual worst-case failure of a heating system.
+## Step 7: Test Smoke and Carbon Monoxide Detectors
 
-## Know When to Call a Professional
+A furnace burns fuel, so working CO detectors are essential. Press the test button on every smoke and CO alarm. Replace batteries as needed, and replace the whole unit when it reaches the end of life printed on it, often around 7–10 years. Install CO alarms near sleeping areas and on every level, following the manufacturer's guidance.
 
-The checks above cover what a homeowner can reasonably handle safely, but they're not a substitute for a professional tune-up, particularly if your furnace is more than a few years old or you noticed anything unusual during your own inspection. A technician can measure combustion efficiency, inspect the heat exchanger for cracks that aren't visible from outside the cabinet, and clean components that aren't meant to be opened up by a homeowner. Scheduling that visit in early fall, before the peak season backlog hits, also tends to get you a faster appointment and a lower rate than calling in the middle of the first real cold snap when every HVAC company in town is booked solid.
+## Step 8: Seal Heat Leaks
 
-**Related reading:** [How to Weatherstrip Doors and Windows for Winter](/blog/how-to-weatherstrip-doors-and-windows/), [Space Heater Buying Guide: Types, Safety, and Which One Fits Your Room](/blog/space-heater-buying-guide/) and [Portable Generator Buying Guide: Watts, Fuel Types, and What You Actually Need](/blog/portable-generator-buying-guide/).
+A furnace works harder when warm air escapes. [Weatherstripping doors and windows](/blog/how-to-weatherstrip-doors-and-windows/) and sealing obvious duct leaks in accessible basements or attics with foil tape or mastic are simple ways to cut heating costs.
+
+## Backup Heat and Power
+
+If the heat goes out during a storm, a safe backup plan matters. Our [space heater buying guide](/blog/space-heater-buying-guide/) covers safe room heating, and the [portable generator guide](/blog/portable-generator-buying-guide/) explains how to size a generator for a furnace blower. Never run a generator indoors or in a garage.
+
+## When to Call a Professional
+
+- The furnace is over several years old and hasn't had a tune-up recently
+- Anything unusual in the checklist above
+- Rising energy bills with no other explanation
+- Uneven heating from room to room
+- Your warranty requires annual professional maintenance
+
+A technician can check combustion, test safety controls, inspect the heat exchanger for cracks, clean the flame sensor and burners, and verify gas pressure. Booking in early fall usually means faster appointments than during the first cold snap.
+
+## FAQ
+
+### How often should I replace my furnace filter?
+
+For standard 1-inch filters, often every one to three months during heating season. Thicker media filters last longer. Check monthly and replace when dirty.
+
+### Is a burning smell normal when I first turn on the heat?
+
+A light dusty smell that fades within minutes is common. A strong, lingering or electrical smell isn't; turn the system off and call a pro.
+
+### Do I need an annual furnace tune-up?
+
+Many manufacturers and technicians recommend it, especially for gas furnaces, and some warranties require it. It's the only way to check combustion and the heat exchanger safely.
+
+### Should I close vents in rooms I don't use?
+
+Usually not. Closing many vents can increase duct pressure and reduce efficiency. Keep most vents open.

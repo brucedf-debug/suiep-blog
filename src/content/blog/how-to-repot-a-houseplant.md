@@ -47,8 +47,10 @@ Not every houseplant wants the same soil. A standard all-purpose potting mix wor
 
 ## Step 5: Water and Rest
 
-Water thoroughly right after repotting, then keep the plant out of direct sun for about a week while it recovers. Don't fertilize for at least a month — fresh potting mix usually has enough nutrients, and new roots are too sensitive for added fertilizer salts right away. Some temporary drooping or a few dropped leaves in the days after repotting is normal and not necessarily a sign anything went wrong; give the plant a couple of weeks to settle before judging whether the repot was successful.
+Water thoroughly right after repotting, then keep the plant out of direct sun for about a week while it recovers. Don't fertilize for at least a month — fresh potting mix usually has enough nutrients, and new roots are too sensitive for added [fertilizer](/blog/how-to-fertilize-houseplants/) salts right away. Some temporary drooping or a few dropped leaves in the days after repotting is normal and not necessarily a sign anything went wrong; give the plant a couple of weeks to settle before judging whether the repot was successful.
 
 ## Aftercare and What to Watch For
 
 Over the following weeks, resume your normal watering routine but pay closer attention than usual, since a plant in fresh soil can dry out at a different rate than it did in its old, more compacted mix. New growth — a fresh leaf, a lengthening stem — is the clearest sign the plant has settled in well. If a plant shows ongoing wilting, yellowing, or no new growth after a month or more, double-check that the pot size, soil type, and watering routine actually match what that particular species needs, since a struggling post-repot plant is more often a mismatch in one of those basics than a sign the repotting itself was done incorrectly.
+
+**Related reading:** [How to Propagate Houseplants from Cuttings (Water and Soil Methods)](/blog/propagate-houseplants-from-cuttings/) and [How to Get Rid of Fungus Gnats in Houseplants](/blog/how-to-get-rid-of-fungus-gnats/).

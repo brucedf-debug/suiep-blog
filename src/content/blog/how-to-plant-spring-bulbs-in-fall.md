@@ -48,3 +48,5 @@ Foliage typically emerges first as temperatures rise, followed by buds and then 
 - **Planting too shallow** — bulbs planted too close to the surface are prone to heaving out of the ground during repeated freezing and thawing.
 - **Cutting foliage back too soon in spring** — the leaves that follow the bloom are recharging the bulb for next year; removing them early weakens or skips next season's flowers.
 - **Planting in soil that stays wet** — bulbs rot quickly in poor drainage, so low or consistently damp spots in the yard are worth avoiding or amending with grit before planting.
+
+**Related reading:** [How to Plant Garlic in Fall for a Bigger Harvest Next Summer](/blog/how-to-plant-garlic-in-fall/), [How to Divide and Transplant Perennials in Fall](/blog/divide-and-transplant-perennials-in-fall/) and [How to Test Your Soil pH and Fix It Naturally](/blog/how-to-test-soil-ph/).

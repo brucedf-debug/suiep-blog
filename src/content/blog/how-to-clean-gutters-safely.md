@@ -11,11 +11,11 @@ Clogged gutters don't announce themselves until the damage is already done — a
 
 ## Why Gutters Clog Faster in Fall
 
-Gutters collect more than leaves. Shingle grit, seed pods, small branches, and the fine debris that blows off nearby trees all settle into the channel and pack down once they get wet. A few inches of compacted debris is enough to dam the flow even before the bulk of autumn leaf drop arrives, which is why a lot of homeowners are surprised to find a "clean-looking" gutter already backed up. Trees close to the roofline are the biggest factor — a single mature oak or maple can fill a run of gutter in a matter of weeks during peak drop, while a home with no overhanging trees might only need attention once a season.
+Gutters collect more than [leaves](/blog/how-to-rake-leaves-efficiently/). Shingle grit, seed pods, small branches, and the fine debris that blows off nearby trees all settle into the channel and pack down once they get wet. A few inches of compacted debris is enough to dam the flow even before the bulk of autumn leaf drop arrives, which is why a lot of homeowners are surprised to find a "clean-looking" gutter already backed up. Trees close to the roofline are the biggest factor — a single mature oak or maple can fill a run of gutter in a matter of weeks during peak drop, while a home with no overhanging trees might only need attention once a season.
 
 ## What You'll Need Before You Climb Anything
 
-- A stable extension ladder, taller than you think you need — you want your waist below the top of the roofline, not your feet
+- A stable extension [ladder](/blog/how-to-choose-a-ladder/), taller than you think you need — you want your waist below the top of the roofline, not your feet
 - A ladder stabilizer or standoff, which holds the ladder off the gutter itself and prevents it from crushing the lip
 - Thick gloves — wet gutter debris hides sharp roofing nails and grit more often than you'd expect
 - A small plastic scoop or an old garden trowel

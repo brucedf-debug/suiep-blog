@@ -25,7 +25,7 @@ Paint sheen affects both looks and durability, and picking the wrong one for a g
 
 ## Estimating How Much Paint You Need
 
-A gallon of paint typically covers 350-400 square feet with one coat, though porous or previously unpainted drywall can absorb more than that. Measure your room's wall square footage (height times the combined length of all walls, minus a rough allowance for windows and doors) and divide by expected coverage to estimate gallons needed, then round up rather than down — running short mid-project is a bigger hassle than having a partial gallon left over for touch-ups later.
+A gallon of paint typically covers 350-400 square feet with one coat, though porous or previously unpainted [drywall](/blog/how-to-patch-drywall/) can absorb more than that. Measure your room's wall square footage (height times the combined length of all walls, minus a rough allowance for windows and doors) and divide by expected coverage to estimate gallons needed, then round up rather than down — running short mid-project is a bigger hassle than having a partial gallon left over for touch-ups later.
 
 ## The Order: Ceiling, Then Walls, Then Trim
 
@@ -72,3 +72,5 @@ For latex or acrylic paint, rinse rollers and brushes in warm water until it run
 - **Buy a little extra paint** — running out mid-wall and buying more later risks a slight color/sheen mismatch between batches.
 - **Check the weather and ventilation** — high humidity slows drying noticeably, and good airflow while painting isn't just about fumes, it also helps each coat cure on schedule.
 - **Box your paint if using more than one can of the same color** — pouring multiple cans together into a larger container (called "boxing") evens out any subtle shade variation between batches, which matters more than people expect on a large wall under changing light.
+
+**Related reading:** [How to Choose the Right Ladder for Home Projects](/blog/how-to-choose-a-ladder/) and [How to Caulk a Bathtub Like a Pro](/blog/how-to-caulk-a-bathtub/).

@@ -38,3 +38,5 @@ Give new grass time to establish before mowing it for the first time — most gu
 ## Keep Foot Traffic Off the New Grass
 
 It's tempting to let the yard get back to normal use once seed is down, but new grass is fragile until its root system develops. Keep pets, kids, and lawn furniture off freshly seeded areas for at least a few weeks, and mark off the spot if it's not obvious where you seeded. A little patience here pays off directly in how thick and even the lawn looks by the time it goes dormant for winter — and by next spring, you'll be starting from a noticeably fuller lawn instead of the same thin patches you had this fall.
+
+**Related reading:** [How to Rake Leaves Efficiently (and What to Do After)](/blog/how-to-rake-leaves-efficiently/), [How to Test Your Soil pH and Fix It Naturally](/blog/how-to-test-soil-ph/) and [How to Winterize Your Sprinkler System Before the First Freeze](/blog/how-to-winterize-your-sprinkler-system/).

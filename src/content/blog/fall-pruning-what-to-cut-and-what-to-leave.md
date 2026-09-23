@@ -19,10 +19,10 @@ The other timing issue is bud set. Many flowering shrubs form next year's flower
 
 Dead, damaged, and diseased wood is fair game any time of year, including fall, since removing it doesn't trigger new growth and leaving it in place over winter just gives pests and disease somewhere to overwinter. Beyond that, a few categories of plants genuinely benefit from a fall cutback:
 
-- **Perennials prone to fungal disease** — peonies, bearded iris, and garden phlox are common examples. Their foliage can harbor fungal spores over winter, so cutting the dead top growth down to a few inches and disposing of it (not composting it) reduces next year's disease pressure.
+- **Perennials prone to fungal disease** — peonies, bearded iris, and garden phlox are common examples. Their foliage can harbor fungal spores over winter, so cutting the dead top growth down to a few inches and disposing of it (not [composting](/blog/how-to-compost-at-home/) it) reduces next year's disease pressure.
 - **Summer-blooming shrubs that flower on new wood** — butterfly bush and many hydrangea paniculata varieties bloom on growth produced the same year, so a fall or late-winter cutback doesn't cost you flowers the way it would on a spring bloomer.
 - **Overgrown hedges** once their active growth has slowed for the season — a light shaping cut is generally fine, though save any hard, structural cutback for late winter dormancy.
-- **Spent vegetable garden plants** — tomato vines, squash foliage, and other annual crops that are done for the season should come out and be composted or disposed of, especially if there's any sign of disease on the leaves.
+- **Spent vegetable garden plants** — tomato vines, squash foliage, and other annual crops that are done for the season should come out and be composted or disposed of, especially if there's any sign of disease on the [leaves](/blog/how-to-rake-leaves-efficiently/).
 
 ## What to Leave Alone Until Spring
 
@@ -43,7 +43,7 @@ It's also worth resisting the urge to remove more than about a quarter of a plan
 
 ## Special Cases Worth Knowing
 
-A few plants split the difference between the two categories above depending on what you're optimizing for. Coneflower, black-eyed Susan, and sedum seed heads can be left standing through fall and winter purely for the benefit of birds and winter garden interest, then cut back in late winter before new growth emerges — there's no urgency to remove them now unless they're diseased. Hosta and daylily foliage, on the other hand, tends to turn to mush after the first hard frost and is one of the few perennials where a fall cleanup genuinely makes spring easier, since there's little ornamental or wildlife value in the collapsed foliage and removing it now means less soggy plant matter to deal with later.
+A few plants split the difference between the two categories above depending on what you're optimizing for. Coneflower, black-eyed Susan, and sedum seed heads can be left standing through fall and winter purely for the benefit of birds and winter garden interest, then cut back in late winter before new growth emerges — there's no urgency to remove them now unless they're diseased. Hosta and daylily foliage, on the other hand, tends to turn to mush after the first hard frost and is one of the few [perennials](/blog/divide-and-transplant-perennials-in-fall/) where a fall cleanup genuinely makes spring easier, since there's little ornamental or wildlife value in the collapsed foliage and removing it now means less soggy plant matter to deal with later.
 
 ## A Simple Fall Pruning Checklist
 

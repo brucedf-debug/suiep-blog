@@ -45,7 +45,7 @@ Attach the boards to the 4x4 corner posts using two screws per board-to-post con
 
 ## Step 4: Place and Fill
 
-Set the frame in position, lay landscape fabric on the bottom if you're building over grass, then fill with a mix of 60% topsoil, 30% compost, and 10% perlite or coarse sand for drainage. Fill in stages rather than dumping everything at once — spreading and lightly tamping a few inches at a time helps avoid large air pockets that cause the soil level to drop unevenly after the first watering.
+Set the frame in position, lay landscape fabric on the bottom if you're building over grass, then fill with a mix of 60% topsoil, 30% [compost](/blog/how-to-compost-at-home/), and 10% perlite or coarse sand for drainage. Fill in stages rather than dumping everything at once — spreading and lightly tamping a few inches at a time helps avoid large air pockets that cause the soil level to drop unevenly after the first watering.
 
 ## Estimating How Much Soil You Need
 
@@ -62,3 +62,5 @@ Raised beds drain well, which is a benefit for root health but also means they d
 ## Maintenance Over Time
 
 Raised bed soil settles and compacts somewhat every season as organic matter breaks down, so plan to top off the bed with fresh compost each spring before planting rather than assuming the original fill level will last indefinitely. Untreated cedar will gray naturally over time from sun and moisture exposure — this is cosmetic, not structural, and doesn't affect how well the bed functions, though an exterior wood oil applied every year or two will keep the boards looking fresher for longer if that matters to you.
+
+**Related reading:** [The Beginner's Guide to Companion Planting](/blog/companion-planting-guide/) and [How to Test Your Soil pH and Fix It Naturally](/blog/how-to-test-soil-ph/).

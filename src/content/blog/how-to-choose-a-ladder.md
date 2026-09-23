@@ -11,7 +11,7 @@ The wrong ladder isn't just inconvenient — it's one of the more common causes 
 
 ## Step Ladder vs. Extension Ladder
 
-**Step ladders** are self-supporting (no wall needed) and best for indoor work, gutter cleaning, and reaching low rooflines. They come in A-frame form and typically top out around 12-16 feet of reach for homeowner models. Their self-supporting design also makes them the better choice for work in open areas without a nearby wall or structure to lean against, like changing a light fixture in the middle of a room.
+**Step ladders** are self-supporting (no wall needed) and best for indoor work, [gutter](/blog/how-to-clean-gutters-safely/) cleaning, and reaching low rooflines. They come in A-frame form and typically top out around 12-16 feet of reach for homeowner models. Their self-supporting design also makes them the better choice for work in open areas without a nearby wall or structure to lean against, like changing a light fixture in the middle of a room.
 
 **Extension ladders** lean against a structure and extend telescopically, making them the right choice for second-story exterior work like roof access or high siding repairs. Because they rely on a wall or structure for support, they need a stable, even surface to rest their base on, which can rule them out on soft ground or uneven landscaping without additional stabilizing feet.
 
@@ -31,7 +31,7 @@ Every ladder has a weight rating printed on it — this includes your body weigh
 - **Type IA (300 lbs)**: extra heavy duty
 - **Type IAA (375 lbs)**: special duty, typically overkill for most homeowner projects but worth knowing exists
 
-When in doubt, size up — a higher duty rating also usually means a sturdier, less flexible ladder even within your actual weight range. A ladder that flexes noticeably underfoot, even one technically rated for your weight, is less confidence-inspiring to work from and can make precise tasks like painting a trim line or driving a screw harder than they need to be.
+When in doubt, size up — a higher duty rating also usually means a sturdier, less flexible ladder even within your actual weight range. A ladder that flexes noticeably underfoot, even one technically rated for your weight, is less confidence-inspiring to work from and can make precise tasks like [painting](/blog/how-to-paint-a-room/) a trim line or driving a screw harder than they need to be.
 
 ## Material: Aluminum vs. Fiberglass vs. Wood
 

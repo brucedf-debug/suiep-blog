@@ -44,7 +44,7 @@ Wall-mounted planters, hanging chairs, and railing-mounted shelves use space tha
 
 ## Seasonal Storage and Weatherproofing
 
-Small-space furniture often needs to do double duty as portable furniture too, since a tight balcony rarely has room for a dedicated storage shed. Look for pieces that stack, fold flat, or are light enough to bring indoors during harsh weather or the off-season, which also extends their lifespan considerably compared to furniture left exposed to rain, snow, or intense sun year-round. If storage indoors genuinely isn't an option, breathable outdoor furniture covers (rather than fully sealed plastic ones, which can trap moisture and encourage mold) are worth the small investment for anything left outside through winter.
+Small-space furniture often needs to do double duty as portable furniture too, since a tight balcony rarely has room for a dedicated storage shed. Look for pieces that stack, fold flat, or are light enough to bring indoors during harsh weather or the off-season, which also extends their lifespan considerably compared to furniture left exposed to rain, snow, or intense sun year-round. If storage indoors genuinely isn't an option, breathable [outdoor furniture](/blog/winterize-outdoor-furniture/) covers (rather than fully sealed plastic ones, which can trap moisture and encourage mold) are worth the small investment for anything left outside through winter.
 
 ## Light It Well
 
@@ -53,3 +53,5 @@ String lights or a couple of small solar lanterns make a tiny space feel finishe
 ## Budget-Friendly Approaches
 
 A small space is actually one of the easier situations to furnish well on a limited budget, simply because you need fewer pieces overall. Prioritizing spend on the one or two items you'll use most — likely seating — while keeping accessories like planters and lighting more budget-conscious is a reasonable way to allocate a limited budget without the whole space feeling cheap. Secondhand or clearance furniture is also worth checking for small spaces specifically, since a slightly mismatched but well-scaled piece is often easier to make work in a tight footprint than in a larger, more visually demanding space.
+
+**Related reading:** [How to Extend Your Outdoor Season Into Fall (Without a Full Remodel)](/blog/extend-outdoor-season-into-fall/) and [How to Build a DIY Deck Planter Box](/blog/diy-deck-planter-box/).

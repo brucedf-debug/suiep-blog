@@ -11,7 +11,7 @@ Raking sounds simple until you're an hour in with a sore back and a lawn that st
 
 ## Time It Around the Leaf Drop, Not the Calendar
 
-Raking too early just means doing the job twice, since more leaves keep coming down. Waiting until the trees are fully bare has its own cost: a thick, wet layer left too long mats down and starts smothering the grass underneath. The best window is usually when 70–80% of the leaves are down and before the next heavy rain — that's enough volume to make the effort worthwhile without letting the lawn suffer. If your yard has several trees that drop at different times, it's often more efficient to do one thorough pass rather than chasing every tree's individual timing, accepting that you might catch some trees slightly early or late.
+Raking too early just means doing the job twice, since more leaves keep coming down. Waiting until the trees are fully bare has its own cost: a thick, wet layer left too long mats down and starts smothering the grass underneath. The best window is usually when 70–80% of the leaves are down and before the next heavy rain — that's enough volume to make the effort worthwhile without letting the [lawn](/blog/how-to-aerate-and-overseed-your-lawn-in-fall/) suffer. If your yard has several trees that drop at different times, it's often more efficient to do one thorough pass rather than chasing every tree's individual timing, accepting that you might catch some trees slightly early or late.
 
 ## Choosing the Right Rake
 
@@ -27,11 +27,11 @@ Most of the back strain from raking comes from reaching too far and pulling with
 
 - **Bagging** — paper lawn bags break down in most municipal compost programs; plastic bags don't, and some cities won't even collect leaves in them.
 - **Mulch mowing** — running a mower over a dry, thin layer shreds leaves fine enough to feed the lawn instead of removing them. If you can still see grass through the shredded layer, it's thin enough to leave in place.
-- **Composting** — shredded leaves are a "brown" material that balances out nitrogen-heavy kitchen scraps and grass clippings in a compost pile, so save a few bags of them for later in the season even if you don't have space to compost right now.
+- **Composting** — shredded leaves are a "brown" material that balances out nitrogen-heavy kitchen scraps and grass clippings in a [compost pile](/blog/how-to-compost-at-home/), so save a few bags of them for later in the season even if you don't have space to compost right now.
 
 ## Two Tools Worth Having
 
-A tarp or a set of leaf scoops (the large claw-shaped hand tools) moves piles to the curb far faster than carrying armloads, and saves your grip and forearms in the process. For gutters, fence lines, and other tight corners a rake can't reach cleanly, a cordless leaf blower clears them in a fraction of the time raking would take. A tarp specifically is worth the small investment even if you already own a wheelbarrow — dragging a loaded tarp across grass is noticeably easier than pushing a heavy wheelbarrow load, especially over an uneven or sloped yard.
+A tarp or a set of leaf scoops (the large claw-shaped hand tools) moves piles to the curb far faster than carrying armloads, and saves your grip and forearms in the process. For gutters, fence lines, and other tight corners a rake can't reach cleanly, a cordless [leaf blower](/blog/leaf-blower-buying-guide/) clears them in a fraction of the time raking would take. A tarp specifically is worth the small investment even if you already own a wheelbarrow — dragging a loaded tarp across grass is noticeably easier than pushing a heavy wheelbarrow load, especially over an uneven or sloped yard.
 
 ## Working With Wet Leaves When You Have No Choice
 

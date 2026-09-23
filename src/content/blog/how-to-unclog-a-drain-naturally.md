@@ -19,7 +19,7 @@ If the sink is already full of stagnant water and nothing is draining, bail most
 
 ## Step 1: Try the Plunger First
 
-A wet/dry sink plunger (the flat-bottomed kind, different from a toilet plunger) can clear many simple clogs. Fill the sink with a couple inches of water first — the water helps create a proper seal for effective suction. In a double-basin kitchen sink, plug the second drain with a wet rag before plunging, or the air pressure you're trying to build will just escape through the other side instead of pushing down through the clog.
+A wet/dry sink plunger (the flat-bottomed kind, different from a [toilet](/blog/fix-running-toilet/) plunger) can clear many simple clogs. Fill the sink with a couple inches of water first — the water helps create a proper seal for effective suction. In a double-basin kitchen sink, plug the second drain with a wet rag before plunging, or the air pressure you're trying to build will just escape through the other side instead of pushing down through the clog.
 
 ## Step 2: Remove and Clean the Stopper
 
@@ -50,3 +50,5 @@ A cheap mesh drain strainer catches hair and food debris before it enters the pi
 ## When to Call a Plumber
 
 If water backs up in multiple drains at once, or a snake meets resistance you can't clear, the blockage may be deeper in your main line — that's a job for a professional with a motorized auger. Recurring clogs in the same drain despite regular cleaning are also worth having inspected, since that pattern can point to a structural pipe issue (a sag, a root intrusion, a partial collapse) that no amount of at-home clearing will permanently fix.
+
+**Related reading:** [How to Caulk a Bathtub Like a Pro](/blog/how-to-caulk-a-bathtub/) and [How to Clean Your Gutters Safely This Fall](/blog/how-to-clean-gutters-safely/).

@@ -34,3 +34,5 @@ The step gardeners most often get wrong is timing the turn-under too close to th
 ## Is It Worth the Extra Step?
 
 For a bed that would otherwise sit bare and eroding all winter, a cover crop is one of the lowest-effort, highest-payoff things you can do in the garden. The seed itself is inexpensive, the sowing takes an afternoon, and everything after that happens without you. Compare that to what a bare bed costs you by spring — compacted soil that needs extra work to loosen, a flush of weeds that established over winter, and no nutrient boost waiting for your new plants — and it's clear why gardeners who try cover cropping once tend to make it a permanent part of their fall routine.
+
+**Related reading:** [How to Test Your Soil pH and Fix It Naturally](/blog/how-to-test-soil-ph/), [How to Compost at Home: A Beginner's Guide](/blog/how-to-compost-at-home/) and [How to Plant Garlic in Fall for a Bigger Harvest Next Summer](/blog/how-to-plant-garlic-in-fall/).

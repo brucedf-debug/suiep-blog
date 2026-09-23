@@ -11,7 +11,7 @@ Just because the mornings are cooler doesn't mean the backyard has to go quiet u
 
 ## Add a Heat Source (Fire Pit, Patio Heater, or Both)
 
-Heat is the piece that makes the biggest difference, and you don't need a major installation to get it. A wood-burning or propane fire pit gives you both warmth and a natural gathering point — people angle chairs toward it without being told to. If you already have a fire pit, fall is the season it earns its keep; if you don't, a portable propane model is a reasonable weekend purchase that needs no permanent installation.
+Heat is the piece that makes the biggest difference, and you don't need a major installation to get it. A wood-burning or propane [fire pit](/blog/diy-backyard-fire-pit/) gives you both warmth and a natural gathering point — people angle chairs toward it without being told to. If you already have a fire pit, fall is the season it earns its keep; if you don't, a portable propane model is a reasonable weekend purchase that needs no permanent installation.
 
 A standalone patio heater is the other common option, and it has real advantages a fire pit doesn't: no smoke, no ash cleanup, and even heat distribution that doesn't depend on which side of the flame someone is sitting on. Propane heaters throw the most heat for the money, while electric infrared heaters are quieter and don't need a fuel tank refilled, at the cost of needing a nearby outlet. For a covered patio, an electric option is usually the safer and more practical choice, since open-flame heaters need clearance from anything overhead.
 
@@ -23,7 +23,7 @@ Retractable outdoor curtains on a pergola or covered porch are worth the investm
 
 ## Layer in Soft Textiles and Lighting
 
-A patio that felt fine on bare metal chairs in July starts feeling cold and uninviting in September, even before the air temperature actually drops much. Outdoor-rated cushions, a few weatherproof throw blankets kept in a covered bin nearby, and a thick outdoor rug under the seating area all change how the space feels to sit in, independent of the actual temperature. Wool and acrylic blends hold up far better than cotton throws left outside, since cotton absorbs moisture and stays damp long after the air has dried.
+A patio that felt fine on bare metal chairs in July starts feeling cold and uninviting in September, even before the air temperature actually drops much. Outdoor-rated [cushions](/blog/winterize-outdoor-furniture/), a few weatherproof throw blankets kept in a covered bin nearby, and a thick outdoor rug under the seating area all change how the space feels to sit in, independent of the actual temperature. Wool and acrylic blends hold up far better than cotton throws left outside, since cotton absorbs moisture and stays damp long after the air has dried.
 
 Lighting matters more in fall than any other season, since the usable daylight hours shrink fast and most of your outdoor time shifts to early evening. String lights on a timer, a couple of solar path lights, and one warm-toned lantern near the seating area go a long way toward making the space feel intentional after dark rather than abandoned. Warm white (2700K–3000K) reads as cozy outdoors, where bright white daylight-toned bulbs tend to feel sterile and uninviting once the sun is down.
 

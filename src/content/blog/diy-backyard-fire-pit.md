@@ -58,3 +58,5 @@ A stacked-stone fire pit is low-maintenance, but it isn't zero-maintenance. Chec
 ## Safety Notes
 
 Check local ordinances before building — some municipalities require permits or restrict open fires entirely, and rules can vary significantly even between neighboring towns. Keep a hose or extinguisher within reach, never leave a fire unattended, and let the pit cool completely before covering it. Avoid building directly on a wood deck or near dry landscaping, and always check local burn bans during dry seasons before lighting a fire, even in a pit built specifically for that purpose.
+
+**Related reading:** [How to Extend Your Outdoor Season Into Fall (Without a Full Remodel)](/blog/extend-outdoor-season-into-fall/), [How to Season and Store Firewood So It Actually Burns Well](/blog/how-to-season-and-store-firewood/) and [How to Build a DIY Firewood Storage Rack](/blog/diy-firewood-storage-rack/).

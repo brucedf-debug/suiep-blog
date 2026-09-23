@@ -37,4 +37,6 @@ With the system physically drained, take a few minutes to protect the electronic
 
 ## When to Do This
 
-Timing matters almost as much as the process itself. Winterize too early and you lose weeks of useful watering for lawns and late-season plantings; wait too long and an unexpected early freeze can catch a full system off guard. A good rule of thumb is to winterize once nighttime temperatures are reliably dropping into the mid-30s, and definitely before the first hard freeze is forecast. If your region tends to get one unpredictable early cold snap before a longer mild stretch, it's worth keeping an eye on the forecast rather than working strictly off the calendar.
+Timing matters almost as much as the process itself. Winterize too early and you lose weeks of useful watering for [lawns](/blog/how-to-aerate-and-overseed-your-lawn-in-fall/) and late-season plantings; wait too long and an unexpected early freeze can catch a full system off guard. A good rule of thumb is to winterize once nighttime temperatures are reliably dropping into the mid-30s, and definitely before the first hard freeze is forecast. If your region tends to get one unpredictable early cold snap before a longer mild stretch, it's worth keeping an eye on the forecast rather than working strictly off the calendar.
+
+**Related reading:** [How to Winterize Outdoor Faucets and Prevent Frozen Pipes](/blog/how-to-winterize-outdoor-faucets/) and [How to Winterize Your Outdoor Furniture and Patio](/blog/winterize-outdoor-furniture/).

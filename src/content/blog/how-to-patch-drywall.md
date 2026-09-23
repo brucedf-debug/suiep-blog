@@ -43,7 +43,7 @@ Larger patches usually need a second, thinner coat to fully disappear. Repeat th
 
 ## Matching Wall Texture
 
-If your wall has any texture beyond a flat smooth finish — orange peel, knockdown, or a heavier stipple pattern — a perfectly smooth patch will stand out even after painting, since the surrounding texture catches light differently than a smooth patch does. Texture-matching spray products are available for common patterns and can be practiced on a scrap piece of cardboard first to dial in the right distance and technique before applying it to the actual patch. For a heavily textured wall, this step often matters more to the final look than the paint color match does.
+If your wall has any texture beyond a flat smooth finish — orange peel, knockdown, or a heavier stipple pattern — a perfectly smooth patch will stand out even after [painting](/blog/how-to-paint-a-room/), since the surrounding texture catches light differently than a smooth patch does. Texture-matching spray products are available for common patterns and can be practiced on a scrap piece of cardboard first to dial in the right distance and technique before applying it to the actual patch. For a heavily textured wall, this step often matters more to the final look than the paint color match does.
 
 ## Step 5: Prime and Paint
 
@@ -56,3 +56,5 @@ Rinse putty knives and any mixing containers before compound dries on them — d
 ## When to Call a Professional
 
 Holes larger than a dinner plate, water-damaged drywall, or repairs near electrical boxes are worth handing to a pro — patching over an unresolved leak or exposed wiring just hides a bigger problem. If a hole was caused by a leak, resolving the source of the moisture always comes before patching, since drywall patched over an active leak will just fail again, often faster and messier the second time.
+
+**Related reading:** [How to Build a Floating Shelf With No Visible Brackets](/blog/diy-floating-shelf/) and [How to Choose the Right Ladder for Home Projects](/blog/how-to-choose-a-ladder/).

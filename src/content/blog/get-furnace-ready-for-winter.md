@@ -38,3 +38,5 @@ A furnace is a combustion appliance, and the start of heating season is the sing
 ## Know When to Call a Professional
 
 The checks above cover what a homeowner can reasonably handle safely, but they're not a substitute for a professional tune-up, particularly if your furnace is more than a few years old or you noticed anything unusual during your own inspection. A technician can measure combustion efficiency, inspect the heat exchanger for cracks that aren't visible from outside the cabinet, and clean components that aren't meant to be opened up by a homeowner. Scheduling that visit in early fall, before the peak season backlog hits, also tends to get you a faster appointment and a lower rate than calling in the middle of the first real cold snap when every HVAC company in town is booked solid.
+
+**Related reading:** [How to Weatherstrip Doors and Windows for Winter](/blog/how-to-weatherstrip-doors-and-windows/), [Space Heater Buying Guide: Types, Safety, and Which One Fits Your Room](/blog/space-heater-buying-guide/) and [Portable Generator Buying Guide: Watts, Fuel Types, and What You Actually Need](/blog/portable-generator-buying-guide/).

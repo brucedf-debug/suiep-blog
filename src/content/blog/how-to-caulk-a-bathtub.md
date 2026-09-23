@@ -26,7 +26,7 @@ Bathroom caulk lives in one of the harshest environments in a home: constant hum
 
 ## Silicone vs. Acrylic Caulk
 
-Silicone is the better choice for a tub or shower specifically because of its flexibility and water resistance — it moves with the natural expansion and contraction of the tub without cracking, and it doesn't absorb water the way acrylic (painter's) caulk can. Acrylic caulk is easier to smooth and paints over cleanly, which makes it a better fit for trim and baseboards elsewhere in the house, but it's a poor choice around a tub where it will fail faster and is more prone to mold. Look specifically for a "kitchen & bath" or "tub & tile" label, which indicates a silicone formula with mildew-resistant additives built in.
+Silicone is the better choice for a tub or shower specifically because of its flexibility and water resistance — it moves with the natural expansion and contraction of the tub without cracking, and it doesn't absorb water the way acrylic (painter's) caulk can. Acrylic caulk is easier to smooth and [paints](/blog/how-to-paint-a-room/) over cleanly, which makes it a better fit for trim and baseboards elsewhere in the house, but it's a poor choice around a tub where it will fail faster and is more prone to mold. Look specifically for a "kitchen & bath" or "tub & tile" label, which indicates a silicone formula with mildew-resistant additives built in.
 
 ## Step 1: Remove the Old Caulk
 
@@ -57,3 +57,5 @@ Avoid using the tub or shower for at least 24 hours (check your product label �
 ## Keeping New Caulk Looking Fresh
 
 Ventilation is the single biggest factor in how long a fresh caulk job stays clean and mold-free. Run the bathroom exhaust fan during and for a while after every shower, and consider squeegeeing the tub and surrounding tile after use if mold has been a recurring problem in the past. Wiping down the seam with a diluted bleach or vinegar solution every few weeks can meaningfully extend the time before you're back here redoing the same job, especially in bathrooms with limited natural ventilation or frequent hot showers.
+
+**Related reading:** [How to Fix a Running Toilet in 15 Minutes](/blog/fix-running-toilet/) and [How to Unclog a Drain Without Harsh Chemicals](/blog/how-to-unclog-a-drain-naturally/).

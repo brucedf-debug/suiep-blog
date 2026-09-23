@@ -21,7 +21,7 @@ Starting seeds indoors gives slow-growing vegetables like tomatoes and peppers e
 
 ## Work Backward From Your Last Frost Date
 
-Every seed packet lists how many weeks before your last frost date to start indoors — typically 6-8 weeks for tomatoes and peppers, 4-6 for most flowers. Look up your local last frost date, then count backward on a calendar to find your start date. It's worth writing out a simple planting calendar for everything you intend to start, since different vegetables have different lead times and it's easy to lose track once you're juggling several varieties with staggered start dates.
+Every seed packet lists how many weeks before your last frost date to start indoors — typically 6-8 weeks for [tomatoes](/blog/how-to-grow-tomatoes-in-pots/) and peppers, 4-6 for most flowers. Look up your local last frost date, then count backward on a calendar to find your start date. It's worth writing out a simple planting calendar for everything you intend to start, since different vegetables have different lead times and it's easy to lose track once you're juggling several varieties with staggered start dates.
 
 ## Choosing Which Vegetables Are Worth Starting Indoors
 
@@ -52,3 +52,5 @@ Leggy, stretched seedlings almost always point to insufficient light — move th
 ## Step 4: Harden Off Before Planting Outside
 
 About a week before your last frost date, start setting seedlings outside for a few hours a day, gradually increasing exposure to sun and wind. Skipping this "hardening off" step is the second most common reason indoor-started seedlings die within days of transplanting outdoors — they simply aren't used to direct sun and wind yet. Start with a shaded, wind-protected spot for the first day or two, then gradually work up to full sun exposure by the end of the week, watching for signs of stress like wilting or scorched leaves and pulling back the exposure if you see them.
+
+**Related reading:** [How to Build a DIY Cold Frame to Keep Your Garden Going Into Winter](/blog/diy-cold-frame-for-fall-winter-gardening/) and [The Beginner's Guide to Companion Planting](/blog/companion-planting-guide/).

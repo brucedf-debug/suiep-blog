@@ -31,16 +31,16 @@ Before moving anything inside:
 
 - Check the undersides of leaves, not just the tops — that's where mites and mealybugs tend to hide.
 - Look for sticky residue on leaves or nearby surfaces, a sign of aphids or scale.
-- Inspect the soil surface for ants or gnats, and check drainage holes for anything that's moved in.
+- Inspect the soil surface for ants or [gnats](/blog/how-to-get-rid-of-fungus-gnats/), and check drainage holes for anything that's moved in.
 - If you spot pests, treat with insecticidal soap and isolate the plant for a week or two before it joins the rest of your collection — don't bring it straight into a room with your other plants.
 
 ## Clean Pots and Refresh the Soil Surface
 
-While you're inspecting each plant, take the opportunity to wipe down the outside of the pot and clean off any debris, moss, or algae buildup that accumulated outdoors over the summer — this isn't just cosmetic, since debris on a pot's surface can also harbor pests or fungal spores. If the top layer of soil looks compacted, crusted, or has visible mineral buildup from outdoor watering, scraping off the top half-inch and replacing it with fresh potting mix gives the plant a cleaner start indoors without the disruption of a full repot. This is also a natural moment to check whether a plant has become root-bound over the summer's outdoor growing season, since outdoor conditions often accelerate growth compared to an indoor spot.
+While you're inspecting each plant, take the opportunity to wipe down the outside of the pot and clean off any debris, moss, or algae buildup that accumulated outdoors over the summer — this isn't just cosmetic, since debris on a pot's surface can also harbor pests or fungal spores. If the top layer of soil looks compacted, crusted, or has visible mineral buildup from outdoor watering, scraping off the top half-inch and replacing it with fresh potting mix gives the plant a cleaner start indoors without the disruption of a full [repot](/blog/how-to-repot-a-houseplant/). This is also a natural moment to check whether a plant has become root-bound over the summer's outdoor growing season, since outdoor conditions often accelerate growth compared to an indoor spot.
 
 ## Adjust for Lower Indoor Humidity
 
-Outdoor air, especially in humid climates or near other plants and landscaping, is often more humid than the average indoor room, particularly once heating systems kick on later in fall. Plants that thrived outdoors may show crispy leaf edges or increased leaf drop as they adjust to drier indoor air. Grouping humidity-loving plants together, using a pebble tray with water beneath the pots, or running a small humidifier nearby can ease this transition, especially for plants like calatheas or ferns that are more sensitive to humidity swings than tougher species.
+Outdoor air, especially in humid climates or near other plants and landscaping, is often more humid than the average indoor room, particularly once heating systems kick on later in fall. Plants that thrived outdoors may show crispy leaf edges or increased leaf drop as they adjust to drier indoor air. Grouping humidity-loving plants together, using a pebble tray with water beneath the pots, or running a small humidifier nearby can ease this transition, especially for plants like calatheas or ferns that are more sensitive to [humidity](/blog/raise-humidity-for-houseplants-in-winter/) swings than tougher species.
 
 ## Let Plants Adjust to Lower Light First
 

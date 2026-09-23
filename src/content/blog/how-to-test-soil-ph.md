@@ -46,3 +46,5 @@ Sandy soils respond to pH amendments faster but also drift back toward their ori
 ## Retest Before Assuming It Worked
 
 pH amendments take time to fully react with the soil. Retest 4-8 weeks after applying lime or sulfur before adding more — overcorrecting is a common mistake that swings the pH too far the other direction. Keep a simple record of what you applied and when, since it's easy to lose track of the timeline across a growing season and end up guessing whether enough time has passed for a fair retest, or accidentally applying a second round before the first has had a chance to work.
+
+**Related reading:** [How to Compost at Home: A Beginner's Guide](/blog/how-to-compost-at-home/), [How to Plant a Fall Cover Crop to Improve Your Soil Over Winter](/blog/fall-cover-crops-for-garden-soil/) and [How to Build a Raised Garden Bed in a Weekend](/blog/how-to-build-a-raised-garden-bed/).

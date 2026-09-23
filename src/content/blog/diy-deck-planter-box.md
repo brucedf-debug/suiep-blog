@@ -15,8 +15,8 @@ A simple wood planter box dresses up a bare deck or patio corner and gives you a
 - 2"x2" posts for the corners
 - Exterior-grade wood screws
 - Landscape fabric (to line the inside)
-- Drill/driver
-- Miter or circular saw
+- [Drill/driver](/blog/cordless-drill-buying-guide/)
+- Miter or [circular saw](/blog/circular-saw-vs-track-saw/)
 - Waterproof liner or drainage gravel
 - Wood glue (optional, adds strength at the joints)
 - Sandpaper or a sanding block for smoothing cut edges
@@ -42,7 +42,7 @@ Attach the 1x6 boards to the 2x2 corner posts, alternating front/back and end bo
 
 ![Hands using a drill to assemble a wooden planter box frame with screws](../../assets/blog/deck-planter-assembly.jpg)
 
-Screw the bottom panel to the underside of the frame. Drill 4-6 drainage holes spaced evenly across the bottom before installing it — this is much easier to do before the panel is attached. If the box will sit directly on a wood deck, consider adding small feet or furring strips under the corners so the bottom panel isn't in constant contact with the deck surface, which helps both the box and the deck boards underneath it dry out faster after rain.
+Screw the bottom panel to the underside of the frame. Drill 4-6 drainage holes spaced evenly across the bottom before installing it — this is much easier to do before the panel is attached. If the box will sit directly on a wood [deck](/blog/how-to-clean-a-deck-before-staining/), consider adding small feet or furring strips under the corners so the bottom panel isn't in constant contact with the deck surface, which helps both the box and the deck boards underneath it dry out faster after rain.
 
 ## Step 3: Line the Interior
 

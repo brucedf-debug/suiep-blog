@@ -45,3 +45,5 @@ Empty and clean any planters that won't overwinter with plants in them — soil 
 ## A Few Extra Details Worth Checking
 
 Umbrella frames and their bases are easy to forget in a winterizing checklist but suffer the same freeze-thaw stress as other metal furniture — collapse and store the umbrella itself, and empty any water or sand-filled base before a hard freeze so the fill material doesn't crack the base as it expands. Outdoor rugs benefit from a thorough cleaning and full drying before rolling and storing them somewhere dry, since a rug rolled up while still damp is a near-guaranteed mildew problem by spring. And if you have string lights or other outdoor electrical decor, check cords for any cracking or wear before storing them, since damaged insulation exposed to another season of moisture only gets worse.
+
+**Related reading:** [How to Choose Patio Furniture for Small Spaces](/blog/patio-furniture-for-small-spaces/), [How to Clean a Deck Before Staining](/blog/how-to-clean-a-deck-before-staining/) and [How to Winterize Your Sprinkler System Before the First Freeze](/blog/how-to-winterize-your-sprinkler-system/).

@@ -13,7 +13,7 @@ Wood pallets are often free for the taking behind hardware stores and warehouses
 
 - 1 standard wood pallet, ideally heat-treated (stamped "HT," not "MB" which indicates chemical fumigation)
 - Sandpaper (80 and 220 grit)
-- Wood stain or paint
+- Wood stain or [paint](/blog/how-to-paint-a-room/)
 - 4 caster wheels
 - Wood screws
 - Pry bar or claw hammer (if you need to remove or reposition any boards)
@@ -48,7 +48,7 @@ Apply wood stain for a warmer look or paint for a more solid, modern finish. Two
 
 ## Adding Storage or a Bottom Shelf
 
-Some pallets have a double layer of boards on the underside, which can be flipped to face upward and used as a lower shelf for magazines, remotes, or baskets — effectively giving you two tables' worth of surface from one pallet. If your pallet is a single layer, a separate thin board or shelf can be screwed to the underside of the frame for similar storage, though it will reduce the effective height clearance underneath.
+Some pallets have a double layer of boards on the underside, which can be flipped to face upward and used as a lower [shelf](/blog/diy-floating-shelf/) for magazines, remotes, or baskets — effectively giving you two tables' worth of surface from one pallet. If your pallet is a single layer, a separate thin board or shelf can be screwed to the underside of the frame for similar storage, though it will reduce the effective height clearance underneath.
 
 ## Styling and Placement Tips
 

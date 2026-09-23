@@ -24,7 +24,7 @@ Weatherstripping isn't one product — different gaps call for different fixes:
 
 ## Installing It Without Wasting a Roll
 
-Clean the surface first — dust, old caulk residue, and peeling paint will keep any adhesive-backed strip from sticking for more than a season. Measure each gap before cutting, and cut slightly long rather than short; you can always trim excess but can't stretch a strip that came up short. Press foam and V-strip into place while the door or window is closed, so the material compresses to the actual gap rather than an estimate. For door sweeps, close the door first and adjust the sweep height so it just brushes the threshold — too tight and it'll drag and wear out fast, too loose and it won't block anything.
+Clean the surface first — dust, old [caulk](/blog/how-to-caulk-a-bathtub/) residue, and peeling paint will keep any adhesive-backed strip from sticking for more than a season. Measure each gap before cutting, and cut slightly long rather than short; you can always trim excess but can't stretch a strip that came up short. Press foam and V-strip into place while the door or window is closed, so the material compresses to the actual gap rather than an estimate. For door sweeps, close the door first and adjust the sweep height so it just brushes the threshold — too tight and it'll drag and wear out fast, too loose and it won't block anything.
 
 ![Weatherstripping tape being applied along the edge of a window frame](../../assets/blog/pool/home-improvement/pair-01-inline.jpg)
 
@@ -38,7 +38,7 @@ Foam tape is the shortest-lived option, typically needing replacement every year
 
 ## A Quick Look at Cost Versus Payoff
 
-Weatherstripping an entire house typically costs a small fraction of what a single month's heating bill runs in a leaky home during peak winter, which is part of why it's consistently recommended as one of the highest-value home maintenance tasks available. Unlike bigger energy upgrades — new windows, added insulation, a furnace replacement — weatherstripping needs no special skills or tools beyond a utility knife and a tape measure, and most homeowners can seal an entire house's worth of doors and windows in a single weekend.
+Weatherstripping an entire house typically costs a small fraction of what a single month's heating bill runs in a leaky home during peak winter, which is part of why it's consistently recommended as one of the highest-value home maintenance tasks available. Unlike bigger energy upgrades — new windows, added insulation, a [furnace](/blog/get-furnace-ready-for-winter/) replacement — weatherstripping needs no special skills or tools beyond a utility knife and a tape measure, and most homeowners can seal an entire house's worth of doors and windows in a single weekend.
 
 ## When It's More Than Weatherstripping Can Fix
 

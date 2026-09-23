@@ -31,7 +31,7 @@ Beyond the mechanical explanation, the two tools are easy to tell apart just by 
 ## Where an Impact Driver Wins
 
 - Driving long or large screws (deck screws, lag screws, structural fasteners)
-- Repetitive fastening tasks like framing, decking, or fence building
+- Repetitive fastening tasks like framing, decking, or [fence](/blog/how-to-build-a-wood-fence/) building
 - Removing stubborn, rusted, or over-tightened screws the driver's bursts can often break loose
 - Driving screws at an angle or into dense material, where a drill's steady torque is more likely to cam out of the screw head under strain
 
@@ -47,7 +47,7 @@ Not cleanly. Impact drivers can drill in a pinch with the right bit, but they la
 
 ## Do You Need Both?
 
-If you only do occasional light tasks — hanging shelves, assembling furniture, small repairs — a drill/driver alone covers most of it. Once you start tackling anything with longer screws (decking, fencing, framing), an impact driver earns its keep fast. Many combo kits bundle both for a reason: they genuinely cover different jobs rather than duplicating each other. Buying both on the same battery platform from the start is also usually cheaper than buying a drill now and an impact driver as an afterthought later, since a combo kit's bundled price is typically lower than the sum of two separate individual purchases.
+If you only do occasional light tasks — hanging shelves, assembling furniture, small repairs — a [drill/driver](/blog/cordless-drill-buying-guide/) alone covers most of it. Once you start tackling anything with longer screws (decking, fencing, framing), an impact driver earns its keep fast. Many combo kits bundle both for a reason: they genuinely cover different jobs rather than duplicating each other. Buying both on the same battery platform from the start is also usually cheaper than buying a drill now and an impact driver as an afterthought later, since a combo kit's bundled price is typically lower than the sum of two separate individual purchases.
 
 ## Our Recommendation
 

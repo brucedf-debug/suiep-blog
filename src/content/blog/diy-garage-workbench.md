@@ -12,10 +12,10 @@ A dedicated workbench is the project that makes every project after it easier. T
 ## What You'll Need
 
 - 2x4 lumber (legs, frame, and bracing — a typical 4' bench needs about ten 8' boards)
-- 3/4" plywood for the top (and a second sheet for a lower shelf, optional)
+- 3/4" plywood for the top (and a second sheet for a lower [shelf](/blog/diy-floating-shelf/), optional)
 - 3" wood screws
 - Wood glue
-- Circular saw or have your lumber pre-cut
+- [Circular saw](/blog/circular-saw-vs-track-saw/) or have your lumber pre-cut
 - Square and level
 - Tape measure and pencil
 - Clamps, if you have them — they make holding pieces square while you screw them much easier

@@ -19,7 +19,7 @@ More voltage generally means more power, but a well-designed 12V drill can outpe
 
 ## Drill/Driver vs. Impact Driver vs. Hammer Drill
 
-These three tools look similar but solve different problems, and understanding the difference prevents buying the wrong one. A standard drill/driver is the most versatile — it drills holes and drives screws with adjustable clutch settings that prevent overdriving. An impact driver adds rotational hammering force specifically for driving screws, which makes it faster and less prone to camming out on long fasteners, but it's a poor choice for precise drilling since it lacks a clutch. A hammer drill adds forward-and-back percussion for drilling into masonry and concrete, which a standard drill/driver simply can't do efficiently no matter how much torque it has. Many combo kits pair a drill/driver with an impact driver specifically because the two cover almost everything a homeowner needs.
+These three tools look similar but solve different problems, and understanding the difference prevents buying the wrong one. A standard drill/driver is the most versatile — it drills holes and drives screws with adjustable clutch settings that prevent overdriving. An [impact driver](/blog/impact-driver-vs-drill/) adds rotational hammering force specifically for driving screws, which makes it faster and less prone to camming out on long fasteners, but it's a poor choice for precise drilling since it lacks a clutch. A hammer drill adds forward-and-back percussion for drilling into masonry and concrete, which a standard drill/driver simply can't do efficiently no matter how much torque it has. Many combo kits pair a drill/driver with an impact driver specifically because the two cover almost everything a homeowner needs.
 
 ## Brushless vs. Brushed Motors
 
@@ -49,4 +49,4 @@ Keep the chuck free of dust and debris, since a gritty chuck is a common cause o
 
 ## Our Recommendation for Beginners
 
-For most first-time buyers, an 18V brushless drill/driver combo kit with two batteries hits the best balance of price and capability — enough torque for real projects without the weight and cost of a professional-grade tool. Add an impact driver to that same battery platform once you find yourself driving more than a handful of screws at a time, and you'll have covered the overwhelming majority of household repair and DIY work with just two tools.
+For most first-time buyers, an 18V brushless drill/driver [combo kit](/blog/best-budget-power-tool-combo-kits/) with two batteries hits the best balance of price and capability — enough torque for real projects without the weight and cost of a professional-grade tool. Add an impact driver to that same battery platform once you find yourself driving more than a handful of screws at a time, and you'll have covered the overwhelming majority of household repair and DIY work with just two tools.

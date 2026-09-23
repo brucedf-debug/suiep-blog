@@ -14,7 +14,7 @@ Composting turns waste you'd otherwise throw away into some of the best fertiliz
 Every compost pile needs a mix of "green" (nitrogen-rich) and "brown" (carbon-rich) material.
 
 - **Greens**: fruit and vegetable scraps, coffee grounds, grass clippings, eggshells
-- **Browns**: dry leaves, cardboard, shredded paper, straw
+- **Browns**: dry [leaves](/blog/how-to-rake-leaves-efficiently/), cardboard, shredded paper, straw
 
 Aim for roughly 2-3 parts browns to 1 part greens by volume. Too many greens makes a wet, smelly pile; too many browns slows decomposition to a crawl. If you're not sure which category something falls into, a rough rule of thumb is that anything wet and recently alive is likely a green, while anything dry and already brown or gray in color is likely a brown.
 
@@ -49,3 +49,5 @@ A pile that smells like ammonia or rotten eggs usually has too much green materi
 ## When Is It Ready?
 
 Finished compost is dark, crumbly, and smells like earth — not like garbage. Depending on your setup and how often you turn it, this usually takes 2-6 months. Screen out any large unfinished chunks and toss them back into a new pile. Once it's ready, work finished compost into garden beds before planting, use it as a top-dressing around existing plants, or mix it into potting soil for containers — in every case, it's improving soil structure and feeding plants in a way that's hard to replicate with a bagged fertilizer alone.
+
+**Related reading:** [How to Build a DIY Compost Bin from Pallets](/blog/diy-pallet-compost-bin/) and [How to Plant a Fall Cover Crop to Improve Your Soil Over Winter](/blog/fall-cover-crops-for-garden-soil/).

@@ -16,7 +16,7 @@ A pile of firewood dumped straight on the lawn or against the side of the house 
 - 1x4 or 1x6 boards, or corrugated metal roofing panels, for the top cover
 - Deck screws (3" and 2 1/2") and a handful of lag bolts for the main joints
 - Wood glue rated for exterior use (optional, but adds strength at load-bearing joints)
-- Circular saw or handsaw
+- [Circular saw](/blog/circular-saw-vs-track-saw/) or handsaw
 - Post hole digger or auger, if setting posts in the ground
 - Gravel or concrete mix, if you're setting posts permanently
 - Drill, level, tape measure, square
@@ -51,3 +51,5 @@ Give the frame a coat of exterior stain or sealant, focusing extra attention on 
 ## Sizing Up for a Bigger Woodpile
 
 If half a cord doesn't cover a full winter's use, the same design extends easily — add another 8-foot section end to end, sharing a post between sections, rather than building a second freestanding rack a few feet away. A continuous rack uses less lumber overall for the same total capacity and gives you one long, easy-to-navigate row instead of two separate piles competing for yard space. If you're not sure how much you'll need, it's easier to build one section this year and extend it next fall than to guess high and end up with an oversized structure taking up more yard than necessary.
+
+**Related reading:** [How to Season and Store Firewood So It Actually Burns Well](/blog/how-to-season-and-store-firewood/) and [How to Build a DIY Fire Pit With Pavers (No Mortar Required)](/blog/diy-backyard-fire-pit/).

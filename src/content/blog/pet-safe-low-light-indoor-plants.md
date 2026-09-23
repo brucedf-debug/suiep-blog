@@ -17,7 +17,7 @@ Many popular houseplants, including several of the toughest low-light options, c
 
 ## 1. Spider Plant (Chlorophytum comosum)
 
-Extremely forgiving, tolerates low to medium light, and produces baby "pups" you can propagate for free. Genuinely one of the hardest houseplants to kill. Interestingly, cats are sometimes drawn to nibbling spider plant leaves specifically, similar to their attraction to grass — this is generally harmless given the plant's non-toxic status, though it can leave the plant looking a little worse for wear if a cat treats it as a regular snack.
+Extremely forgiving, tolerates low to medium light, and produces baby "pups" you can [propagate](/blog/propagate-houseplants-from-cuttings/) for free. Genuinely one of the hardest houseplants to kill. Interestingly, cats are sometimes drawn to nibbling spider plant leaves specifically, similar to their attraction to grass — this is generally harmless given the plant's non-toxic status, though it can leave the plant looking a little worse for wear if a cat treats it as a regular snack.
 
 ![A spider plant in a hanging pot](../../assets/blog/pet-safe-plants-spider.jpg)
 
@@ -31,7 +31,7 @@ Slightly more light-hungry than a parlor palm but still workable in medium-low l
 
 ## 4. Calathea (various species)
 
-Grown for dramatically patterned leaves that fold up at night. Calatheas prefer consistent moisture and humidity, but tolerate low light well — just keep them away from cold drafts.
+Grown for dramatically patterned leaves that fold up at night. Calatheas prefer consistent moisture and [humidity](/blog/raise-humidity-for-houseplants-in-winter/), but tolerate low light well — just keep them away from cold drafts.
 
 ## 5. Boston Fern (Nephrolepis exaltata)
 
@@ -67,4 +67,4 @@ Beyond toxicity, a few general care habits help pet-safe plants thrive in a hous
 
 ## Plants to Keep Away From Pets
 
-For contrast, the most common low-light houseplants that are **not** pet-safe include pothos, snake plant, ZZ plant, philodendron, and peace lily — all of which can cause anything from mouth irritation to more serious symptoms if chewed or ingested. If you already own these, they're not necessarily worth giving up — just keep them somewhere pets can't reach, like a high shelf, a plant stand out of jumping range for a cat, or a room they don't have access to. Hanging planters suspended well above furniture a pet could jump from are another practical option for keeping a non-pet-safe plant while still limiting real access to it.
+For contrast, the most common [low-light houseplants](/blog/best-low-light-indoor-plants/) that are **not** pet-safe include pothos, snake plant, ZZ plant, philodendron, and peace lily — all of which can cause anything from mouth irritation to more serious symptoms if chewed or ingested. If you already own these, they're not necessarily worth giving up — just keep them somewhere pets can't reach, like a high shelf, a plant stand out of jumping range for a cat, or a room they don't have access to. Hanging planters suspended well above furniture a pet could jump from are another practical option for keeping a non-pet-safe plant while still limiting real access to it.

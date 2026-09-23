@@ -38,3 +38,5 @@ Replant divisions at the same depth they were growing at previously, since plant
 ## Perennials Better Left Alone in Fall
 
 A few types are worth skipping until spring regardless of when they last bloomed. Perennials with any known sensitivity to cold or wet soil, tender or borderline-hardy varieties for your zone, and anything planted or divided within the current growing season (it hasn't had time to build the root reserves needed to survive a division and a winter back to back) all do better with a spring split instead. When in doubt about a specific plant's tolerance for fall division, it's safer to wait a season than to risk losing an otherwise healthy perennial.
+
+**Related reading:** [Fall Pruning: What to Cut Back Now and What to Leave Until Spring](/blog/fall-pruning-what-to-cut-and-what-to-leave/), [How to Plant Spring-Blooming Bulbs in Fall](/blog/how-to-plant-spring-bulbs-in-fall/) and [How to Test Your Soil pH and Fix It Naturally](/blog/how-to-test-soil-ph/).

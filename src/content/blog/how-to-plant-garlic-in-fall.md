@@ -11,7 +11,7 @@ Garlic is one of the few vegetable crops that actually wants to go in the ground
 
 ## Why Fall Planting Beats Spring
 
-Garlic needs a sustained period of cold — generally a month or more of soil temperatures below 40°F (4°C) — to trigger the process that splits a single clove into the multi-clove bulb you actually want to harvest. Skip that cold exposure by planting in spring instead, and you'll often end up with small, single-clove-like bulbs that never properly divided. Fall planting also gives the clove a head start: roots begin developing in the cool, still-workable soil of autumn, so the plant has an established root system ready to take off the moment the soil warms in spring, rather than starting from scratch after a spring planting.
+Garlic needs a sustained period of cold — generally a month or more of soil temperatures below 40°F (4°C) — to trigger the process that splits a single clove into the multi-clove bulb you actually want to harvest. Skip that cold exposure by planting in spring instead, and you'll often end up with small, single-clove-like [bulbs](/blog/how-to-plant-spring-bulbs-in-fall/) that never properly divided. Fall planting also gives the clove a head start: roots begin developing in the cool, still-workable soil of autumn, so the plant has an established root system ready to take off the moment the soil warms in spring, rather than starting from scratch after a spring planting.
 
 ## When to Plant
 
@@ -36,3 +36,5 @@ Once cloves are planted and the bed is watered in, apply a thick layer of mulch 
 ## What Happens Over Winter and Into Spring
 
 Don't be surprised if you see a few inches of green shoot growth before the ground freezes for good — that's normal and not a sign anything went wrong. Growth will pause once the soil gets consistently cold, then resume in spring once temperatures rise, often earlier than most other vegetables in the garden. From spring onward, garlic mostly takes care of itself: keep the bed weeded, water during dry stretches, and if you're growing a hardneck variety, cut off the curling flower scapes when they appear in early summer, which redirects the plant's energy into bulb growth instead of seed production rather than leaving it to flower. The bulbs themselves won't be ready to dig until many months after planting, once several of the lower leaves have browned and died back while the upper leaves are still green — but the work that gets you there largely happens now, in the few weeks it takes to get cloves into the ground before the first hard freeze.
+
+**Related reading:** [How to Plant a Fall Cover Crop to Improve Your Soil Over Winter](/blog/fall-cover-crops-for-garden-soil/) and [How to Test Your Soil pH and Fix It Naturally](/blog/how-to-test-soil-ph/).

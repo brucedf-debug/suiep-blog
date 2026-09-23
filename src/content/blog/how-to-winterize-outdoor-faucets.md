@@ -42,3 +42,5 @@ If a faucet won't produce water on a cold morning, or produces only a trickle be
 ## Building It Into a Fall Routine
 
 The faucets that get missed are usually the ones that are hardest to reach — one behind a bush, one on a rarely used side of the house, one on a detached garage. Walking the full exterior once in early fall, with a simple mental checklist of disconnect, shut off, drain, and cover, catches these before the first freeze rather than after a pipe has already split. It's a fifteen-minute task with essentially no cost if done on schedule, against a repair that can run into the thousands if a burst pipe soaks a finished basement or wall cavity over a long weekend when nobody's home to notice.
+
+**Related reading:** [How to Winterize Your Sprinkler System Before the First Freeze](/blog/how-to-winterize-your-sprinkler-system/), [How to Get Your Furnace Ready for Winter: A DIY Maintenance Checklist](/blog/get-furnace-ready-for-winter/) and [How to Weatherstrip Doors and Windows for Winter](/blog/how-to-weatherstrip-doors-and-windows/).

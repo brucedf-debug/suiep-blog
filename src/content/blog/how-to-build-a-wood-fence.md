@@ -17,7 +17,7 @@ A wood fence is a bigger project than most weekend builds on this site, but it's
 - Fast-setting concrete
 - Post hole digger or auger
 - Level, string line, and stakes
-- Galvanized or stainless deck screws
+- Galvanized or stainless [deck](/blog/how-to-clean-a-deck-before-staining/) screws
 
 ## Choosing Between Pressure-Treated and Cedar
 
@@ -68,3 +68,5 @@ A wood fence needs periodic attention to get a long lifespan out of it. Check po
 ## Common Mistakes to Avoid
 
 Skipping the call-before-you-dig step is the most consequential mistake on this list — hitting a buried utility line is a real safety risk and can be expensive to repair, and it's entirely avoidable with a free phone call. Not letting concrete cure fully before attaching rails is a close second, since a post knocked out of plumb while the concrete is still green is much harder to fix than to simply wait an extra day. And underestimating post depth for your local frost line is a mistake that won't show up until the following winter, when frost heave can push an under-set post out of the ground — check your local building code for the minimum recommended post depth in your climate before digging.
+
+**Related reading:** [Circular Saw vs. Track Saw: Which One Do You Actually Need?](/blog/circular-saw-vs-track-saw/) and [Impact Driver vs. Drill: What's the Real Difference?](/blog/impact-driver-vs-drill/).

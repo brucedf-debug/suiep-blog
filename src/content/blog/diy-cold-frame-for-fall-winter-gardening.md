@@ -23,11 +23,11 @@ A cold frame isn't heated by anything other than the sun — it works purely by 
 - A short length of wood or a notched stick to prop the lid open for ventilation
 - Weatherstripping or foam tape (optional, for sealing gaps)
 - Exterior paint or sealant
-- Circular saw or handsaw, drill, tape measure, square
+- [Circular saw](/blog/circular-saw-vs-track-saw/) or handsaw, drill, tape measure, square
 
 ## Step 1: Choose the Size and the Lid Material
 
-Before cutting anything, decide what you're covering — a frame sized to fit an existing raised bed or a manageable patch of garden is easier to plan around than picking dimensions first and hoping a bed fits under it later. A common approach is to build the frame around whatever clear material you already have access to, since an old window sash or a salvaged sliding glass door panel is often the most expensive single piece if you had to buy it new. If you're sourcing new material, twin-wall polycarbonate is lighter than glass, insulates a bit better, and won't shatter if something falls on it, making it the more forgiving choice for a first build.
+Before cutting anything, decide what you're covering — a frame sized to fit an existing [raised bed](/blog/how-to-build-a-raised-garden-bed/) or a manageable patch of garden is easier to plan around than picking dimensions first and hoping a bed fits under it later. A common approach is to build the frame around whatever clear material you already have access to, since an old window sash or a salvaged sliding glass door panel is often the most expensive single piece if you had to buy it new. If you're sourcing new material, twin-wall polycarbonate is lighter than glass, insulates a bit better, and won't shatter if something falls on it, making it the more forgiving choice for a first build.
 
 ## Step 2: Cut the Box Sides at a Slope
 

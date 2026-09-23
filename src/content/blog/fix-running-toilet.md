@@ -54,3 +54,5 @@ Turn the water back on, flush once, and listen for a full minute after the tank 
 ## When to Call a Plumber Instead
 
 Most running toilet issues are genuinely DIY-friendly, but if you've replaced both the flapper and fill valve and the toilet still runs, or if you notice water pooling around the base of the toilet rather than just inside the tank, it's worth calling a plumber. A leak at the base can point to a failing wax ring seal or a cracked tank, both of which are more involved repairs than swapping an internal tank part.
+
+**Related reading:** [How to Unclog a Drain Without Harsh Chemicals](/blog/how-to-unclog-a-drain-naturally/), [How to Caulk a Bathtub Like a Pro](/blog/how-to-caulk-a-bathtub/) and [How to Winterize Outdoor Faucets and Prevent Frozen Pipes](/blog/how-to-winterize-outdoor-faucets/).

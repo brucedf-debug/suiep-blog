@@ -11,7 +11,7 @@ heroImage: "../../assets/blog/low-light-plants-hero.jpg"
 
 ## 1. Snake Plant (Dracaena trifasciata)
 
-Nearly indestructible. Tolerates low light and irregular watering, and its upright leaves work well in tight spaces like hallways. It's also one of the slowest-growing plants on this list, so it won't quickly outgrow a small pot, and it handles the dry air of centrally heated apartments better than most houseplants.
+Nearly indestructible. Tolerates low light and irregular watering, and its upright leaves work well in tight spaces like hallways. It's also one of the slowest-growing plants on this list, so it won't quickly outgrow a small pot, and it handles the [dry air](/blog/raise-humidity-for-houseplants-in-winter/) of centrally heated apartments better than most houseplants.
 
 ![A healthy snake plant in a ceramic pot on a windowsill](../../assets/blog/low-light-plants-snake-plant.jpg)
 
@@ -33,7 +33,7 @@ Tells you when it's thirsty by drooping dramatically, then perks back up within 
 
 ## 6. Chinese Evergreen (Aglaonema)
 
-Comes in a wide range of leaf patterns, from solid deep green to silvery variegated types, and tolerates both low light and the temperature swings near a drafty window. It's a slow grower, so repotting is rarely urgent, and it's one of the more forgiving plants if you occasionally forget to water on schedule.
+Comes in a wide range of leaf patterns, from solid deep green to silvery variegated types, and tolerates both low light and the temperature swings near a drafty window. It's a slow grower, so [repotting](/blog/how-to-repot-a-houseplant/) is rarely urgent, and it's one of the more forgiving plants if you occasionally forget to water on schedule.
 
 ## 7. Philodendron (Heartleaf Variety)
 
@@ -49,7 +49,7 @@ Upright, architectural, and tolerant of low light once established, though it pr
 
 ## 10. Maidenhair-Free Alternative: Spider Plant (Chlorophytum comosum)
 
-Spider plants tolerate low-to-medium light and are famously easy to propagate, since the small plantlets that dangle from mature plants can be rooted in water and potted up as gifts or replacements. They're also non-toxic to pets, which matters if low light options are being chosen for a household with cats or dogs that like to chew on leaves.
+Spider plants tolerate low-to-medium light and are famously easy to [propagate](/blog/propagate-houseplants-from-cuttings/), since the small plantlets that dangle from mature plants can be rooted in water and potted up as gifts or replacements. They're also non-toxic to pets, which matters if low light options are being chosen for a household with cats or dogs that like to chew on leaves.
 
 ## Care Tips for Low-Light Spaces
 

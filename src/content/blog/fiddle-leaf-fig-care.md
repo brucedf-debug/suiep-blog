@@ -19,7 +19,7 @@ Water when the top 1-2 inches of soil are dry, then water thoroughly until it dr
 
 ## Signs You're Overwatering
 
-Brown spots with yellow halos, and leaves that feel soft or mushy rather than crisp, usually point to overwatering or root rot. Cut back and check that the pot has good drainage. If you suspect root rot has set in, it's worth gently removing the plant from its pot to inspect the roots — healthy roots are firm and light-colored, while rotted roots are dark, mushy, and often smell unpleasant. Trimming away clearly rotted roots and repotting into fresh, well-draining soil can save a plant that's caught early, though a fig with the majority of its root system rotted is a much harder recovery.
+Brown spots with yellow halos, and leaves that feel soft or mushy rather than crisp, usually point to overwatering or root rot. Cut back and check that the pot has good drainage. If you suspect root rot has set in, it's worth gently removing the plant from its pot to inspect the roots — healthy roots are firm and light-colored, while rotted roots are dark, mushy, and often smell unpleasant. Trimming away clearly rotted roots and [repotting](/blog/how-to-repot-a-houseplant/) into fresh, well-draining soil can save a plant that's caught early, though a fig with the majority of its root system rotted is a much harder recovery.
 
 ## Signs You're Underwatering
 
@@ -27,13 +27,13 @@ Crispy brown edges on leaves, and soil pulling away from the pot's sides, mean t
 
 ## Humidity and Temperature
 
-Fiddle leaf figs prefer humidity above 30-40%, which is drier climates and winter heating can easily dip below. A humidifier nearby, or grouping it with other plants, helps, and misting can offer minor short-term relief though it's far less effective than actually raising ambient humidity. Keep it away from cold drafts, heating vents, and air conditioning — sudden temperature swings are another common trigger for leaf drop. A spot near a frequently opened exterior door in winter is a common unnoticed source of temperature swings worth checking for.
+Fiddle leaf figs prefer [humidity](/blog/raise-humidity-for-houseplants-in-winter/) above 30-40%, which is drier climates and winter heating can easily dip below. A humidifier nearby, or grouping it with other plants, helps, and misting can offer minor short-term relief though it's far less effective than actually raising ambient humidity. Keep it away from cold drafts, heating vents, and air conditioning — sudden temperature swings are another common trigger for leaf drop. A spot near a frequently opened exterior door in winter is a common unnoticed source of temperature swings worth checking for.
 
 ![Close-up of fiddle leaf fig leaves](../../assets/blog/fiddle-leaf-fig-closeup.jpg)
 
 ## Feeding and Growth Expectations
 
-During the active growing months (typically spring through early fall), a balanced liquid fertilizer diluted to about half strength every four to six weeks supports steady new growth without risking fertilizer burn. Hold off on feeding in the dormant winter months, when the plant's growth naturally slows regardless of how much fertilizer it gets. New growth typically emerges from the top of the plant as a small, tightly furled leaf that unfurls over a week or two — a plant that isn't pushing any new leaves across an entire growing season is worth reassessing for light, watering consistency, or root-bound conditions rather than assumed to simply be a slow grower.
+During the active growing months (typically spring through early fall), a balanced liquid [fertilizer](/blog/how-to-fertilize-houseplants/) diluted to about half strength every four to six weeks supports steady new growth without risking fertilizer burn. Hold off on feeding in the dormant winter months, when the plant's growth naturally slows regardless of how much fertilizer it gets. New growth typically emerges from the top of the plant as a small, tightly furled leaf that unfurls over a week or two — a plant that isn't pushing any new leaves across an entire growing season is worth reassessing for light, watering consistency, or root-bound conditions rather than assumed to simply be a slow grower.
 
 ## Pests to Watch For
 

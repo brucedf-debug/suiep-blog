@@ -14,7 +14,7 @@ A floating shelf looks like it's held up by nothing, but the trick is a hidden s
 - 1 pine or hardwood board, 1"x8" cut to your desired length
 - Hidden floating shelf bracket (steel rod or blade-style, sized to your board thickness)
 - Stud finder
-- Drill with bits matching your bracket's hardware
+- [Drill](/blog/cordless-drill-buying-guide/) with bits matching your bracket's hardware
 - Wood glue
 - Sandpaper and finish of choice (stain, paint, or clear coat)
 - Level
@@ -45,7 +45,7 @@ Add a small amount of wood glue into the drilled holes, then slide the board ont
 
 ## Step 5: Finish
 
-Sand any rough edges and apply your finish of choice before or after mounting — staining beforehand is easier since you won't be working around a wall. If you're painting rather than staining, a primer coat first will give you more even coverage and better durability than paint applied directly to bare wood, especially on a shelf that will see regular handling.
+Sand any rough edges and apply your finish of choice before or after mounting — staining beforehand is easier since you won't be working around a wall. If you're [painting](/blog/how-to-paint-a-room/) rather than staining, a primer coat first will give you more even coverage and better durability than paint applied directly to bare wood, especially on a shelf that will see regular handling.
 
 ## Weight Limits
 

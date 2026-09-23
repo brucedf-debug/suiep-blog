@@ -36,7 +36,7 @@ Stand a pallet upright against three of the four sides, positioning it so its ed
 
 ## Step 4: Hinge the Front Panel
 
-Attach the fourth pallet to one of the corner posts using two or three heavy-duty hinges, so it swings open like a gate rather than being screwed permanently in place. This is what makes the bin usable day to day — you need a way to dump scraps in without climbing over a wall, and eventually a way to shovel finished compost out from the bottom. Add a simple hook-and-eye latch or sliding bolt on the opposite side to keep the panel closed against wind and curious animals, while still letting you flip it open in seconds when you're adding material or turning the pile.
+Attach the fourth pallet to one of the corner posts using two or three heavy-duty hinges, so it swings open like a gate rather than being screwed permanently in place. This is what makes the bin usable day to day — you need a way to dump scraps in without climbing over a wall, and eventually a way to shovel finished [compost](/blog/how-to-compost-at-home/) out from the bottom. Add a simple hook-and-eye latch or sliding bolt on the opposite side to keep the panel closed against wind and curious animals, while still letting you flip it open in seconds when you're adding material or turning the pile.
 
 ## Step 5: Tighten Up the Gaps (Optional but Worth It)
 
@@ -44,7 +44,7 @@ Pallet slats leave gaps wide enough for smaller scraps to fall through and for r
 
 ## Step 6: Load It and Keep the Ratio Right
 
-Start the pile with a layer of coarser material like small sticks or dry leaves at the bottom, which helps air circulate up through the pile from underneath. From there, alternate "brown" material — dry leaves, cardboard, straw — with "green" material — kitchen scraps, grass clippings, coffee grounds — aiming for noticeably more brown than green by volume. Fall works in your favor here, since leaves give you a nearly unlimited supply of browns right when kitchen scraps start piling up from more cooking and baking at home. Skip meat, dairy, and oily food waste, which break down slowly and are what actually draws pests to a bin.
+Start the pile with a layer of coarser material like small sticks or dry [leaves](/blog/how-to-rake-leaves-efficiently/) at the bottom, which helps air circulate up through the pile from underneath. From there, alternate "brown" material — dry leaves, cardboard, straw — with "green" material — kitchen scraps, grass clippings, coffee grounds — aiming for noticeably more brown than green by volume. Fall works in your favor here, since leaves give you a nearly unlimited supply of browns right when kitchen scraps start piling up from more cooking and baking at home. Skip meat, dairy, and oily food waste, which break down slowly and are what actually draws pests to a bin.
 
 ## Turning and Troubleshooting
 

@@ -19,7 +19,7 @@ Companion planting is the practice of growing certain plants near each other bec
 
 **Corn + Beans + Squash** (the "Three Sisters"). Corn gives beans something to climb, beans fix nitrogen in the soil that corn and squash both use, and squash's broad leaves shade out weeds and retain soil moisture.
 
-**Lettuce + Tall Vegetables.** Planting lettuce in the shade of taller plants like tomatoes or corn keeps it from bolting in hot weather.
+**Lettuce + Tall Vegetables.** Planting lettuce in the shade of taller plants like [tomatoes](/blog/how-to-grow-tomatoes-in-pots/) or corn keeps it from bolting in hot weather.
 
 **Radishes + Cucumbers or Squash.** Radishes are thought to distract cucumber beetles away from the vining crop, and since radishes mature so quickly, they're harvested and out of the way before the cucumbers or squash need the extra space.
 
@@ -27,7 +27,7 @@ Companion planting is the practice of growing certain plants near each other bec
 
 ## Why Companion Planting Actually Works
 
-The mechanisms behind these pairings generally fall into a handful of categories: pest confusion (strong-smelling plants like onions or herbs mask the scent cues pests use to find their target crop), trap cropping (a sacrificial plant that pests prefer, pulling pressure away from your main crop), physical structure (tall plants providing shade or a climbing surface for others), and soil chemistry (nitrogen-fixing plants like beans enriching soil for heavy feeders planted nearby). Understanding which category a pairing falls into makes it easier to improvise combinations beyond a fixed list — if you know onions work by scent confusion, you can reasonably guess that other alliums like garlic or chives will have a similar effect.
+The mechanisms behind these pairings generally fall into a handful of categories: pest confusion (strong-smelling plants like onions or herbs mask the scent cues pests use to find their target crop), trap cropping (a sacrificial plant that pests prefer, pulling pressure away from your main crop), physical structure (tall plants providing shade or a climbing surface for others), and soil chemistry (nitrogen-fixing plants like beans enriching soil for heavy feeders planted nearby). Understanding which category a pairing falls into makes it easier to improvise combinations beyond a fixed list — if you know onions work by scent confusion, you can reasonably guess that other alliums like [garlic](/blog/how-to-plant-garlic-in-fall/) or chives will have a similar effect.
 
 ## Combinations to Avoid
 

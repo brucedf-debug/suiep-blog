@@ -11,13 +11,13 @@ Once the weather turns, an entryway without somewhere to sit and set down wet bo
 
 ## What You'll Need
 
-- 3/4" plywood (for the sides, back, and shelves — a 4x8 sheet is enough for most builds)
+- 3/4" plywood (for the sides, back, and [shelves](/blog/diy-floating-shelf/) — a 4x8 sheet is enough for most builds)
 - 1x4 or 1x3 boards for face trim and the front edge of the seat (optional, but it hides plywood edges nicely)
 - 2x2 lumber for internal cleats that support the seat and shelf
 - Wood screws (1 1/4" and 2 1/2")
 - Wood glue
-- Circular saw or have your plywood cut at the store
-- Drill, level, tape measure, square
+- [Circular saw](/blog/circular-saw-vs-track-saw/) or have your plywood cut at the store
+- [Drill](/blog/cordless-drill-buying-guide/), level, tape measure, square
 - Sandpaper (120 and 220 grit)
 - Paint, stain, or clear finish
 - Optional: a bench cushion, hooks for a wall rail above, and a stud finder if you plan to anchor it to the wall

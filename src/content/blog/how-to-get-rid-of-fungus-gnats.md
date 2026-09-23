@@ -41,7 +41,7 @@ If a fungus gnat problem traces back to a single recently purchased or repotted 
 
 ## When Repotting Makes Sense
 
-For a severe, repeated infestation that doesn't respond to the steps above, a full repot into fresh, sterile potting mix can be the most reliable reset. Gently remove as much of the old, contaminated soil from the roots as you comfortably can without damaging them, and dispose of the old soil outdoors rather than composting it, since it may still carry eggs or larvae. This is a more drastic step than most infestations require, but it's worth having in your back pocket for a stubborn case that keeps coming back despite consistent drying and treatment.
+For a severe, repeated infestation that doesn't respond to the steps above, a full [repot](/blog/how-to-repot-a-houseplant/) into fresh, sterile potting mix can be the most reliable reset. Gently remove as much of the old, contaminated soil from the roots as you comfortably can without damaging them, and dispose of the old soil outdoors rather than composting it, since it may still carry eggs or larvae. This is a more drastic step than most infestations require, but it's worth having in your back pocket for a stubborn case that keeps coming back despite consistent drying and treatment.
 
 ## Prevention Going Forward
 
@@ -50,3 +50,5 @@ For a severe, repeated infestation that doesn't respond to the steps above, a fu
 - Avoid overly rich, organic-heavy potting mixes for gnat-prone plants; a mix with more perlite dries faster and hosts less fungal growth.
 - Empty any saucers or cachepots of standing water after you water, since a puddle sitting under the pot is just as inviting to gnats as damp soil above it.
 - Keep an eye on any plants that consistently need more water than others in your collection — they're the ones most likely to become a recurring gnat source if you're not paying close attention to their soil.
+
+**Related reading:** [How to Adjust Your Houseplant Care Routine for Fall and Winter](/blog/adjust-houseplant-care-for-fall-winter/) and [When to Bring Houseplants Indoors Before Fall](/blog/when-to-bring-houseplants-indoors/).

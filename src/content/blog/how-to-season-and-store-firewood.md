@@ -54,8 +54,10 @@ If you're splitting your own wood rather than buying it pre-split, a few basics 
 
 ## Estimating How Much Wood You Need
 
-For a household burning firewood regularly through a full winter, a "cord" (a stacked pile measuring 4 feet by 4 feet by 8 feet, or the equivalent volume) is the standard unit sold by most suppliers, and typical winter usage for a primary heat source can run several cords depending on climate and how much of the heating load the wood is actually carrying versus a furnace or other backup system. For occasional recreational fires — a fire pit a few times a month rather than a primary heat source — usage is far lower, and planning a season's supply mostly comes down to estimating how many fires you expect to have and roughly how much wood each one burns through.
+For a household burning firewood regularly through a full winter, a "cord" (a stacked pile measuring 4 feet by 4 feet by 8 feet, or the equivalent volume) is the standard unit sold by most suppliers, and typical winter usage for a primary heat source can run several cords depending on climate and how much of the heating load the wood is actually carrying versus a furnace or other backup system. For occasional recreational fires — a [fire pit](/blog/diy-backyard-fire-pit/) a few times a month rather than a primary heat source — usage is far lower, and planning a season's supply mostly comes down to estimating how many fires you expect to have and roughly how much wood each one burns through.
 
 ## Mistakes That Ruin a Good Woodpile
 
 Even well-intentioned setups go wrong in predictable ways: stacking directly against the house, which invites moisture and pests into the siding; wrapping the entire pile in a tarp, which seals in humidity instead of letting it escape; and stacking on grass or dirt without any elevation, which keeps the bottom layer perpetually damp. None of these mistakes show up right away — they just mean that by the time you need the wood, a chunk of the pile still isn't ready to burn.
+
+**Related reading:** [How to Build a DIY Firewood Storage Rack](/blog/diy-firewood-storage-rack/) and [Chainsaw Buying Guide: Gas, Corded, or Battery for Fall Wood Season](/blog/chainsaw-buying-guide/).

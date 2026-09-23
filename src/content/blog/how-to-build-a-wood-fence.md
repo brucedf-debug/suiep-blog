@@ -1,72 +1,140 @@
 ---
 title: "How to Build a Wood Fence: A Step-by-Step Guide"
-description: "Build a basic wood privacy fence section by section — post spacing, setting posts in concrete, and attaching rails and pickets."
+description: "Plan and build a 6-foot wood privacy fence: permits and property lines, materials and quantities, setting posts, rails and pickets, slopes, gates, finishing and maintenance."
 pubDate: 2026-08-27
+updatedDate: 2026-09-23
 category: diy-projects
 tags: ["fence", "backyard", "beginner"]
 heroImage: "../../assets/blog/wood-fence-hero.jpg"
 ---
 
-A wood fence is a bigger project than most weekend builds on this site, but it's well within reach if you break it into stages: planning, setting posts, then attaching rails and pickets. Here's the process for a standard 6-foot privacy fence section.
+A wood fence is bigger than most weekend projects, but it's well within reach if you break it into stages: planning, setting posts, then hanging rails and pickets. Most of the quality is decided before the first picket goes up. Straight, plumb, properly set posts make everything after them easy. This guide covers a standard 6-foot privacy fence built in 8-foot sections.
 
-## What You'll Need
+**Quick answer:** Confirm property lines and local rules, and call your utility locate service before digging. Run a string line, space posts no more than 8 feet apart on center, and dig holes about a third of the post's above-ground height deep and below your frost line, with gravel at the bottom. Set posts plumb in concrete and let it cure. Attach two or three 2x4 rails per section, then pickets with a spacer block, checking level as you go. Brace gates diagonally, and finish the wood once it's dry enough.
 
-- Pressure-treated 4x4 posts
-- 2x4 rails (top and bottom, sometimes a middle rail for taller fences)
-- Fence pickets (pressure-treated or cedar)
-- Fast-setting concrete
-- Post hole digger or auger
-- Level, string line, and stakes
-- Galvanized or stainless [deck](/blog/how-to-clean-a-deck-before-staining/) screws
+## Project Overview
 
-## Choosing Between Pressure-Treated and Cedar
+| Detail | Estimate |
+|---|---|
+| **Difficulty** | Intermediate (heavy, physical work) |
+| **Time** | Posts: a day or two plus curing; rails and pickets: about a day per 50–100 ft with help |
+| **Crew** | Two people make post setting much easier |
+| **Main costs** | Posts, rails, pickets, concrete, fasteners, gate hardware; tool rental for an auger |
 
-Pressure-treated pine is the more budget-friendly option and holds up well structurally for posts and rails, since those parts are typically hidden or less visually prominent than pickets. Cedar costs more but resists rot naturally, doesn't require the chemical treatment process, and generally looks better left exposed, which is why many builds mix pressure-treated posts and rails with cedar pickets for the visible surface — a reasonable middle ground between cost and appearance.
+## Step 1: Check Rules and Property Lines
 
-## Step 1: Check Property Lines and Call Before You Dig
+- **Property line:** find your survey pins or plat, or hire a surveyor if unsure. Building even a few inches over a line can cause disputes.
+- **Permits and height limits:** many towns limit fence height (often lower in front yards) and require permits.
+- **HOA rules:** styles, colors and which side faces out are often regulated.
+- **Neighbors:** a conversation now avoids problems later. Many areas expect the finished side to face outward.
+- **Utilities:** in the US, call 811 a few days before digging to have buried lines marked. It's free.
 
-Confirm your property line before setting any posts — a fence built even a few inches over a boundary can become a real dispute with neighbors. In the US, call 811 (or your local utility locating service) before digging; it's free and prevents you from hitting buried gas, electric, or water lines.
+## Materials and Quantities
 
-## Step 2: Plan Post Spacing
+| Item | Typical choice | Quantity (per 8-ft section) |
+|---|---|---|
+| Posts | 4x4 pressure-treated rated for ground contact, 8 ft long | 1 per section, plus 1 at each end, corner and gate |
+| Rails | 2x4 pressure-treated, 8 ft | 3 for a 6-ft fence (top, middle, bottom) |
+| Pickets | 1x6 cedar or pressure-treated, 6 ft | About 17 with no gaps; fewer with gaps |
+| Concrete | Fast-setting or standard concrete mix | Often 1–2 bags per post, depending on hole size |
+| Gravel | Crushed stone | A few inches under each post |
+| Fasteners | Hot-dip galvanized or stainless screws or ring-shank nails | Rated for treated lumber |
 
-Space posts 6-8 feet apart on center. Wider spacing needs thicker rails to avoid sagging. Use a string line between end points to keep the entire run straight, and mark each post location with a stake. If your yard has any slope, decide upfront whether you want a stepped fence (each section stays level, with a step down between sections) or a racked fence (pickets follow the slope continuously) — this decision affects how you cut pickets later, so it's worth settling before you dig a single hole.
+**Wood choice:** pressure-treated lumber rated for ground contact is standard for posts. Cedar pickets resist rot naturally and look better when left exposed, so a common combination is treated posts and rails with cedar pickets. Use fasteners rated for contact with treated wood; uncoated steel corrodes quickly.
 
-## Step 3: Dig and Set the Posts
+## Tools
 
-Dig each hole about 1/3 the height of the post (so a 6-foot fence needs roughly 2-foot-deep holes), plus a few inches for a gravel base to help drainage. Set the post, check it's plumb on two adjacent sides with a level, then pour in fast-setting concrete according to the product's instructions. Brace the post with scrap wood stakes while the concrete cures — most products set enough to remove bracing in about 4-6 hours, though full cure takes longer.
+- Post-hole digger or rented power auger
+- Digging bar for rocks and roots
+- String line, stakes, line level, tape measure
+- 4-ft level and post level
+- Circular saw, drill/driver or [impact driver](/blog/impact-driver-vs-drill/), speed square
+- Wheelbarrow, shovel, scrap lumber for bracing
+- Gloves, eye and hearing protection
 
-## Step 4: Let the Concrete Cure Fully
+## Step 2: Lay Out the Fence Line
 
-Don't attach rails until the concrete has fully cured — check the product packaging, but this is typically 24-48 hours. Rushing this step risks knocking a post out of plumb while it's still setting.
+Drive stakes at the ends and corners and run a tight string between them, a few inches off the ground. Mark post locations along the string, no more than 8 feet apart on center; closer spacing makes a stronger fence and reduces rail sag. Adjust spacing so sections come out even, and plan gate openings now (gate width plus room for hinges and latch).
+
+**Slopes:** decide early between a **stepped** fence (level sections that step down) and a **racked** fence (rails and pickets follow the slope).
+
+| Style | Looks | Best for |
+|---|---|---|
+| Stepped | Level, formal sections with gaps under each step | Gentle, even slopes; prefab panels |
+| Racked | Follows the ground smoothly | Rolling ground; picket-by-picket builds |
+
+## Step 3: Dig the Holes
+
+- Depth: about a third of the post's above-ground height, so roughly 2–3 feet for a 6-foot fence, and deeper than your local frost line where the ground freezes.
+- Diameter: about three times the post width (around 10–12 inches for a 4x4).
+- Add 3–4 inches of gravel at the bottom and tamp it for drainage.
+
+In rocky soil, a digging bar breaks up stones; if a spot hits solid rock, shifting the post a few inches is usually faster than fighting it.
+
+## Step 4: Set the Posts
+
+1. Set the end and corner posts first. Place each on the gravel and check plumb on two adjacent faces.
+2. Brace each post with two scrap boards staked at angles.
+3. Fill with concrete per the bag instructions, leaving the top slightly domed so water runs away from the post.
+4. Run a second string between end posts at the top-of-post height, and set line posts to it.
+5. Let the concrete cure as the product directs before loading posts with rails; many fast-setting mixes allow light work within hours but gain strength over several days.
+
+Posts can be cut to final height after setting, using a line to mark them all evenly.
 
 ## Step 5: Attach the Rails
 
-Attach a top and bottom rail (and a middle rail for fences taller than 6 feet) between each pair of posts, either by face-mounting with brackets or notching the posts. Check each rail is level before securing it — small errors compound quickly across a long fence run.
+Install the top and bottom rails (and a middle rail for 6-foot fences) between posts. Keep the bottom rail a few inches above ground so it stays dry. Rails can sit on the face of the posts or between them using galvanized rail brackets. Check that each rail is level (or follows the slope on a racked fence) before fastening. Stagger rail joints on alternate posts for strength if rails span more than one section.
 
 ## Step 6: Attach the Pickets
 
-Starting from one end, attach pickets to the rails with consistent spacing (a scrap block of wood cut to your desired gap width makes a quick, repeatable spacer). Use a level every few pickets to catch any drift in height before it becomes visible across the whole fence.
+Start at one end with a plumb picket. Use a scrap block as a spacer for consistent gaps, or butt pickets tight for full privacy (wood shrinks, so small gaps may appear). Keep the bottom of pickets an inch or two above the soil to limit rot. Check plumb every few pickets, and run a string along the tops to keep the line straight. Fasten each picket with two fasteners at each rail.
 
-## Step 7: Build the Gate (If Needed)
-
-A gate needs a slightly sturdier frame than a standard section — diagonal bracing across the frame prevents it from sagging over time, which is the most common gate failure. Use heavy-duty hinges rated for the gate's weight, plus a self-latching mechanism.
+## Step 7: Build and Hang the Gate
 
 ![A wood fence gate with hinges and a latch](../../assets/blog/wood-fence-build.jpg)
 
+- Set gate posts deeper and with extra concrete; they carry the most load.
+- Build a rectangular frame with a diagonal brace running from the bottom hinge side up to the top latch side, which keeps the gate from sagging.
+- Use heavy-duty hinges rated for the gate's weight and a self-closing latch.
+- Leave about ½ inch between gate and posts for swing and wood movement.
+
 ## Finishing
 
-Let pressure-treated wood weather for a few weeks to a couple of months before staining or sealing — fresh pressure-treated lumber is often too saturated with moisture for stain to properly absorb. Cedar can typically be sealed sooner. A simple water-bead test tells you when treated wood is ready: sprinkle a few drops on the surface, and if they soak in quickly rather than beading up, the wood has dried enough to accept a finish.
+Pressure-treated wood often needs to dry for several weeks or more before it accepts stain; cedar can usually be finished sooner. Sprinkle water on the wood: if it soaks in, it's ready; if it beads, wait. The prep steps in our [deck cleaning guide](/blog/how-to-clean-a-deck-before-staining/) apply to fences too. A penetrating exterior stain with UV protection generally lasts longer than paint on rough fence boards.
 
-## Setting Posts on a Slope or in Rocky Soil
+## Troubleshooting
 
-Sloped yards and rocky soil are the two most common complications beyond a standard flat, diggable yard. On a slope, plan your post heights so the top rail either steps down section by section or follows the grade continuously, and set a string line at the intended top-of-fence height before digging so every post gets cut to the correct final height rather than guessed at after the fact. In rocky soil, a post hole digger alone may not cut it — a gas-powered auger saves significant time and effort, though even that can hit larger buried rocks that need to be worked around or removed by hand. If a hole location repeatedly hits rock, it's usually faster to shift the post a few inches than to fight the same spot indefinitely.
+| Problem | Likely cause | Fix |
+|---|---|---|
+| Post leaning | Shallow hole, not braced during curing, soft soil | Reset deeper; brace until cured |
+| Posts heaved after winter | Hole above frost line | Reset below frost depth |
+| Rails sagging | Posts too far apart, undersized rails | Add a post or a support block at mid-span |
+| Wavy top line | No string line on pickets | Trim tops to a string line |
+| Pickets rotting at the bottom | Touching soil | Keep a gap; add a rot board along the bottom |
+| Gate sagging | No diagonal brace or brace installed the wrong way | Brace from bottom hinge side to top latch side |
 
-## Maintenance Over the Fence's Life
+## Maintenance
 
-A wood fence needs periodic attention to get a long lifespan out of it. Check posts every year or two for any wobble at the base, which can indicate the concrete footing has cracked or the post itself has started rotting below the soil line — a problem much easier to catch early than after a whole section leans. Reapply stain or sealant every few years depending on your climate and how much direct sun and rain the fence gets; a fence in full sun with no cover will need refinishing more often than one in a shadier yard. Trim back any vegetation growing directly against the fence line, since plants held tight against wood trap moisture and accelerate rot in exactly the spots you can't easily see.
+- Check posts yearly for wobble or rot at ground level.
+- Re-tighten or replace loose fasteners.
+- Refinish every few years, depending on sun and climate.
+- Keep plants, soil and mulch away from the bottom of pickets.
+- Lubricate gate hinges and adjust latches as the wood moves.
 
-## Common Mistakes to Avoid
+## FAQ
 
-Skipping the call-before-you-dig step is the most consequential mistake on this list — hitting a buried utility line is a real safety risk and can be expensive to repair, and it's entirely avoidable with a free phone call. Not letting concrete cure fully before attaching rails is a close second, since a post knocked out of plumb while the concrete is still green is much harder to fix than to simply wait an extra day. And underestimating post depth for your local frost line is a mistake that won't show up until the following winter, when frost heave can push an under-set post out of the ground — check your local building code for the minimum recommended post depth in your climate before digging.
+### How deep should fence posts be?
 
-**Related reading:** [Circular Saw vs. Track Saw: Which One Do You Actually Need?](/blog/circular-saw-vs-track-saw/) and [Impact Driver vs. Drill: What's the Real Difference?](/blog/impact-driver-vs-drill/).
+A common guideline is about a third of the above-ground height, and below the frost line in cold climates. For a 6-foot fence, that's often 2–3 feet or more. Check local code.
+
+### How far apart should fence posts be?
+
+No more than 8 feet on center for most wood fences; 6 feet is stronger and suits heavier pickets.
+
+### Should fence posts be set in concrete?
+
+Concrete is the most common method for privacy fences. Some builders use compacted gravel instead for better drainage. Either way, the post must be plumb and firmly set.
+
+### Which side of the fence faces the neighbor?
+
+Many local rules or customs call for the finished side facing out. Check your town and HOA rules.

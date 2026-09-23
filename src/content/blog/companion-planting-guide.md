@@ -1,74 +1,119 @@
 ---
 title: "The Beginner's Guide to Companion Planting"
-description: "Which vegetables, herbs, and flowers actually help each other grow — and which combinations to avoid in your garden beds."
+description: "Which vegetables, herbs and flowers grow well together and why, which pairings to avoid, how strong the evidence is, and how to plan a companion-planted bed."
 pubDate: 2026-06-28
+updatedDate: 2026-09-23
 category: gardening
 tags: ["companion planting", "vegetable garden", "beginner"]
 heroImage: "../../assets/blog/companion-planting-hero.jpg"
 ---
 
-Companion planting is the practice of growing certain plants near each other because they help one another — repelling pests, improving flavor, attracting pollinators, or making better use of space. It's not folklore; a lot of it comes down to basic pest ecology and root structure.
+Companion planting means growing plants near each other because the combination helps: pests are confused or distracted, beneficial insects move in, space and light are used more efficiently, or one plant supports another. Some pairings rest on well-understood ecology; others are traditional garden wisdom with thinner evidence. Knowing the difference helps you plan a bed that actually works instead of following a chart blindly.
 
-## Classic Combinations That Work
+**Quick answer:** Start with pairings that have a clear mechanism: tall crops shading lettuce, fast radishes between slow crops, beans and corn sharing space, flowers like alyssum, dill and calendula drawing in predatory insects, and nasturtiums as trap crops for aphids. Group plants by sun and water needs first, give each its mature spread, keep potatoes and tomatoes apart to limit shared disease, and rotate crop families every year.
 
-**Tomatoes + Basil + Marigolds.** Basil is thought to improve tomato flavor and repel aphids and hornworms, while marigolds release compounds in the soil that deter nematodes. This trio is the most reliable starting point for new vegetable gardeners.
+## How Companion Planting Works
+
+| Mechanism | How it helps | Examples |
+|---|---|---|
+| Habitat for beneficial insects | Flowers feed predators and parasitic wasps that eat pests | Sweet alyssum, dill, fennel (in its own spot), yarrow, calendula |
+| Trap cropping | A plant pests prefer draws them away from the main crop | Nasturtiums for aphids, radishes for flea beetles |
+| Masking or confusion | Strong scents and mixed plantings make crops harder for pests to find | Onions or garlic near carrots |
+| Physical support and shade | Tall plants support climbers or shade heat-sensitive crops | Corn for pole beans; tomatoes shading lettuce |
+| Efficient use of space and time | Fast and slow crops share a bed | Radishes or lettuce between tomatoes or peppers |
+| Soil benefits | Legumes host nitrogen-fixing bacteria; diverse roots improve soil | Beans and peas, especially when plant residue is returned to the soil |
+
+## How Strong Is the Evidence?
+
+| Pairing | Evidence | Notes |
+|---|---|---|
+| Flowering plants for beneficial insects | Good | Well supported by research on insect habitat |
+| Trap crops like nasturtiums | Moderate | Works when trap plants are monitored and pests removed |
+| Three Sisters (corn, beans, squash) | Good for space use | A traditional Indigenous system; best with suitable varieties and spacing |
+| Onions deterring carrot fly | Mixed | Some effect in close interplanting; row covers are more reliable |
+| Marigolds and nematodes | Moderate for specific types | French marigolds grown as a dense cover crop help most; a few plants have little effect |
+| Basil improving tomato flavor | Weak | Mostly tradition, but basil does no harm |
+
+## Classic Combinations Worth Trying
+
+**Tomatoes + basil + marigolds.** A popular, easy trio. The flowers attract pollinators and beneficial insects, and basil fits beneath tomatoes. Don't expect it to stop pests alone.
 
 ![Marigold flowers planted next to young tomato seedlings in garden soil](../../assets/blog/companion-planting-marigolds.jpg)
 
-**Carrots + Onions.** Onions mask the scent that carrot flies use to find their target crop, and carrots don't compete with onions for the same soil nutrients.
+**Carrots + onions or leeks.** Alternating rows may make carrots harder for carrot flies to find. A fine insect mesh cover is the dependable backup.
 
-**Corn + Beans + Squash** (the "Three Sisters"). Corn gives beans something to climb, beans fix nitrogen in the soil that corn and squash both use, and squash's broad leaves shade out weeds and retain soil moisture.
+**Corn + beans + squash (Three Sisters).** Corn supports pole beans, squash leaves shade the soil and suppress weeds, and beans add diversity. Plant corn first so it's tall enough before beans climb, and give the planting plenty of room.
 
-**Lettuce + Tall Vegetables.** Planting lettuce in the shade of taller plants like [tomatoes](/blog/how-to-grow-tomatoes-in-pots/) or corn keeps it from bolting in hot weather.
+**Lettuce + tall crops.** Lettuce planted on the shady side of tomatoes, trellised cucumbers or corn stays cooler and bolts later in summer.
 
-**Radishes + Cucumbers or Squash.** Radishes are thought to distract cucumber beetles away from the vining crop, and since radishes mature so quickly, they're harvested and out of the way before the cucumbers or squash need the extra space.
+**Radishes + slow crops.** Radishes mature in weeks and are harvested before carrots, squash or cucumbers need the space.
 
-**Nasturtiums + Almost Anything.** Nasturtiums act as a "trap crop," drawing aphids to themselves and away from nearby vegetables. They're also edible, easy to grow from seed, and tolerate poor soil better than most flowers, making them a low-effort addition to any bed.
+**Nasturtiums as a trap crop.** Aphids often prefer them over nearby vegetables. Check them regularly and remove heavily infested stems.
 
-## Why Companion Planting Actually Works
-
-The mechanisms behind these pairings generally fall into a handful of categories: pest confusion (strong-smelling plants like onions or herbs mask the scent cues pests use to find their target crop), trap cropping (a sacrificial plant that pests prefer, pulling pressure away from your main crop), physical structure (tall plants providing shade or a climbing surface for others), and soil chemistry (nitrogen-fixing plants like beans enriching soil for heavy feeders planted nearby). Understanding which category a pairing falls into makes it easier to improvise combinations beyond a fixed list — if you know onions work by scent confusion, you can reasonably guess that other alliums like [garlic](/blog/how-to-plant-garlic-in-fall/) or chives will have a similar effect.
+**Flower strips for beneficial insects.** A border of alyssum, calendula, cosmos or yarrow brings in hoverflies, lacewings and parasitic wasps.
 
 ## Combinations to Avoid
 
-- **Beans near onions or garlic** — alliums stunt bean growth.
-- **Tomatoes near corn** — both attract the corn earworm, which happily moves between the two.
-- **Potatoes near tomatoes or squash** — all three are susceptible to blight, and planting them close together increases the risk of it spreading.
+| Avoid | Why |
+|---|---|
+| Potatoes near tomatoes | Same family; share late blight and other diseases |
+| Beans or peas next to onions and garlic | Traditional advice that alliums slow legume growth; spacing them apart is easy |
+| Fennel in a mixed bed | Grows large and competes; plant it separately |
+| Tomatoes next to corn | Both host the corn earworm (tomato fruitworm) |
+| Squash crowding low crops | Big leaves shade out small plants by midsummer |
+| Mint in open beds | Spreads aggressively; grow in containers |
+| Brassicas planted in the same spot every year | Builds up pests and clubroot; rotate |
 
-## Quick-Reference Companion Planting Chart
+Dill and carrots are in the same family and can attract some of the same pests, so many gardeners keep mature dill a short distance from carrots. Young dill near carrots is generally fine.
 
-Bookmark this for planning day — it covers the most common vegetables and the pairings that actually hold up.
+## Quick-Reference Chart
 
-| Plant | Good Companions | Avoid Planting Near |
-| --- | --- | --- |
-| Tomatoes | Basil, marigolds, carrots, onions | Corn, potatoes, fennel |
-| Carrots | Onions, leeks, rosemary, sage | Dill (mature), parsnips |
-| Cucumbers | Beans, corn, radishes, sunflowers | Aromatic herbs, potatoes |
-| Peppers | Basil, onions, spinach, carrots | Fennel, kohlrabi |
-| Beans | Corn, squash, cucumbers, celery | Onions, garlic, chives |
+| Plant | Good companions | Keep apart from |
+|---|---|---|
+| Tomatoes | Basil, marigolds, lettuce, carrots, onions | Potatoes, corn, fennel |
+| Carrots | Onions, leeks, lettuce, radishes, rosemary | Mature dill, parsnips |
+| Cucumbers | Beans, radishes, dill, nasturtiums | Potatoes |
+| Peppers | Basil, onions, spinach, carrots | Fennel |
+| Beans | Corn, squash, cucumbers, carrots | Onions, garlic, chives |
 | Squash | Corn, beans, radishes, nasturtiums | Potatoes |
-| Onions | Carrots, beets, lettuce, tomatoes | Beans, peas, asparagus |
-| Lettuce | Carrots, radishes, tall plants for shade | Broccoli, other brassicas |
-| Potatoes | Beans, corn, cabbage, marigolds | Tomatoes, squash, sunflowers |
+| Onions and garlic | Carrots, beets, lettuce, tomatoes | Beans, peas |
+| Lettuce | Carrots, radishes, taller crops for shade | Very aggressive spreaders |
+| Potatoes | Beans, corn, cabbage | Tomatoes, squash |
 
-This isn't exhaustive — regional growing conditions and specific varieties can shift things — but it's a solid starting point for a first layout.
+Treat this as a starting point. Local conditions, varieties and pests matter more than any universal chart.
 
-## Herbs and Flowers Worth Tucking In
+## Plan Your Layout
 
-Beyond the classic vegetable pairings, a handful of herbs and flowers pull more than their weight throughout the bed. Dill and fennel attract beneficial predatory insects like ladybugs and parasitic wasps that help control aphid populations, though dill should be kept away from carrots once it matures since the two cross-pollinate and can affect flavor. Borage is popular with pollinators and is often planted near strawberries and squash to boost fruit set. Chamomile, planted sparingly, is sometimes credited with improving the vigor of nearby plants, though its effect is subtler than something like marigolds' pest deterrence.
+1. **Sketch the bed** and note sun, shade and water access.
+2. **Group by needs first:** plants sharing sun and water needs go together; chart pairings come second.
+3. **Allow for mature size.** Check spacing on the seed packet, not seedling size.
+4. **Layer in quick crops** like radishes, lettuce and spinach between slow ones.
+5. **Add flowers** at bed ends or along edges for beneficial insects.
+6. **Rotate crop families** each year: tomatoes and potatoes, brassicas, legumes, alliums, squash and cucumbers. [Raised beds](/blog/how-to-build-a-raised-garden-bed/) make rotation easy to track.
+7. **Keep notes or photos** of what grew where.
 
-Interplanting flowers isn't just about companion effects, either — a bed with flowering plants mixed among the vegetables draws in more pollinators overall, which benefits every fruiting plant nearby, not just the ones directly next to the flowers.
+## Containers and Small Spaces
 
-## Spacing and Timing Considerations
+The same principles apply in pots, but space is tight. Pair a main crop with a small companion, such as a tomato with basil or a pepper with a few marigolds. Avoid putting two vigorous plants in one container. See our guide to [growing tomatoes in pots](/blog/how-to-grow-tomatoes-in-pots/) for container sizes.
 
-Companion planting only works if the plants involved can actually coexist physically. A common mistake is planting a fast-spreading vine like squash too close to a slower-growing companion, only to have the squash's broad leaves shade it out completely by midsummer. Check mature spread, not just seedling size, before finalizing a layout.
+## Other Ways to Reduce Pests
 
-Timing matters too. Succession planting — staggering a fast-maturing companion like radishes or lettuce alongside a slower one like tomatoes or peppers — lets you harvest the quick crop before the slower one needs the space, effectively doubling up on a single bed without overcrowding either plant.
+Companion planting works best alongside other good practices: healthy soil with compost, [correct soil pH](/blog/how-to-test-soil-ph/), crop rotation, row covers during peak pest periods, and regular checks so problems are caught early.
 
-## How to Plan Your Layout
+## FAQ
 
-Sketch your bed before planting season starts. Group plants by their water and sun needs first, then layer in companion pairings — a companion planting chart won't help if the two plants also need completely different amounts of water. Rotate your layout each year to avoid depleting the same nutrients from the same spot in the soil, and keep a simple record (even just a photo of your sketch) so next year's rotation is easy to plan without relying on memory.
+### Does companion planting really work?
 
-If you're gardening in containers rather than in-ground beds, most of these principles still apply, though you'll need to be more conservative about pairing aggressive spreaders with anything else in the same pot — container space is limited enough that even friendly companions can end up competing for root room.
+Some pairings have good support, especially flowers for beneficial insects and smart use of space. Others are more tradition than science. It's a helpful tool, not a guarantee.
 
-Companion planting isn't a guarantee against pests or disease, but it stacks the odds in your favor while making better use of a small garden footprint.
+### What's the best companion for tomatoes?
+
+Basil and flowers like marigolds or alyssum are easy, popular companions. Keep potatoes and corn away.
+
+### Can I plant garlic next to tomatoes?
+
+Yes, many gardeners do. Just keep garlic and onions away from beans and peas. See our guide to [planting garlic in fall](/blog/how-to-plant-garlic-in-fall/).
+
+### Do marigolds keep pests away?
+
+They attract beneficial insects and pollinators. Their effect on soil nematodes comes mainly from dense plantings of certain French marigold varieties, not from a few plants scattered around.

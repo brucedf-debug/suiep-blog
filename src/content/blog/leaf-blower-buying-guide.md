@@ -1,47 +1,114 @@
 ---
 title: "Leaf Blower Buying Guide: Corded, Cordless, or Gas?"
-description: "How to pick the right leaf blower type and power class for your yard size, before fall cleanup season hits full swing."
+description: "Corded vs. cordless vs. gas, handheld vs. backpack, what CFM and MPH really mean, runtime, noise rules and which blower fits your yard size."
 pubDate: 2026-09-02
+updatedDate: 2026-09-23
 category: tools-reviews
 tags: ["leaf blower", "buying guide", "yard tools", "fall cleanup"]
 heroImage: "../../assets/blog/pool/tools-reviews/pair-01-hero.jpg"
 ---
 
-Fall cleanup season is when most people realize their rake alone isn't cutting it anymore, and that's exactly when leaf blower prices tend to creep up too. Picking the right one now, before the leaves are actually falling, saves you from an overpriced, underpowered impulse buy later. Here's what actually separates the options.
+Fall is when many people realize a rake alone isn't keeping up, and it's also when blowers get bought on impulse. The right one depends less on brand than on three questions: how much ground you cover, how long a typical session lasts, and how much noise and maintenance you're willing to live with. This guide is based on how the different types work, what manufacturers publish, and the practical trade-offs between them, so you can match a blower to your yard instead of to the biggest number on the box.
+
+**Quick answer:** For most suburban yards, a cordless handheld blower with a spare battery is the best balance of power, weight and convenience. Choose corded only for small, open lots near an outlet. Choose a battery or gas backpack for large properties, heavy tree cover or long sessions. When comparing models, look at CFM (air volume) first, then weight, runtime and noise.
+
+## The Three Power Types Compared
+
+| | Corded electric | Cordless battery | Gas |
+|---|---|---|---|
+| **Upfront cost** | Lowest | Moderate; higher with extra batteries | Moderate to high |
+| **Weight** | Lightest | Light to moderate (battery adds weight) | Heaviest |
+| **Runtime** | Unlimited | Often about 10–40 minutes per battery, depending on power setting | Unlimited with fuel |
+| **Noise** | Low to moderate | Low to moderate | Loud |
+| **Maintenance** | Almost none | Charge and store batteries properly | Fuel, spark plug, air filter, winterizing |
+| **Range** | Limited by cord length | Anywhere | Anywhere |
+| **Best fit** | Small lots, patios, driveways | Most suburban yards | Large lots, heavy leaves, long sessions |
 
 ## Corded Electric: Cheapest and Lightest, With a Catch
 
-Corded blowers are the least expensive way into powered leaf clearing, and they're usually the lightest to carry since there's no battery or gas tank to haul around. The obvious limit is the cord itself — you're tethered to an outlet, which makes them a poor fit for anything beyond a small front yard or a patio. Dragging an extension cord around trees and flower beds gets old fast, and stepping on the cord mid-job is a common annoyance. If your lot is small and mostly open, though, a corded model gets the job done for the least money.
+Corded blowers are the least expensive way into powered leaf clearing and are usually the lightest to carry. The limit is the cord: you're tied to an outlet, and dragging 100 feet of extension cord around trees and beds gets tiring fast. For a small, open yard, a patio or a driveway, though, a corded model does the job for the least money and never runs out of charge. Use an outdoor-rated extension cord of the gauge recommended in the manual; an undersized cord can overheat and reduce power.
 
-## Cordless Battery: The Middle Ground Most Homeowners Land On
+## Cordless Battery: Where Most Homeowners Land
 
-Battery-powered blowers have gotten a lot more capable in the past few years, and for a typical suburban yard they're usually the best balance of power, weight, and convenience. No cord to manage, no gas or oil to mix, and far less noise than a gas engine — quiet enough that you won't get dirty looks from neighbors at 8 a.m. The tradeoff is runtime: most battery blowers give you 15 to 30 minutes per charge depending on the power setting, so a second battery is worth budgeting for if your yard has a lot of ground to cover. If you already own other tools on the same battery platform, buying a blower in that same ecosystem saves real money since you're not paying for another charger and pack.
+Battery blowers have become capable enough for typical suburban yards. There's no cord, no fuel to mix and far less noise than a gas engine. The trade-off is runtime. Running on the highest or "turbo" setting drains a battery much faster than the standard setting, so a single pack may not finish a large yard.
+
+- **Budget for a second battery** if a full cleanup takes more than 20–30 minutes.
+- **Stay in one battery platform.** If you already own drills or trimmers from a brand, a blower on the same batteries saves the cost of another charger and pack.
+- **Check battery voltage and capacity together.** Higher voltage often means more power; higher amp-hours (Ah) means longer runtime.
 
 ![A person using a handheld leaf blower to clear leaves from a lawn](../../assets/blog/pool/tools-reviews/pair-01-inline.jpg)
 
-## Gas-Powered: More Power, More Maintenance
+## Gas-Powered: Most Power, Most Upkeep
 
-Gas blowers still win on raw power and unlimited runtime — you're only limited by how much fuel you're willing to carry. That makes them the right call for large properties, thick leaf cover, or professional-level use. The downside is real: they're louder, heavier, need fuel mixed and stored properly, and require basic small-engine maintenance like fresh gas and occasional spark plug checks to keep running well. Many neighborhoods and even some municipalities have started restricting gas blower use on noise or emissions grounds, so it's worth checking local rules before you buy one.
+Gas blowers still lead for raw power and unlimited runtime, which makes them the standard for large properties and professional use. The costs are real: they're loud, heavy, and need fuel mixed and stored correctly (for two-stroke engines), plus routine small-engine care like fresh fuel, spark plug checks and air filter cleaning. Fuel left in the tank over winter is a common reason gas blowers won't start in spring, so run it dry or use stabilizer before storage.
 
-## Handheld vs. Backpack: Don't Overlook Comfort
+Some cities and HOAs restrict gas blowers to certain hours or have banned them entirely, so check local rules before buying one.
 
-For anything beyond a quick 15-minute job, arm fatigue from a handheld blower adds up fast. Backpack models shift the weight to your shoulders and hips, which makes a real difference on larger properties or longer sessions, even though they cost more upfront. If you're only ever doing a small patio or walkway, a handheld is plenty — save the backpack style for yards with real acreage or heavy tree cover.
+## Handheld vs. Backpack
 
-## What to Actually Check Before Buying
+| Style | Pros | Cons | Best for |
+|---|---|---|---|
+| Handheld | Lighter overall, cheaper, easy to store, quick jobs | Arm fatigue on long sessions | Sessions under about 30 minutes |
+| Backpack | Weight on shoulders and hips, more power, longer sessions | Costs more, bulkier, takes longer to put on | Large lots, heavy leaf cover |
+| Walk-behind (wheeled) | Very high power, little strain | Expensive, hard to maneuver, big storage footprint | Acreage and commercial use |
 
-Air volume (measured in CFM) and air speed (MPH) both matter, but CFM is the better predictor of how quickly you'll actually move a pile of [leaves](/blog/how-to-rake-leaves-efficiently/) — a blower with high MPH and low CFM will scatter leaves more than it clears them. Also check whether the unit has a variable speed trigger rather than just on/off; it makes a big difference for precision work like clearing mulch beds or getting leaves out of gravel without blasting it everywhere. Weight matters more than the spec sheet suggests too — try to get a sense of how a model feels held out at arm's length before committing, since a few extra pounds becomes very noticeable by the end of a full yard.
+## What the Specs Actually Mean
 
-## Blower/Vac Combo Units
+**CFM (cubic feet per minute)** measures how much air the blower moves. It's the best single predictor of how quickly it can push a pile of leaves.
 
-Many mid-range blowers double as a vacuum and mulcher with a quick attachment swap, sucking leaves into a shoulder bag and shredding them down to a fraction of their original volume on the way in. That's a real convenience if you're bagging leaves for curbside pickup or feeding them into a [compost pile](/blog/how-to-compost-at-home/), since mulched leaves break down far faster than whole ones. The tradeoff is a bit of extra weight and setup time for the vacuum tube and bag, so it's worth trying whether the swap is genuinely quick on the model you're considering rather than taking the spec sheet's word for it.
+**MPH** measures how fast the air leaves the nozzle. High speed helps lift wet or stuck leaves, but high MPH with low CFM tends to scatter leaves rather than move them.
 
-## Noise Levels and Local Rules
+**Newton force**, which some manufacturers list, combines the two into one "pushing power" number and can be a useful comparison within a brand.
 
-Gas blowers routinely run 90-something decibels at operator distance, loud enough that hearing protection is a real consideration, not just a nice-to-have. Battery and corded electric models are meaningfully quieter, which matters if you have close neighbors or live somewhere with posted quiet hours. Some cities and HOAs now restrict gas blower use to specific days or hours, and a small but growing number have banned gas models outright — a quick search for your city or county's noise ordinance before buying a gas unit can save you an unpleasant surprise later.
+Other features worth checking:
 
-## Matching Power Class to Yard Size
+- **Variable speed trigger or dial:** essential for gentle work around mulch, gravel and flower beds.
+- **Cruise control:** lets you set a speed without holding the trigger down.
+- **Nozzle options:** a flat nozzle concentrates air for stuck leaves; a round one moves bigger volumes.
+- **Balance and weight:** a blower that tips forward tires your wrist. Hold one in a store if you can, at arm's length.
+- **Noise rating (dB):** matters for your hearing and your neighbors.
 
-- **Small yard or patio (under a quarter acre):** a corded or entry-level battery handheld is plenty, and you'll appreciate the lighter weight.
-- **Typical suburban lot:** a mid-power battery handheld with a spare battery covers most fall cleanups without running out of charge mid-job.
-- **Large lot or heavy tree cover:** a backpack battery unit or a gas model gives you the runtime and power to actually finish before you're worn out.
-- **Multiple properties or professional-level use:** gas backpack blowers remain the standard for a reason — unmatched runtime and power once you're covering serious ground.
+## Blower/Vac/Mulcher Combos
+
+Many blowers convert into a vacuum that sucks leaves through an impeller, shreds them and collects them in a bag. Shredded leaves take up a fraction of their original volume and break down much faster in a [compost pile](/blog/how-to-compost-at-home/) or as mulch. The trade-offs: extra weight, a bag that fills quickly, and slower work on large areas. Metal impellers tend to hold up better than plastic ones if you vacuum often. Combos work best for patios, beds and corners rather than whole lawns.
+
+## Noise, Hearing and Local Rules
+
+Gas blowers are loud enough at the operator's position that hearing protection is recommended, and many manufacturers say so in the manual. Battery and corded models are noticeably quieter, which matters if you have close neighbors or live under quiet-hour rules. Wear eye protection with any blower, since grit and small debris fly in unexpected directions.
+
+## Matching the Blower to Your Yard
+
+| Yard | Recommended setup |
+|---|---|
+| Patio, deck, driveway or small front yard | Corded or entry-level cordless handheld |
+| Typical suburban lot (up to about ½ acre) with a few trees | Mid-power cordless handheld plus a spare battery |
+| Larger lot or heavy tree cover | Cordless or gas backpack |
+| Acreage, multiple properties or professional use | Gas backpack or walk-behind |
+
+Whatever you buy, a blower works best alongside a rake and tarp for the final pile. Our guide to [raking leaves efficiently](/blog/how-to-rake-leaves-efficiently/) covers when to blow, rake or mulch-mow.
+
+## Common Buying Mistakes
+
+- **Choosing by MPH alone.** Air volume matters more for moving leaves.
+- **Ignoring battery cost.** Some "bare tool" prices don't include a battery or charger.
+- **Buying more power than you can hold comfortably.** A heavy blower you dread using doesn't save time.
+- **Skipping local rules.** A gas blower you're not allowed to use on weekends is a poor buy.
+- **Forgetting storage.** Batteries last longer stored indoors, away from extreme heat and cold.
+
+## FAQ
+
+### How many CFM do I need?
+
+It depends on leaf volume and yard size. For small yards and hard surfaces, a modest CFM rating is enough. For larger lawns and heavy leaf fall, higher-CFM handhelds or backpack models finish much faster. Compare CFM within the same measurement setting, since some brands quote turbo mode.
+
+### Is a battery blower powerful enough for wet leaves?
+
+Higher-powered battery models can move damp leaves, especially on a boost setting, but matted, soaked leaves are hard for any handheld blower. Raking works better for those, and waiting for a dry day helps most.
+
+### How long do blower batteries last?
+
+Per charge, runtime depends heavily on the power setting and battery capacity. Over its life, a lithium-ion battery gradually loses capacity; storing it partly charged in a cool, dry place helps it last.
+
+### Can I use a leaf blower to clean gutters?
+
+Some blowers offer gutter attachments, but working at height with a blower adds risk. Read our guide to [cleaning gutters safely](/blog/how-to-clean-gutters-safely/) before trying it.

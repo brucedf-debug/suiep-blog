@@ -1,55 +1,130 @@
 ---
 title: "How to Build a DIY Firewood Storage Rack"
-description: "A simple weekend build that keeps split firewood off the ground and covered on top, so this fall's woodpile actually seasons instead of rotting."
+description: "Build a covered, open-sided firewood rack that keeps wood off the ground and dries it faster: sizing and capacity, materials, posts, rails, roof, placement and loading tips."
 pubDate: 2026-09-09
+updatedDate: 2026-09-23
 category: diy-projects
 tags: ["firewood", "storage", "outdoor build", "beginner"]
 heroImage: "../../assets/blog/pool/diy-projects/pair-02-hero.jpg"
 ---
 
-A pile of firewood dumped straight on the lawn or against the side of the house dries slowly, rots from the bottom up, and turns into a magnet for termites and other pests you don't want anywhere near your foundation. A proper rack solves all of that with a handful of boards and an afternoon of work: it lifts the wood off damp ground, keeps rows loosely stacked for airflow, and gives you a roof to shed rain and snow without smothering the pile underneath. This is an open-sided ladder-style rack, the simplest and most forgiving design to build, and it scales easily to whatever amount of wood you actually burn through a season.
+Firewood dumped on the lawn or stacked against the house dries slowly, rots from the bottom and invites insects close to your foundation. A simple rack fixes all of that with a few boards and an afternoon: it lifts wood off damp ground, keeps rows in neat stacks with air moving through them, and adds a small roof that sheds rain without trapping humidity. This design is an open-front, covered rack that's easy to build and easy to extend.
+
+**Quick answer:** Build a frame from pressure-treated 4x4 posts and 2x4 rails, with the bottom rails several inches off the ground. Keep it about 16–18 inches deep so one row of split wood fits, leave the front and ideally the ends open for airflow, and add a sloped roof with a small overhang. An 8 × 4 ft rack holds roughly a face cord (about a third of a full cord). Place it in sun and wind, a few feet from the house.
+
+## Project Overview
+
+| Detail | Estimate |
+|---|---|
+| **Size (example)** | 8 ft long × 4 ft tall × 16–18 in deep |
+| **Capacity** | About a face cord (roughly ⅓ of a full cord) |
+| **Difficulty** | Beginner |
+| **Build time** | 4–6 hours (plus concrete curing if posts are set in the ground) |
+| **Main costs** | Treated lumber, roofing panels, screws |
+
+## Capacity at a Glance
+
+A full cord is 4 × 4 × 8 feet, or 128 cubic feet. Racks are usually one row deep, so capacity depends on length and height.
+
+| Rack (L × H, 16 in deep) | Approximate volume | Roughly |
+|---|---|---|
+| 4 × 4 ft | 21 cu ft | Small porch supply |
+| 8 × 4 ft | 43 cu ft | One face cord |
+| 8 × 6 ft | 64 cu ft | Half a cord |
+| 16 × 4 ft | 85 cu ft | Two face cords |
+| 24 × 4 ft (three sections) | 128 cu ft | One full cord |
+
+Our [firewood seasoning guide](/blog/how-to-season-and-store-firewood/) explains how much wood different uses need.
 
 ## What You'll Need
 
-- Pressure-treated 4x4 lumber (posts — pressure-treated matters here since these sit in direct contact with soil moisture over years)
-- 2x4 lumber (rails, cross-bracing, and the roof frame)
-- 1x4 or 1x6 boards, or corrugated metal roofing panels, for the top cover
-- Deck screws (3" and 2 1/2") and a handful of lag bolts for the main joints
-- Wood glue rated for exterior use (optional, but adds strength at load-bearing joints)
-- [Circular saw](/blog/circular-saw-vs-track-saw/) or handsaw
-- Post hole digger or auger, if setting posts in the ground
-- Gravel or concrete mix, if you're setting posts permanently
-- Drill, level, tape measure, square
-- Exterior stain or sealant
+**Materials (8 × 4 ft rack)**
+- 4x4 pressure-treated posts rated for ground contact: 4–6
+- 2x4 pressure-treated lumber for rails, cross pieces and rafters
+- Roofing: corrugated metal or polycarbonate panels, or 1x6 boards covered with roll roofing
+- Exterior screws (2½ and 3 in), a few structural screws or carriage bolts for main joints
+- Roofing screws with rubber washers (for panels)
+- Gravel, and concrete if setting posts in the ground
+- Exterior stain or sealer (optional)
 
-## Step 1: Decide on Size and Placement
+**Tools**
+- [Circular saw](/blog/circular-saw-vs-track-saw/), drill/driver or [impact driver](/blog/impact-driver-vs-drill/)
+- Level, speed square, tape measure
+- Post-hole digger (for in-ground posts)
+- Clamps, eye protection, gloves
 
-A rack roughly 8 feet long, 4 feet tall, and 16-18 inches deep holds close to half a cord of stacked wood, which is a reasonable size for most backyards and easy to size up or down by simply adding or removing sections along the length. Depth matters more than it seems: too shallow and rows tip over reaching for logs at the back, too deep and you're stacking wood that never sees airflow. Pick a spot a few feet away from the house itself, ideally somewhere that gets some sun and a breeze rather than a shaded, still corner, since both speed up seasoning meaningfully. Avoid low spots in the yard where water pools after rain, even with the rack raising the wood off the ground — a rack sitting in a puddle still fights an uphill battle.
+## Step 1: Pick the Spot
 
-## Step 2: Set the Posts
+| Choose | Avoid |
+|---|---|
+| Sun and breeze to speed drying | Deep shade and still corners |
+| Level, well-drained ground | Low spots where water pools |
+| A few feet away from the house | Stacking against siding (insects and moisture) |
+| Easy access from the door you use in winter | Long walks through snow |
+| Away from fire pits and grills | Close to open flames |
 
-Mark post locations along your chosen length, spacing them every 4 feet or so for a rack that won't sag under a full load of wood. For a permanent structure, dig holes roughly 18-24 inches deep, set the 4x4 posts in gravel or concrete, and check each one is plumb with a level before the concrete sets. If you'd rather keep things simpler or expect to move the rack later, you can skip digging entirely and instead bolt the posts to a treated 4x4 sill resting directly on a level, well-drained spot — less permanent, but plenty stable for a rack that isn't holding an enormous amount of weight. Either way, let concrete cure fully before loading any weight onto the posts.
+## Step 2: Choose a Base
 
-## Step 3: Build the Side Rails and Back
+| Option | Pros | Cons |
+|---|---|---|
+| Posts set in gravel or concrete | Very stable; permanent | More digging and curing time |
+| Freestanding frame on a treated sill or pavers | Movable, no digging | Must sit on level ground; less wind-resistant when empty |
+| Posts on concrete blocks or post bases | Keeps wood off soil | Needs careful leveling |
 
-Attach horizontal 2x4 rails to the front and back faces of the posts, one near the base and one near the top, running the full length of the rack. These rails are what actually contain the stacked wood and keep a row from spilling forward as it settles. On the back side, add one or two more rails between the base and top rail so wood stacked toward the rear has something to lean against — you don't need solid backing, just enough horizontal support to keep logs from rolling through gaps. Leave the front completely open; that open face is what lets you load and pull wood easily and is also a big part of what keeps air moving through the stack.
+For in-ground posts, dig holes about 18–24 inches deep (deeper where frost is severe), add gravel, set the posts plumb and fill with concrete or tamped gravel. Space posts no more than about 4 feet apart so rails and roof don't sag.
+
+## Step 3: Build the Base and Rails
+
+1. Attach bottom rails to the front and back of the posts, at least 4–6 inches above the ground.
+2. Add cross pieces between the front and back bottom rails every 16–24 inches. They carry the weight of the wood, so use 2x4s on edge or doubled boards.
+3. Attach top rails to the front and back, tying the posts together.
+4. Add one or two horizontal rails on the back to keep logs from rolling out, leaving gaps for airflow.
+
+Check the frame for square and level as you go.
 
 ![A simple wood-framed firewood rack with a slanted roof, stacked with split logs and open on the front side](../../assets/blog/pool/diy-projects/pair-02-inline.jpg)
 
-## Step 4: Add the Roof Frame
+## Step 4: Add the Roof
 
-Cut a set of 2x4 rafters that span the depth of the rack, angled slightly from back to front (or side to side, depending on your design) so rain and snow actually run off instead of pooling on a flat top. A slope of just an inch or two of drop over the depth of the rack is enough. Attach the rafters to the tops of the posts, spacing them every 16-24 inches along the length for a roof that won't sag once it's covered. If your rack is long, a center support post under the roofline keeps the span from bowing over time.
+- Make the back posts a few inches taller than the front (or cut rafters at an angle) so the roof slopes toward the front or back.
+- Attach 2x4 rafters every 16–24 inches across the depth of the rack.
+- Screw roofing panels to the rafters with washered roofing screws, or install boards and cover them with roll roofing.
+- Let the roof overhang the front and sides by several inches to keep rain off the top rows.
 
-## Step 5: Cover the Roof
+Keep the sides open. A roof with open sides is what dries wood; enclosing the rack traps humidity.
 
-Screw 1x6 boards edge to edge across the rafters for a simple wood roof, or use a corrugated metal or polycarbonate roofing panel for a cover that sheds water more reliably and needs no maintenance beyond an occasional check of the fasteners. Whichever material you choose, let the roof overhang the front and sides by an inch or two — a flush-cut roof lets wind-driven rain hit the top rows of wood directly, defeating a good chunk of the point of covering it at all. Keep the sides of the rack open the entire way; a wood roof paired with open sides is the combination that actually dries a woodpile, since a fully enclosed structure traps humidity instead of releasing it.
+## Step 5: Finish and Load
 
-## Step 6: Finish and Load It
+Seal cut ends of treated lumber with an end-cut preservative or exterior sealer. Stack split wood loosely, bark side up on the top layer, with small gaps between pieces for air. Put the driest wood at one end or in front, and add newly split wood behind it so you burn the oldest wood first. Leave a little space between the top of the stack and the roof.
 
-Give the frame a coat of exterior stain or sealant, focusing extra attention on cut ends and any spot where lumber meets the ground, since those are where rot typically starts first on an outdoor structure. Once it's dry, load the rack by stacking split wood loosely rather than jamming pieces in tight — the same airflow principle that dries a ground pile applies here, and a rack packed too densely won't season wood any faster than no rack at all. Stack the oldest, most-seasoned wood toward the front where it's easiest to grab, and work newer splits in behind it so you're naturally burning through wood in the order it dried.
+## Extending the Rack
 
-## Sizing Up for a Bigger Woodpile
+Add sections end to end, sharing a post between sections. One long rack uses less lumber than several separate ones. Many people build one section for wood that's ready to burn and a second for next year's wood that's still drying.
 
-If half a cord doesn't cover a full winter's use, the same design extends easily — add another 8-foot section end to end, sharing a post between sections, rather than building a second freestanding rack a few feet away. A continuous rack uses less lumber overall for the same total capacity and gives you one long, easy-to-navigate row instead of two separate piles competing for yard space. If you're not sure how much you'll need, it's easier to build one section this year and extend it next fall than to guess high and end up with an oversized structure taking up more yard than necessary.
+## Troubleshooting
 
-**Related reading:** [How to Season and Store Firewood So It Actually Burns Well](/blog/how-to-season-and-store-firewood/) and [How to Build a DIY Fire Pit With Pavers (No Mortar Required)](/blog/diy-backyard-fire-pit/).
+| Problem | Likely cause | Fix |
+|---|---|---|
+| Rack leans or racks sideways | Posts not set deeply, no bracing | Add diagonal braces at the ends; reset posts |
+| Base rails sagging | Cross pieces too far apart | Add supports every 16 in |
+| Top rows wet after storms | Roof too short or flat | Extend the overhang; increase slope |
+| Wood still damp after a season | Shade, tight stacking, green wood | Move to sun; stack loosely; split smaller |
+| Insects in the stack | Wood near the house or on soil | Keep the rack off the ground and away from the foundation |
+
+## FAQ
+
+### How far should a firewood rack be from the house?
+
+A few feet at minimum, and farther for the main supply. Bring small amounts to the door as needed. This limits moisture and insects near your walls.
+
+### Should a firewood rack be covered?
+
+Cover the top only. The sides should stay open so air moves through the stack.
+
+### How much wood does a rack hold?
+
+An 8-foot-long, 4-foot-high, single-row rack holds about a face cord. Three of those sections together hold about a full cord.
+
+### Can I use untreated lumber?
+
+For parts that touch the ground or stay damp, use treated lumber rated for ground contact. Untreated wood rots quickly under a woodpile.
